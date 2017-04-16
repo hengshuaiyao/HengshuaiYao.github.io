@@ -19,17 +19,6 @@ Hi, My name is Hengshuai Yao. Current I am working at Huawei Canada leading a te
 - Reinforcement learning for ranking. 
 - Learning to discover trending topics. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hengshuaiyao/HengshuaiYao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Reviewing
 - ACML 2017. Program Committee Member
 - NIPS 2017. reviewer.
