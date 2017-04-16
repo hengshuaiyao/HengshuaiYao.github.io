@@ -1,6 +1,6 @@
 ## Welcome!
 
-Hi, My name is Hengshuai Yao. Current I am working at Huawei Canada leading a team of 13 developing RL and DL robotics. Before that, I was building an AI system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar and Chihoon Lee.
+Hi, My name is Hengshuai Yao. Current I am working at Huawei Canada leading a team of 13 developing RL and DL based robots. Before that, I was building an AI system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar and Chihoon Lee.
 
 ## Research
 
