@@ -1,11 +1,11 @@
 ## Welcome!
 
-Hi, My name is Hengshuai Yao. Currently I am working at Huawei Canada leading a team of 13 developing RL and DL based robots. Before that, I was building an AI system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar and Chihoon Lee. I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
+Hi, My name is Hengshuai Yao. Currently I am leading a team developing RL and DL based robots at Huawei Canada. Before that, I was building an AI system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar and Chihoon Lee. I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
 
 ## Research
 
 ### Thesis
-Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. Ph.D thesis, 2015. pdf
+Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Action-model based RL
 
