@@ -1,6 +1,6 @@
 ## Welcome!
 
-Hi, My name is Hengshuai Yao. I am interested in reinforcement learning and deep learning based robotics. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari and Rich Sutton on model-based reinforcement learning. Current I am working at Huawei Canada leading a team of 13 developing RL and DL robotics. Before that, I was building an AI system for NCSoft in California.  
+Hi, My name is Hengshuai Yao. Current I am working at Huawei Canada leading a team of 13 developing RL and DL robotics. Before that, I was building an AI system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar and Chihoon Lee.
 
 ## Research
 
@@ -8,11 +8,16 @@ Hi, My name is Hengshuai Yao. I am interested in reinforcement learning and deep
 
 - Approximate Policy Iteration with Linear Action Models. 
 - Pseudo-MDPs. 
+- Multi-step linear Dyna style planning. 
 
 ### Temporal Difference Learning
 
 - Preconditioned TD learning. 
-- Two-time scale. 
+- Two-time scale update. 
+
+### Web Search
+- Reinforcement learning for ranking. 
+- Learning to discover trending topics. 
 
 **Bold** and _Italic_ and `Code` text
 
