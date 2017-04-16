@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Hengshuai Yao. I am leading a team developing robots that reasons in Reinforcement Learning and Deep Learning (at Huawei Canada). Before that, I was building an Artificial Intelligence system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar, Xinhua Zhang and Chihoon Lee. I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
+My name is Hengshuai Yao. I am leading a team developing robots that reason in Reinforcement Learning and Deep Learning (at Huawei Canada). Before that, I was building an Artificial Intelligence system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar, Xinhua Zhang and Chihoon Lee. I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
 
 ## Research
 
