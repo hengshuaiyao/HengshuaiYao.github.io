@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Hengshuai's homepage
 
-You can use the [editor on GitHub](https://github.com/hengshuaiyao/HengshuaiYao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, My name is Hengshuai Yao. I am interested in reinforcement learning and deep learning based robotics. When doing my Ph.D at University of Alberta, I was working with Csaba Szepesvari and Rich Sutton on model-based reinforcement learning. Current I am working at Huawei Canada leading a team of 13 developing RL and DL robotics. Before that, I was building an AI system for NCSoft in California.  
 
 ### Markdown
 
