@@ -1,23 +1,18 @@
-## Welcome to Hengshuai's homepage
+## Welcome!
 
-Hi, My name is Hengshuai Yao. I am interested in reinforcement learning and deep learning based robotics. When doing my Ph.D at University of Alberta, I was working with Csaba Szepesvari and Rich Sutton on model-based reinforcement learning. Current I am working at Huawei Canada leading a team of 13 developing RL and DL robotics. Before that, I was building an AI system for NCSoft in California.  
+Hi, My name is Hengshuai Yao. I am interested in reinforcement learning and deep learning based robotics. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari and Rich Sutton on model-based reinforcement learning. Current I am working at Huawei Canada leading a team of 13 developing RL and DL robotics. Before that, I was building an AI system for NCSoft in California.  
 
-### Markdown
+## Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Action-model based RL
 
-```markdown
-Syntax highlighted code block
+- Approximate Policy Iteration with Linear Action Models. 
+- Pseudo-MDPs. 
 
-# Header 1
-## Header 2
-### Header 3
+### Temporal Difference Learning
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Preconditioned TD learning. 
+- Two-time scale. 
 
 **Bold** and _Italic_ and `Code` text
 
