@@ -1,0 +1,32 @@
+.bap5 .bap-gray, .bap-gray:visited {
+	font-size: 95%;
+}
+
+.bap5 .bap-link-div {
+	background-color: #dcdcdc;
+	font-size: .8em;
+	padding: 3px 3px 4px 6px;
+}
+
+.bap5 {
+	font-size: 12px;
+	width: 190px;
+}
+
+.bap5 .bap-spacer-div {
+	height: 1px;
+}
+
+.bap5 p {
+	font-size: .8em;
+	margin: 3px 6px 0px 5px;
+	padding-bottom: 3px;
+	line-height: 13px;
+}
+
+.bap5 .bap-close {
+<!--[if lte IE 7]>
+	top: 0px;
+	left: 185px !important;
+<![endif]-->
+}

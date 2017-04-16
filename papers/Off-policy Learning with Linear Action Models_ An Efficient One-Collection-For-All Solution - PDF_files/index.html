@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!-- saved from url=(0086)https://s0.2mdn.net/6105110/1486587544395/Scotia_InvestSpec_Kathleen_320x50/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="ad.size" content="width=320,height=50">
+<title></title>
+<script type="text/javascript">
+	var clickTag = "http://www.google.com"; 
+</script>
+<script type="text/javascript" src="./tweenmax_1.18.0_499ba64a23378545748ff12d372e59e9_min.js"></script>
+<script type="text/javascript">
+    
+      (function() {
+        var relegateNavigation = '';
+        var handleClickTagMessage = function(e) {
+          try {
+            var eventData = JSON.parse(e.data);
+          } catch (err) {
+            return;
+          }
+          if (eventData.isInitClickTag) {
+            if (eventData.clickTags) {
+              for (var i = 0; i < eventData.clickTags.length; i++) {
+                var clkTag = eventData.clickTags[i];
+                window[clkTag.name] = clkTag.url;
+              }
+            } else if (eventData.clickTag) {
+              window.clickTag = eventData.clickTag;
+            }
+            relegateNavigation = eventData.relegateNavigation;
+          }
+        };
+
+        if (open.call) {
+          window.open = function(open) {
+            return function(url, name, features) {
+              if (relegateNavigation === 'parent') {
+                var message = {'clickTag': url, 'isPostClickTag': true};
+                parent.postMessage(JSON.stringify(message), '*');
+              } else {
+                var args = [url, name];
+                if (features) {
+                  args.push(features);
+                }
+                open.apply(window, args);
+              }
+            };
+          }(window.open);
+        }
+
+        if (window.addEventListener) {
+          window.addEventListener(
+              'message', handleClickTagMessage, false);
+        } else {
+          window.attachEvent('onmessage', handleClickTagMessage);
+        }
+      })();
+    
+  </script><style type="text/css">
+	img {
+		border: 0;
+	}
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		cursor: pointer;
+		border: 0;
+	}
+	.default{
+		position: absolute;
+		left:0;
+		top:0;
+	}
+	#mainContainer {
+		display: none;
+		cursor: pointer;
+	    position: absolute;
+		width: 320px;
+		height: 50px;
+		border: 1px solid black;
+		box-sizing: border-box;
+		background-color: #FFFFFF;
+		overflow: hidden;
+	}
+</style></head>
+
+<body>
+  <a href="javascript:window.open(window.clickTag)">
+	<div id="mainContainer" style="display: block;">
+		<img class="default" src="./t1.png" id="t1" style="transform: matrix(1, 0, 0, 1, -320, 0);">
+		<img class="default" src="./t2.png" id="t2" style="transform: matrix(1, 0, 0, 1, 0, 0); opacity: 0;">
+		<img class="default" src="./t3.png" id="t3" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+		<img class="default" src="./t4.png" id="t4" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+		<img class="default" src="./logo.png" id="logo" style="opacity: 1;">
+		<!-- <img class="default" src="cta.png" id="cta"> -->
+	</div>
+  </a>
+<script type="text/javascript">
+
+    window.onload = function() {
+		
+		var tl = new TimelineMax();
+
+		tl.from(t1, 1, { ease:Expo.easeOut, x: 320 });
+
+		tl.to(t1, 1, { ease:Expo.easeInOut, x: -320 }, "+=.75");
+		tl.from(t2, 1, { ease:Expo.easeInOut, x: 320 }, "-=1");
+
+		tl.to(t2, 1, { ease:Expo.easeInOut, alpha: 0 }, "+=1");
+		tl.from(logo, 1, { ease:Expo.easeOut, alpha: 0 }, "-=.5");
+		tl.from(t3, 1, { ease:Expo.easeOut, x: -320 }, "-=1");
+		tl.from(t4, 1, { ease:Expo.easeOut, y: 50 }, "+=1");
+
+		// tl.to(t3, 1, { ease:Expo.easeOut, alpha: 0 }, "+=1.5");
+		// tl.to(t4, 1, { ease:Expo.easeOut, alpha: 0 }, "-=1");
+
+		// tl.from(cta, .5, { ease:Back.easeOut, scale: 0, transformOrigin: "140px 25px" }, "-=.5");
+
+		console.log(tl.totalDuration());
+
+		mainContainer.style.display = "block";
+	}
+
+</script>
+
+</body></html>
