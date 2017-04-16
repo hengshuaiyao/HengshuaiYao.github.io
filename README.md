@@ -1,20 +1,17 @@
 ## Welcome!
 
-My name is Hengshuai Yao. I am leading a team developing robots that reasons in Reinforcement Learning and Deep Learning at Huawei Canada. Before that, I was building an AI system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar, Xinhua Zhang and Chihoon Lee. I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
+My name is Hengshuai Yao. I am leading a team developing robots that reasons in Reinforcement Learning and Deep Learning (at Huawei Canada). Before that, I was building an Artificial Intelligence system for NCSoft in California. When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar, Xinhua Zhang and Chihoon Lee. I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
 
 ## Research
 
 ### Thesis
-Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
+- Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Action-model based RL
-
 - Yao, H. and Szepesvari, Cs. [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. 
 - Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. 2014. [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA. 
 
 ### Dyna-style Planning
-Multi-step linear Dyna style planning. 
-
 - Yao, H., Sutton, R. S., Bhatnagar, S., Diao, D., and Szepesvari, Cs. [Dyna(k): A multi-step Dyna planning. Abstraction in Reinforcement Learning](papers/dynak.pdf). Montreal, Canada. June 2009. 
 - Yao, H., Bhatnagar, S., and Diao, D. [Multi-step linear Dyna-style planning](papers/multi-step-dyna.pdf). Advances in Neural Information Processing Systems (NIPS) 22, Vancouver, BC, Canada. 2009.
 - Yao, H. Linear least-squares Dyna-style planning. Technical Report TR11-04, Department of Computing Science, University of Alberta. 2011.
