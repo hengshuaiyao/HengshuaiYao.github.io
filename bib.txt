@@ -1,0 +1,65 @@
+@inproceedings{YaoSze14,
+    Abstract = {In this paper we introduce the concept of pseudo-MDPs
+to develop abstractions.
+Pseudo-MDPs relax the requirement that the transition kernel has to be a probability kernel.
+We show that the new framework captures many existing abstractions.
+We also introduce the concept of factored linear action models; a special case.
+Again, the relation of factored linear action models and existing works are discussed.
+We use the general framework to develop a theory for bounding the suboptimality of policies derived from pseudo-MDPs.
+Specializing the framework, we recover existing results.
+We give a least-squares approach and a constrained optimization approach of learning the factored linear model as well as efficient computation methods.
+We demonstrate that the constrained optimization approach gives better performance than the least-squares approach with normalization.
+},
+    Author = {Yao, H. and Szepesv{\'a}ri, {Cs}. and Pires, B.A. and Zhang, X.},
+    Booktitle = {IEEE ADPRL},
+    Date = {2014-10},
+    Date-Added = {2014-10-11 19:26:42 -0600},
+    Date-Modified = {2016-05-09 08:36:59 +0000},
+    Keywords = {factored linear models, reinforcement learning, Markov Decision Processes, function approximation, control, planning, control learning, abstraction, model-based RL, pseudo-MDPs},
+    Month = {October},
+    Pages = {189--197},
+    Pdf = {papers/ieee_adprl2014.pdf},
+    Title = {Pseudo-MDPs and Factored Linear Action Models},
+    Year = {2014}}
+  
+  @inproceedings{YaoSzeSuMoBha14,
+    Abstract = {We consider the problem of learning models of options for real-time abstract planning, in the setting where reward functions can be specified at any time and their expected returns must be efficiently computed. We introduce a new model for an option that is independent of any reward function, called the {\it universal option model (UOM)}. We prove that the UOM of an option can construct a traditional option model given a reward function, and the option-conditional return is computed directly by a single dot-product of the UOM with the reward function. We extend the UOM to linear function approximation, and we show it gives the TD solution of option returns and value functions of policies over options. We provide a stochastic approximation algorithm for incrementally learning UOMs from data and prove its consistency. We demonstrate our method in two domains. The first domain is document recommendation, where each user query defines a new reward function and a document's relevance is the expected return of a simulated random-walk through the document's references. The second domain is a real-time strategy game, where the controller must select the best game unit to accomplish dynamically-specified tasks. Our experiments show that UOMs are substantially more efficient in evaluating option returns and policies than previously known methods.},
+    Author = {Yao, H. and Szepesv{\'a}ri, {Cs}. and Sutton, R.S. and Modayil, J. and Bhatnagar, S.},
+    Booktitle = {NIPS},
+    Date = {2012-07},
+    Date-Added = {2014-09-09 00:10:25 -0600},
+    Date-Modified = {2015-08-02 00:49:25 +0000},
+    Keywords = {reinforcement learning, Markov Decision Processes,function approximation, control, planning, control learning, temporal difference learning, LSTD},
+    Month = {September},
+    Pages = {990--998},
+    Pdf = {papers/lamapi.pdf},
+    Title = {Universal Option Models},
+    Year = {2014}}
+  
+  @inproceedings{YaoSze12,
+    Abstract = {In this paper we consider the problem of finding a good policy given some batch data. We propose a new approach, LAM-API, that first builds a so-called linear action model (LAM) from the data and then uses the learned model and the collected data in approximate policy iteration (API) to find a good policy. A natural choice for the policy evaluation step in this algorithm is to use least-squares temporal difference (LSTD) learning algorithm. Empirical results on three benchmark problems show that this particular instance of LAM-API performs competitively as compared with LSPI, both from the point of view of data and computational efficiency.},
+    Author = {Yao, H. and Szepesv{\'a}ri, {Cs}.},
+    Booktitle = {AAAI-2012},
+    Date = {2012-07},
+    Date-Added = {2012-06-06 14:33:03 -0600},
+    Date-Modified = {2013-07-16 12:05:29 -0600},
+    Keywords = {reinforcement learning, Markov Decision Processes,function approximation, control, planning, control learning, temporal difference learning, LSTD},
+    Month = {July},
+    Pages = {1212--1217},
+    Pdf = {papers/lamapi.pdf},
+    Title = {Approximate Policy Iteration with Linear Action Models},
+    Year = {2012}}
+  
+  @inproceedings{yao2009,
+    Abstract = {We consider linear prediction problems in a stochastic environment. The least mean square (LMS) algorithm is a well-known, easy to implement and computationally cheap solution to this problem. However, as it is well known, the LMS algorithm, being a stochastic gradient descent rule, may converge slowly. The recursive least squares (RLS) algorithm overcomes this problem, but its computational cost is quadratic in the problem dimension. In this paper we propose a two timescale stochastic approximation algorithm which, as far as its slower timescale is considered, behaves the same way as the RLS algorithm, while it is as cheap as the LMS algorithm. In addition, the algorithm is easy to implement. The algorithm is shown to give estimates that converge to the best possible estimate with probability one. The performance of the algorithm is tested in two examples and it is found that it may indeed offer some performance gain over the LMS algorithm.},
+    Author = {Yao, H. and Bhatnagar, S. and Szepesv{\'a}ri, {Cs}.},
+    Booktitle = {CDC},
+    Date-Added = {2010-08-28 17:38:14 -0600},
+    Date-Modified = {2012-06-06 21:38:17 -0600},
+    Keywords = {stochastic approximation, two-timescale stochastic approximation, linear prediction},
+    Pages = {1181--1188},
+    Pdf = {papers/cdc09_final.pdf},
+    Title = {{LMS-2}: Towards an Algorithm that is as Cheap as {LMS} and Almost as Efficient as {RLS}},
+    Year = {2009}}
+  
+  
