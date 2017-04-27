@@ -8,7 +8,7 @@ I am currently doing research in in Reinforcement Learning and Deep Learning at 
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Action-model based RL
-- Yao, H. and Szepesvari, Cs. [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. 
+- Yao, H. and Szepesvari, Cs. [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. [bib](bib.txt)
 - Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. 2014. [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA. 
 
 ### Dyna-style Planning
