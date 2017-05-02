@@ -4,7 +4,7 @@ I am currently doing research on Reinforcement Learning and Deep Learning at Hua
 
 I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
 
-When doing my Ph.D at University of Alberta (2008--2014), I was working with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar, Xinhua Zhang and Chihoon Lee.
+When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinforcement Learning, Reforcement Ranking and Web Search with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar, Xinhua Zhang and Chihoon Lee.
 
 ## Research
 
