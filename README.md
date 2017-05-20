@@ -63,6 +63,11 @@ Keeping ball away from opponents is a basic skill at the lower level in the hier
 Using a policy iteration algorithm to play a tetris game. In this game, only considering the "S" and "Z" shapes (harder than the original game). The player was trained with data of randomly playing the game.   
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
 
-## MaxRank
+## Openprice
+The mobile App is the product of our startup Openprice. The app helps users manage their receipts and manage shopping.  
+
+Uploading receipts:
+<video src="videos/upload receipt.mp4" width="640" height="400" autoplay controls preload></video>
+
 
 
