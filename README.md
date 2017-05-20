@@ -54,6 +54,8 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 
 ###Robocup Soccer Simulator
 
+[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
+
 ###Torcs
 
 ###MaxRank
