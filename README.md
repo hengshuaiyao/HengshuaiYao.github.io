@@ -52,13 +52,17 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 
 ## Projects
 
-###Robocup Soccer Simulator
+### Robocup Soccer 
 
+Game
 <video src="videos/KeepBallawayFromOpponents.mp4" width="640" height="400" autoplay controls preload></video>
 [robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
 
-###Torcs
+Keepaway
 
-###MaxRank
 
-###Tetris
+### Torcs
+
+### MaxRank
+
+### Tetris
