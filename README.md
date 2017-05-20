@@ -50,3 +50,12 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 - The First Workshop on Heterogeneous Information Access at WSDM 2015, pc member.
 - IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning(ADPRL) 2014, pc member.
 
+## Projects
+
+###Robocup Soccer Simulator
+
+###Torcs
+
+###MaxRank
+
+###Tetris
