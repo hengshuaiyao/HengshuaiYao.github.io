@@ -54,7 +54,7 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 
 ###Robocup Soccer Simulator
 
-<video src="videos/KeepBallawayFromOpponents.mp4" width="320" height="200" controls preload></video>
+<video src="videos/KeepBallawayFromOpponents.mp4" width="640" height="400" autoplay=on controls preload></video>
 [robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
 
 ###Torcs
