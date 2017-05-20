@@ -72,6 +72,10 @@ Uploading receipts and have it OCR-ed and extract structured data:
 Store search and catalog search
 <video src="videos/store search catalog search.mp4" width="640" height="400" autoplay controls preload></video>
 
+Catalog we built 
+<video src="videos/catalogDemo2.mp4" width="640" height="400" autoplay controls preload></video>
+
+
 ## Arduino
 Motorcycle robot I made from my son's toy. 
 <video src="videos/Motorcycle v1.mp4" width="640" height="400" autoplay controls preload></video>
