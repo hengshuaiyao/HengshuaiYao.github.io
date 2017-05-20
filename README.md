@@ -1,6 +1,6 @@
 ## About me:
 
-I am currently doing research on Reinforcement Learning and Deep Learning at Huawei Research Lab. Before that, I was building an AI game player and a character AI module for NCSoft in California.  
+I am currently doing research on Reinforcement Learning and Deep Learning at Huawei Research Lab. Before that, I was building an AI game player and a character AI module for NCSoft (California).  
 
 I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
 
