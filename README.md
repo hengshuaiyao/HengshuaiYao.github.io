@@ -61,13 +61,10 @@ Keeping ball away from opponents (2 by 3)
 <video src="videos/KeepBallawayFromOpponents.mp4" width="640" height="400" autoplay controls preload></video>
 
 
-### MaxRank
-
-
 ### Tetris
-A game of tetris only considering the "S" and "Z" shapes (harder than the original game)
+A game of ptetris only considering the "S" and "Z" shapes (harder than the original game)
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
 
+### MaxRank
 
 ### Torcs
-
