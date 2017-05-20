@@ -54,22 +54,20 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 
 ### Robocup Soccer 
 
-Keep ball away from opponents (2 by 3)
+Keeping ball away from opponents (2 by 3)
 <video src="videos/KeepBallawayFromOpponents.mp4" width="640" height="400" autoplay controls preload></video>
-[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
 
 a game
 <video src="videos/2d simulation game short.mp4" width="640" height="400" autoplay controls preload></video>
-[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
+
 
 ### MaxRank
-<video src="videos/2d simulation game short.mp4" width="640" height="400" autoplay controls preload></video>
-[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
+
 
 ### Tetris
 A game of tetris only considering the "S" and "Z" shapes (harder than the original game)
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
-[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
+
 
 ### Torcs
 
