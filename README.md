@@ -62,7 +62,7 @@ Keeping ball away from opponents (2 by 3)
 
 
 ### Tetris
-A game of ptetris only considering the "S" and "Z" shapes (harder than the original game)
+Using a policy iteration algorithm to play a tetris game. In this game, only considering the "S" and "Z" shapes (harder than the original game)
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
 
 ### MaxRank
