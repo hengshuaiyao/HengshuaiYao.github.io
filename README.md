@@ -66,8 +66,11 @@ Using a policy iteration algorithm to play a tetris game. In this game, only con
 ## Openprice
 The mobile App is the product of our startup Openprice. The app helps users manage their receipts and manage shopping.  
 
-Uploading receipts and have it OCR-ed and extract structured data:
+Uploading receipts and have it OCR-ed:
 <video src="videos/upload receipt.mp4" width="640" height="400" autoplay controls preload></video>
+
+Backend server extract structured data, send it back and display on user's phone:
+<video src="videos/Receipt_details.mp4" width="640" height="400" autoplay controls preload></video>
 
 Store search and catalog search
 <video src="videos/store search catalog search.mp4" width="640" height="400" autoplay controls preload></video>
