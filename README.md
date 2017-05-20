@@ -69,5 +69,15 @@ The mobile App is the product of our startup Openprice. The app helps users mana
 Uploading receipts:
 <video src="videos/upload receipt.mp4" width="640" height="400" autoplay controls preload></video>
 
+Store search and catalog search
+<video src="videos/store search catalog search.mp4" width="640" height="400" autoplay controls preload></video>
 
+## Arduino
+Motorcycle robot I made from my son's toy. 
+<video src="videos/Motorcycle v1.mp4" width="640" height="400" autoplay controls preload></video>
 
+Robot car with a collision avoidance feature
+<video src="videos/first run of arduino robot car.mp4" width="640" height="400" autoplay controls preload></video>
+
+Hacking Nema-17 to run a high speed
+<video src="videos/nema17-A4988-high-rpm-speed.mp4" width="640" height="400" autoplay controls preload></video>
