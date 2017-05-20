@@ -53,7 +53,7 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 
 ## Robocup Soccer 
 
-a game of our team. The player was based on hierachical reinforcement learning. Decisions the player has to make include: dribbling, passing, running, shooting, goal keeping, positioning (team position), resting, defending, etc. A high-level policy learns how to select a decision, and a low-level controller executes the selected decision.  
+a game of our team. The player was based on hierachical reinforcement learning. Decisions the player has to make include: dribbling, passing, running, shooting, goal keeping, positioning (team position), resting, defending, etc. A high-level policy learns how to select a decision, and a low-level controller executes the selected decision. Both the high-level and low-level contoller were learned using reinforcement learning.  
 <video src="videos/2d simulation game short.mp4" width="640" height="400" autoplay controls preload></video>
 
 Keeping ball away from opponents is a basic skill at the lower level in the hierachical of the decision module of the soccer player. The player was trained using a nueral network to dribble or pass the ball, or run to an advantage positon. 
