@@ -56,11 +56,11 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 a game of our team. The player was based on hierachical reinforcement learning. 
 <video src="videos/2d simulation game short.mp4" width="640" height="400" autoplay controls preload></video>
 
-Keeping ball away from opponents (2 by 3). The team mates have to work together by either dribbling, passing or running. 
+Keeping ball away from opponents is a basic skill at the lower level in the hierachical of the decision module of the soccer player. The player was trained using a nueral network to dribble or pass the ball, or run to an advantage positon. 
 <video src="videos/KeepBallawayFromOpponents.mp4" width="640" height="400" autoplay controls preload></video>
 
 ## Tetris
-Using a policy iteration algorithm to play a tetris game. In this game, only considering the "S" and "Z" shapes (harder than the original game)
+Using a policy iteration algorithm to play a tetris game. In this game, only considering the "S" and "Z" shapes (harder than the original game). The player was trained with data of randomly playing the game.   
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
 
 ## MaxRank
