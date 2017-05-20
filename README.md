@@ -50,21 +50,19 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 - The First Workshop on Heterogeneous Information Access at WSDM 2015, pc member.
 - IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning(ADPRL) 2014, pc member.
 
-## Projects
 
-### Robocup Soccer 
+## Robocup Soccer 
 
-a game of our team
+a game of our team. The player was based on hierachical reinforcement learning. 
 <video src="videos/2d simulation game short.mp4" width="640" height="400" autoplay controls preload></video>
 
-Keeping ball away from opponents (2 by 3)
+Keeping ball away from opponents (2 by 3). The team mates have to work together by either dribbling, passing or running. 
 <video src="videos/KeepBallawayFromOpponents.mp4" width="640" height="400" autoplay controls preload></video>
 
-
-### Tetris
+## Tetris
 Using a policy iteration algorithm to play a tetris game. In this game, only considering the "S" and "Z" shapes (harder than the original game)
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
 
-### MaxRank
+## MaxRank
 
-### Torcs
+
