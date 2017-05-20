@@ -72,7 +72,7 @@ Uploading receipts and have it OCR-ed:
 Backend server extract structured data, send it back and display on user's phone:
 <video src="videos/Receipt_details.mp4" width="640" height="400" autoplay controls preload></video>
 
-Store search and catalog search
+Store search and catalog search (the girl on skype is Reka our App and UI designer)
 <video src="videos/store search catalog search.mp4" width="640" height="400" autoplay controls preload></video>
 
 Catalog we built (shown is Json format. The json files was injected to a MySQL database)
