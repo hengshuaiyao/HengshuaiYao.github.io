@@ -81,7 +81,7 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 
 ## Arduino
 Motorcycle robot I made from my son's toy. 
-<video src="videos/Motorcycle v1.mp4" width="640" height="400" autoplay controls preload audio="false"></video>
+<video src="videos/Motorcycle v1.mp4" audio="false" width="640" height="400" autoplay controls preload></video>
 
 Robot car with collision avoidance and looking for drivable area:
 <video src="videos/first run of arduino robot car.mp4" width="640" height="400" autoplay controls preload audio="false"></video>
