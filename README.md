@@ -88,7 +88,7 @@ Hacking Nema-17 to run a high speed
 
 # Torcs
 Car racing. 
-<video src="videos/gt.mp4" width="640" height="400" controls ></video>
+[![IMAGE ALT TEXT](https://youtu.be/5S6Nyv8hkqM/0.jpg)](https://youtu.be/5S6Nyv8hkqM "Video Title")
 
 <video src="videos/g1.mp4" width="640" height="400" controls ></video>
 
