@@ -85,3 +85,17 @@ Robot car with collision avoidance and looking for drivable area:
 
 Hacking Nema-17 to run a high speed
 <video src="videos/nema17-A4988-high-rpm-speed.mp4" width="640" height="400" controls ></video>
+
+# Torcs
+Car racing. 
+<video src="videos/gt.mp4" width="640" height="400" controls ></video>
+
+<video src="videos/g1.mp4" width="640" height="400" controls ></video>
+
+<video src="videos/g2.mp4" width="640" height="400" controls ></video>
+
+<video src="videos/g3.mp4" width="640" height="400" controls ></video>
+
+<video src="videos/g4.mp4" width="640" height="400" controls ></video>
+
+<video src="videos/dirt.mp4" width="640" height="400" controls ></video>
