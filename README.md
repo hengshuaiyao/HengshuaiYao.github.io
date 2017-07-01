@@ -87,7 +87,7 @@ Hacking Nema-17 to run a high speed
 <video src="videos/nema17-A4988-high-rpm-speed.mp4" width="640" height="400" controls ></video>
 
 # Torcs
-Car racing. 
+Car racing. This is just a hand tuned model. It worked pretty well on quite a few tracks. Getting a car to have a demo isn't hard. I am interested to study in more complex environments. 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/EpP4XHKDQAU" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/b583n0jQCCo" frameborder="0" allowfullscreen></iframe>
