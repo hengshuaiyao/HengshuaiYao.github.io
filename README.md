@@ -39,6 +39,7 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 - Yao, H., Sutton R. and Rafiei D. [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). 
 
 ### Reviewing
+- AAAI 2018. Program Committee Member
 - ACML 2017. Program Committee Member
 - NIPS 2017. reviewer.
 - ICML 2017. Program Committee Member.
