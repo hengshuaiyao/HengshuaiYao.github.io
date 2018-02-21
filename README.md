@@ -12,6 +12,7 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Action-model based RL
+- Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. Practical Issues of Action-conditioned Next Image Prediction. [arxiv](https://arxiv.org/abs/1802.02975), 2018.
 - Yao, H. and Szepesvari, Cs. [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. [bib](bib.txt)
 - Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. 2014. [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA. [bib](bib.txt)
 
