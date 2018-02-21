@@ -1,10 +1,10 @@
 ## About me:
 
-I am currently doing research on Reinforcement Learning and Deep Learning at Huawei Research Lab. Before that, I was building an AI game player and a character AI module for NCSoft in California.  
+I am currently doing research on Reinforcement Learning and Deep Learning at Huawei Research Lab. Before that, I was building an AI game player and a character AI module for NCSoft (California).  
 
 I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
 
-When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinforcement Learning, Reforcement Ranking and Web Search with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, Davood Rafiei, Shalabh Bhatnagar, Xinhua Zhang and Chihoon Lee.
+When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinforcement Learning, Reinforcement Ranking and Web Search. 
 
 ## Research
 
@@ -40,6 +40,7 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 - Yao, H., Sutton R. and Rafiei D. [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). 
 
 ### Reviewing
+- AAAI 2018. Program Committee Member
 - ACML 2017. Program Committee Member
 - NIPS 2017. reviewer.
 - ICML 2017. Program Committee Member.
@@ -51,26 +52,71 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 - The First Workshop on Heterogeneous Information Access at WSDM 2015, pc member.
 - IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning(ADPRL) 2014, pc member.
 
-## Projects
 
-### Robocup Soccer 
+## Robocup Soccer 
 
-Keep ball away from opponents (2 by 3)
-<video src="videos/KeepBallawayFromOpponents.mp4" width="640" height="400" autoplay controls preload></video>
-[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
-
-a game
+a game of our team. The player was based on hierachical reinforcement learning. Decisions the player has to make include: dribbling, passing, running, shooting, goal keeping, positioning (team position), resting, defending, etc. A high-level policy learns how to select a decision, and a low-level controller executes the selected decision. Both the high-level and low-level contoller were learned using reinforcement learning.  
 <video src="videos/2d simulation game short.mp4" width="640" height="400" autoplay controls preload></video>
-[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
 
-### MaxRank
-<video src="videos/2d simulation game short.mp4" width="640" height="400" autoplay controls preload></video>
-[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
-
-### Tetris
-A game of tetris only considering the "S" and "Z" shapes (harder than the original game)
+## Tetris
+Using a policy iteration algorithm to play a tetris game. In this game, only considering the "S" and "Z" shapes (harder than the original game). The player was trained with data of randomly playing the game.   
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
-[robot soccer simulation](https://www.youtube.com/watch?v=xGPVYXXjtjc)
 
-### Torcs
+## Openprice
+The mobile App is the product of our startup Openprice. The app helps users manage their receipts and manage shopping.  
 
+Uploading receipts and have it OCR-ed:
+<video src="videos/upload receipt.mp4" width="640" height="400" autoplay controls preload></video>
+
+Backend server extract structured data, send it back and display on user's phone:
+<video src="videos/Receipt_details.mp4" width="640" height="400" autoplay controls preload></video>
+
+Store search and catalog search (the girl on skype is Reka our App and UI designer)
+<video src="videos/store search catalog search.mp4" width="640" height="400" autoplay controls preload></video>
+
+Catalog we built (shown is Json format. The json files was injected to a MySQL database)
+<video src="videos/catalogDemo2.mp4" width="640" height="400" autoplay controls preload></video>
+
+
+## Arduino
+Motorcycle robot I made from my son's toy. 
+<video src="videos/Motorcycle v1.mp4" width="640" height="400" controls ></video>
+
+Robot car with collision avoidance and looking for drivable area:
+<video src="videos/first run of arduino robot car.mp4" width="640" height="400" controls></video>
+
+Hacking Nema-17 to run a high speed
+<video src="videos/nema17-A4988-high-rpm-speed.mp4" width="640" height="400" controls ></video>
+
+# Torcs
+Car racing. This is just a hand tuned model. It worked pretty well on quite a few tracks. Getting a car to have a demo isn't hard. I am interested to study in more complex environments. 
+
+<iframe width="640" height="400" src="https://www.youtube.com/embed/EpP4XHKDQAU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="400" src="https://www.youtube.com/embed/b583n0jQCCo" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="400" src="https://www.youtube.com/embed/5S6Nyv8hkqM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="400" src="https://www.youtube.com/embed/oFZbGq5703I" frameborder="0" allowfullscreen></iframe>
+
+
+
+  <!-- disqus comments -->
+ 
+ <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'hengshuaiblog'; // required: replace example with your forum shortname
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  
+  
+</div>
