@@ -100,10 +100,11 @@ the MR algorithm are that it has comparable data efficiency
 and computational efficiency to iLSTD, but does not require
 manual selection of step-size.
 
-- Yao, H., Bhatnagar, S., and Szepesvari, Cs. Temporal difference learning by direct preconditioning. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
 - Yao, H., Bhatnagar, S., and Szepesvari, Cs. [LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS](papers/lms2.pdf). The Forty-eighth IEEE Control and Decision Conference (CDC), Shanghai, China. December 2009. [bib](bib.txt)
 
     - Abstract: We consider linear prediction problems in a stochastic environment. The least mean square (LMS) algorithm is a well-known, easy to implement and computationally cheap solution to this problem. However, as it is well known, the LMS algorithm, being a stochastic gradient descent rule, may converge slowly. The recursive least squares (RLS) algorithm overcomes this problem, but its computational cost is quadratic in the problem dimension. In this paper we propose a two timescale stochastic approximation algorithm which, as far as its slower timescale is considered, behaves the same way as the RLS algorithm, while it is as cheap as the LMS algorithm. In addition, the algorithm is easy to implement. The algorithm is shown to give estimates that converge to the best possible estimate with probability one. The performance of the algorithm is tested in two examples and it is found that it may indeed offer some performance gain over the LMS algorithm.
+
+- Yao, H., Bhatnagar, S., and Szepesvari, Cs. Temporal difference learning by direct preconditioning. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
 
 ### Off-policy Learning
 - Yao, H. Off-policy learning with linear action models: an efficient "One-Collection-For-All-Solution". In workshop on "Planning and Acting with Uncertain Models" at the 28th ICML, Bellevue, Washington, USA. 2011. 
