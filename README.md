@@ -209,13 +209,3 @@ Store search and catalog search (the girl on skype is Reka our App and UI design
 Catalog we built (shown is Json format. The json files was injected to a MySQL database)
 <video src="videos/catalogDemo2.mp4" width="640" height="400" autoplay controls preload></video>
 
-
-## Arduino
-Motorcycle robot I made from my son's toy. 
-<video src="videos/Motorcycle v1.mp4" width="640" height="400" controls sound="off"></video>
-
-Robot car with collision avoidance and looking for drivable area:
-<video src="videos/first run of arduino robot car.mp4" width="640" height="400" controls></video>
-
-Hacking Nema-17 to run a high speed
-<video src="videos/nema17-A4988-high-rpm-speed.mp4" width="640" height="400" controls ></video>
