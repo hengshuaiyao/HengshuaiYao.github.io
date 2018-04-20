@@ -13,7 +13,39 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 
 ### Action-model based RL
 - Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. Practical Issues of Action-conditioned Next Image Prediction. [arxiv](https://arxiv.org/abs/1802.02975), 2018.
+
+Abstract: The problem of action-conditioned image prediction in robotics is to
+predict the expected next frame given the current camera frame the robot
+observes and the action it selects. We provide the first comparison of two
+recent popular models, Convolutional Dynamic Neural Advection (CDNA)
+(Finn et al., 2016) and a feedforward model (Oh et al., 2015), especially for
+image prediction on cars. Our major finding is that action tiling encoding
+is the most important factor leading to the remarkable performance of the
+CDNA model. We present a light-weight model by action tiling encoding
+which has a single-decoder feedforward architecture same as Oh et al.
+(2015). On a real driving dataset, the CDNA model achieves 0.3986×1e-3
+MSE and 0.9836 Structure SIMilarity (SSIM) with a network size of about
+12.6 million parameters. With a small network of fewer than 1 million
+parameters, our new model achieves a comparable performance to CDNA
+at 0.3613 × 1e-3 MSE and 0.9633 SSIM. Our model requires less memory,
+is more computationally efficient and more advantageous to be used inside
+self-driving vehicles.
+
+
 - Yao, H. and Szepesvari, Cs. [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. [bib](bib.txt)
+
+Abstract: In this paper we consider the problem of finding a good policy
+given some batch data. We propose a new approach, LAMAPI,
+that first builds a so-called linear action model (LAM)
+from the data and then uses the learned model and the collected
+data in approximate policy iteration (API) to find a
+good policy. A natural choice for the policy evaluation step
+in this algorithm is to use least-squares temporal difference
+(LSTD) learning algorithm. Empirical results on three benchmark
+problems show that this particular instance of LAMAPI
+performs competitively as compared with LSPI, both
+from the point of view of data and computational efficiency.
+
 - Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. 2014. [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA. [bib](bib.txt)
 
 ### Dyna-style Planning
