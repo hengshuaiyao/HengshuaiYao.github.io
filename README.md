@@ -1,8 +1,10 @@
 ## About me:
 
-I am currently doing research on Reinforcement Learning and Deep Learning at Huawei Research Lab. Before that, I was building an AI game player and a character AI module for NCSoft (California).  
+Since February 2017, I am working on reinforcement learning and deep learning for autonomous driving. 
 
-I had spent two years working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
+In 2016, I was building an AI game player and a character AI module for NCSoft (California).  
+
+In 2014, I was working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
 
 When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinforcement Learning, Reinforcement Ranking and Web Search. 
 
