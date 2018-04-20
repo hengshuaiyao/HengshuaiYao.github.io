@@ -106,6 +106,29 @@ suffers from the model errors in non-stationary (control) environments.
     
 - Yao, H., Sutton R. and Rafiei D. [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). accepted by IEEE Transaction on Cybernetics-part B, 2014. 
 
+    - Abstract: In a recently studied problem, Yan et. al. (2011)
+studied predicting the count of citations that already happened
+using pair-wise machine learning. Predicting the number of
+future citations based on only the past data is obviously more
+practical and more challenging. In this paper, we study the
+problem of temporal prediction of citation counts for academic
+papers. We propose a model-free method and a model-based
+method, respectively for predicting citation counts in both long
+and short terms. We extend the citation count measure to a
+general value function, which forms the basics for our application
+of reinforcement learning (RL). Our methods are based on two
+RL algorithms, least-squares temporal difference (LSTD) and
+linear Dyna. Our methods use quite a few novel features including
+those from citing papers and historical citation counts as well as
+those based on authors, keywords, and venues. Empirical results
+show that temporal prediction has its unique difficulties, and the
+pair-wise supervised learning methods can be unstable. Both our
+methods produce stable and accurate predictions. In addition,
+results also suggest that, unlike previous citation count prediction
+results, temporal prediction of citation count in a longer time
+span is less accurate. This highlights the need to study the
+temporal prediction problem and develop accurate predictors.
+
 ### Reviewing
 - NIPS 2018. Reviewer.
 - ICML 2018. Program Committee Member.
