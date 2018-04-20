@@ -82,6 +82,24 @@ suffers from the model errors in non-stationary (control) environments.
     - Abstract: This paper extends many of the recent popular policy evaluation algorithms to a generalized framework that includes least-squares temporal difference (LSTD) learning, least-squares policy evaluation (LSPE) and a variant of incremental LSTD (iLSTD). The basis of this extension is a preconditioning technique that solves a stochastic model equation. This paper also studies three significant issues of the new framework: it presents a new rule of step-size that can be computed online, provides an iterative way to apply preconditioning, and reduces the complexity of related algorithms to near that of temporal difference (TD) learning.
 
 - Yao, H., and Liu, Z-Q. [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
+    - Abstract: We consider the problem of policy evaluation in a special
+class of Markov Decision Processes (MDPs) where the underlying
+Markov chains are large and sparse. We start from
+a stationary model equation that the limit of Temporal Difference
+(TD) learning satisfies, and develop a Robbins-Monro
+method consistently estimating its coefficients. Then we introduce
+the minimal residual approaches, which solve an approximate
+version of the stationary model equation. Incremental
+Least-squares temporal difference (iLSTD) is shown
+to be a special form of minimal residual approaches. We also
+develop a new algorithm called minimal residual (MR) algorithm
+whose step-size can be computed on line. We introduce
+the Compressed Sparse Row (CSR) format and reduce
+the complexity of MR to near that of TD. The advantages of
+the MR algorithm are that it has comparable data efficiency
+and computational efficiency to iLSTD, but does not require
+manual selection of step-size.
+
 - Yao, H., Bhatnagar, S., and Szepesvari, Cs. Temporal difference learning by direct preconditioning. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
 - Yao, H., Bhatnagar, S., and Szepesvari, Cs. [LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS](papers/lms2.pdf). The Forty-eighth IEEE Control and Decision Conference (CDC), Shanghai, China. December 2009. [bib](bib.txt)
 
@@ -97,7 +115,7 @@ suffers from the model errors in non-stationary (control) environments.
 
 ### Web Search
 - Yao, H. and Schuurmans, D. 2013. [Reinforcement Ranking](papers/rr.pdf). 
-    - Abstract: We introduce a new framework for web page ranking -- reinforcement ranking -- that improves the stability and accuracy of Page Rank while eliminating the need for computing the stationary distribution of random walks. Instead of relying on teleportation to ensure a well defined Markov chain, we develop a reverse-time reinforcement learning framework that determines web page authority based on the solution of a reverse Bellman equation. In particular, for a given reward function and surfing policy we recover a well defined authority score from a reverse-time perspective: looking back from a web page, what is the total incoming discounted reward brought by the surfer from the page's predecessors? This results in a novel form of reverse-time dynamic-programming/reinforcement-learning problem that achieves several advantages over Page Rank based methods: First, stochasticity, ergodicity, and irreducibility of the underlying Markov chain is no longer required for well-posedness. Second, the method is less sensitive to graph topology and more stable in the presence of dangling pages. Third, not only does the reverse Bellman iteration yield a more efficient power iteration, it allows for faster updating in the presence of graph changes. Finally, our experiments demonstrate improvements in ranking quality.
+    - Abstract: We introduce a new framework for web page ranking -- reinforcement ranking -- that improves the stability and accuracy of Page Rank while eliminating the need for computing the stationary distribution of random walks. Instead of relying on teleportation to ensure a well defined Markov chain, we develop a reverse-time reinforcement learning framework that determines web page authority based on the solution of a reverse Bellman equation. In particular, for a given reward function and surfing policy we recover a well defined authority score from a reverse-time perspective: looking back from a web page, what is the total incoming discounted reward brought by the surfer from the page's predecessors? This results in a novel form of reverse-time dynamic-programming/ 	reinforcement-learning problem that achieves several advantages over Page Rank based methods: First, stochasticity, ergodicity, and irreducibility of the underlying Markov chain is no longer required for well-posedness. Second, the method is less sensitive to graph topology and more stable in the presence of dangling pages. Third, not only does the reverse Bellman iteration yield a more efficient power iteration, it allows for faster updating in the presence of graph changes. Finally, our experiments demonstrate improvements in ranking quality.
     
 - Lee, C., Yao, H., He, X., Su, C., and Chang, J-Y. 2014. [A System to Predict Future Popularity: Learning to Classify](papers/trending.pdf). WWW (poster), Seol,Korea. 
 
