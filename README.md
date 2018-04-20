@@ -1,6 +1,6 @@
 ## About me:
 
-Since 2017, I am working on reinforcement learning and deep learning for autonomous driving. 
+Since 2017, I am working on reinforcement learning and deep learning for autonomous driving. We're hiring full-time and intern positions for reinforcement learning and robotics. 
 
 In 2016, I was building an AI game player and a character AI module for NCSoft (California).  
 
