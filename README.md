@@ -119,6 +119,26 @@ manual selection of step-size.
     - Abstract: We introduce a new framework for web page ranking -- reinforcement ranking -- that improves the stability and accuracy of Page Rank while eliminating the need for computing the stationary distribution of random walks. Instead of relying on teleportation to ensure a well defined Markov chain, we develop a reverse-time reinforcement learning framework that determines web page authority based on the solution of a reverse Bellman equation. In particular, for a given reward function and surfing policy we recover a well defined authority score from a reverse-time perspective: looking back from a web page, what is the total incoming discounted reward brought by the surfer from the page's predecessors? This results in a novel form of reverse-time dynamic-programming/ 	reinforcement-learning problem that achieves several advantages over Page Rank based methods: First, stochasticity, ergodicity, and irreducibility of the underlying Markov chain is no longer required for well-posedness. Second, the method is less sensitive to graph topology and more stable in the presence of dangling pages. Third, not only does the reverse Bellman iteration yield a more efficient power iteration, it allows for faster updating in the presence of graph changes. Finally, our experiments demonstrate improvements in ranking quality.
     
 - Lee, C., Yao, H., He, X., Su, C., and Chang, J-Y. 2014. [A System to Predict Future Popularity: Learning to Classify](papers/trending.pdf). WWW (poster), Seol,Korea. 
+    - Abstract: Among the many tasks driven by very large scaled web
+search queries, it is an interesting task to predict how likely
+queries about a topic become popular (a.k.a. trending or
+buzzing) as the news in the near future, which is known as
+?Detecting trending queries.? This task is nontrivial since
+the realization of buzzing trends of queries often requires
+sufficient statistics through users? activities. To address
+this challenge, we propose a novel framework that predicts
+whether queries become trending in the future. In principle,
+our system is built on the two learners. The first is
+to learn dynamics of time series for queries. The second,
+our decision maker, is to learn a binary classifier that determines
+whether queries become trending. Our framework
+is extremely efficient to be built taking advantage of the
+grid architecture that allows to deal with the large volume
+of data. In addition, it is flexible to continuously adapt as
+trending patterns evolve. The experiments results show that
+our approach achieves high quality of accuracy (over 77.5\%
+true positive rate) and yet detects much earlier (on average
+29 hours advanced) than that of the baseline system.
 
 - Yao, H. 2012. [MaxRank: Discovering and Leveraging the Most Valuable Links for Ranking](papers/maxrank.pdf)
     - Abstract: On the Web, visits of a page are often introduced by one or more valuable linking sources. Indeed, good back links are valuable resources for Web pages and sites. We propose to discovering and leveraging the best backlinks of pages for ranking. Similar to PageRank, MaxRank scores are updated {recursively}. In particular, with probability lambda, the MaxRank of a document is updated from the backlink source with the maximum score; with probability 1?lambda, the MaxRank of a document is updated from a random backlink source. MaxRank has an interesting relation to PageRank. When lambda=0, MaxRank reduces to PageRank; when lambda=1, MaxRank only looks at the best backlink it thinks. Empirical results on Wikipedia shows that the global authorities are very influential; Overall large lambda (but smaller than 1) perform best: the convergence is dramatically faster than PageRank, but the performance is still comparable. We study the influence of these sources and propose a few measures such as the times of being the best backlink for others, and related properties of the proposed algorithm. The introduction of best backlink sources provides new insights for link analysis. Besides ranking, our method can be used to discover the most valuable linking sources for a page or Website, which is useful for both search engines and site owners.
