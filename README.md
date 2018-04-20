@@ -23,11 +23,11 @@ image prediction on cars. Our major finding is that action tiling encoding
 is the most important factor leading to the remarkable performance of the
 CDNA model. We present a light-weight model by action tiling encoding
 which has a single-decoder feedforward architecture same as Oh et al.
-(2015). On a real driving dataset, the CDNA model achieves 0.3986×1e-3
+(2015). On a real driving dataset, the CDNA model achieves 0.3986*1e-3
 MSE and 0.9836 Structure SIMilarity (SSIM) with a network size of about
 12.6 million parameters. With a small network of fewer than 1 million
 parameters, our new model achieves a comparable performance to CDNA
-at 0.3613 × 1e-3 MSE and 0.9633 SSIM. Our model requires less memory,
+at 0.3613 * 1e-3 MSE and 0.9633 SSIM. Our model requires less memory,
 is more computationally efficient and more advantageous to be used inside
 self-driving vehicles.
 
@@ -48,22 +48,54 @@ from the point of view of data and computational efficiency.
 
 - Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. 2014. [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA. [bib](bib.txt)
 
+Abstract: In this paper we introduce the concept of pseudo-MDPs to develop abstractions. Pseudo-MDPs relax the requirement that the transition kernel has to be a probability kernel. We show that the new framework captures many existing abstractions. We also introduce the concept of factored linear action models; a special case. Again, the relation of factored linear action models and existing works are discussed. We use the general framework to develop a theory for bounding the sub-optimality of policies derived from pseudo-MDPs. Specializing the framework, we recover existing results. We give a least-quares approach and a constrained optimization approach of learning the factored linear model as well as efficient computation methods. We demonstrate that the constrained optimization approach gives better performance than the least-squares approach with normalization.
+
+
 ### Dyna-style Planning
 - Yao, H., Sutton, R. S., Bhatnagar, S., Diao, D., and Szepesvari, Cs. [Dyna(k): A multi-step Dyna planning. Abstraction in Reinforcement Learning](papers/dynak.pdf). Montreal, Canada. June 2009. 
+
+
 - Yao, H., Bhatnagar, S., and Diao, D. [Multi-step linear Dyna-style planning](papers/multi-step-dyna.pdf). Advances in Neural Information Processing Systems (NIPS) 22, Vancouver, BC, Canada. 2009.
+
+Abstract:
+In this paper we introduce a multi-step linear Dyna-style planning algorithm. The
+key element of the multi-step linear Dyna is a multi-step linear model that enables
+multi-step projection of a sampled feature and multi-step planning based on
+the simulated multi-step transition experience. We propose two multi-step linear
+models. The first iterates the one-step linear model, but is generally computationally
+complex. The second interpolates between the one-step model and the
+infinite-step model (which turns out to be the LSTD solution), and can be learned
+efficiently online. Policy evaluation on Boyan Chain shows that multi-step linear
+Dyna learns a policy faster than single-step linear Dyna, and generally learns faster
+as the number of projection steps increases. Results on Mountain-car show that
+multi-step linear Dyna leads to much better online performance than single-step
+linear Dyna and model-free algorithms; however, the performance of multi-step
+linear Dyna does not always improve as the number of projection steps increases.
+Our results also suggest that previous attempts on extending LSTD for online
+control were unsuccessful because LSTD looks infinite steps into the future, and
+suffers from the model errors in non-stationary (control) environments.
+
 - Yao, H. Linear least-squares Dyna-style planning. Technical Report TR11-04, Department of Computing Science, University of Alberta. 2011.
 
 ### Temporal Difference Learning
 - Yao, H., and Liu, Z-Q. [Preconditioned temporal difference learning](papers/ptd.pdf). The 25th International Conference on Machine learning (ICML), Helsinki, Finland. June 2008. 
+
+Abstract: This paper extends many of the recent popular policy evaluation algorithms to a generalized framework that includes least-squares temporal difference (LSTD) learning, least-squares policy evaluation (LSPE) and a variant of incremental LSTD (iLSTD). The basis of this extension is a preconditioning technique that solves a stochastic model equation. This paper also studies three significant issues of the new framework: it presents a new rule of step-size that can be computed online, provides an iterative way to apply preconditioning, and reduces the complexity of related algorithms to near that of temporal difference (TD) learning.
+
 - Yao, H., and Liu, Z-Q. [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
 - Yao, H., Bhatnagar, S., and Szepesvari, Cs. Temporal difference learning by direct preconditioning. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
 - Yao, H., Bhatnagar, S., and Szepesvari, Cs. [LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS](papers/lms2.pdf). The Forty-eighth IEEE Control and Decision Conference (CDC), Shanghai, China. December 2009. [bib](bib.txt)
+
+Abstract:
+We consider linear prediction problems in a stochastic environment. The least mean square (LMS) algorithm is a well-known, easy to implement and computationally cheap solution to this problem. However, as it is well known, the LMS algorithm, being a stochastic gradient descent rule, may converge slowly. The recursive least squares (RLS) algorithm overcomes this problem, but its computational cost is quadratic in the problem dimension. In this paper we propose a two timescale stochastic approximation algorithm which, as far as its slower timescale is considered, behaves the same way as the RLS algorithm, while it is as cheap as the LMS algorithm. In addition, the algorithm is easy to implement. The algorithm is shown to give estimates that converge to the best possible estimate with probability one. The performance of the algorithm is tested in two examples and it is found that it may indeed offer some performance gain over the LMS algorithm.
 
 ### Off-policy Learning
 - Yao, H. Off-policy learning with linear action models: an efficient "One-Collection-For-All-Solution". In workshop on "Planning and Acting with Uncertain Models" at the 28th ICML, Bellevue, Washington, USA. 2011. 
 
 ### Options
 - Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. [Universal Option Models](papers/uom.pdf). NIPS. Montreal, Quebec, Canada. [bib](bib.txt)
+
+Abstract: We consider the problem of learning models of options for real-time abstract planning, in the setting where reward functions can be specified at any time and their expected returns must be efficiently computed. We introduce a new model for an option that is independent of any reward function, called the universal option model (UOM). We prove that the UOM of an option can construct a traditional option model given a reward function, and also supports efficient computation of the option-conditional return. We extend the UOM to linear function approximation, and we show the UOM gives the TD solution of option returns and the value function of a policy over options. We provide a stochastic approximation algorithm for incrementally learning UOMs from data and prove its consistency. We demonstrate our method in two domains. The first domain is a real-time strategy game, where the controller must select the best game unit to accomplish a dynamically-specified task. The second domain is article recommendation, where each user query defines a new reward function and an article's relevance is the expected return from following a policy that follows the citations between articles. Our experiments show that UOMs are substantially more efficient than previously known methods for evaluating option returns and policies over options.
 
 ### Web Search
 - Yao, H. and Schuurmans, D. 2013. [Reinforcement Ranking](papers/rr.pdf). 
@@ -72,9 +104,12 @@ from the point of view of data and computational efficiency.
 - Yao, H., Sutton R. and Rafiei D. [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). 
 
 ### Reviewing
+- NIPS 2018. Reviewer.
+- ICML 2018. Program Committee Member.
 - AAAI 2018. Program Committee Member
+- AIStat 2018. Program committee member.
 - ACML 2017. Program Committee Member
-- NIPS 2017. reviewer.
+- NIPS 2017. Reviewer.
 - ICML 2017. Program Committee Member.
 - AIStats 2017, program committee member.
 - CIKM 2016, program committee member (research and industry track).
@@ -119,19 +154,6 @@ Robot car with collision avoidance and looking for drivable area:
 
 Hacking Nema-17 to run a high speed
 <video src="videos/nema17-A4988-high-rpm-speed.mp4" width="640" height="400" controls ></video>
-
-# Torcs
-Car racing. This is just a hand tuned model. It worked pretty well on quite a few tracks. Getting a car to have a demo isn't hard. I am interested to study in more complex environments. 
-
-<iframe width="640" height="400" src="https://www.youtube.com/embed/EpP4XHKDQAU" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="400" src="https://www.youtube.com/embed/b583n0jQCCo" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="400" src="https://www.youtube.com/embed/5S6Nyv8hkqM" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="400" src="https://www.youtube.com/embed/oFZbGq5703I" frameborder="0" allowfullscreen></iframe>
-
-
 
   <!-- disqus comments -->
  
