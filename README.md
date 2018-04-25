@@ -11,13 +11,13 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 ## Research
 
 ### Our RLAD Lab:
-- [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09)
 - [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07)
 - Borislav Mavrin (2018.05-)
-- [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu) (2017.02-)
-- [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-)
 - [Yangchen Pan](https://ca.linkedin.com/in/yangchen-pan-59704471) (2018.05-)
+- [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-)
 - [Chen Ma](https://arxiv.org/abs/1804.03758) (2018.05-)
+- [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu) (2017.02-)
+- [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09)
 - Myself (2017.02-)
 
 ### Thesis
