@@ -49,6 +49,16 @@ From 2008 to 2014, I was studying my Ph.D at University of Alberta, working on R
 -->
 
 - Negative Log Likelihood Ratio Loss for Deep Neural Network Classification. Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu. [arxiv](https://arxiv.org/pdf/1804.10690.pdf), 2018.
+    - Abstract: In deep neural network, the cross-entropy loss
+function is commonly used for classification. Minimizing cross entropy
+is equivalent to maximizing likelihood under
+assumptions of uniform feature and class distributions. It
+belongs to generative training criteria which does not directly
+discriminate correct class from competing classes. We propose a
+discriminative loss function with negative log likelihood ratio
+between correct and competing classes. It significantly
+outperforms the cross-entropy loss on the CIFAR-10 image
+classification task.
 
 - Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. Practical Issues of Action-conditioned Next Image Prediction. [arxiv](https://arxiv.org/abs/1802.02975), 2018.
 
