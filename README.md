@@ -10,6 +10,7 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 
 ## Research
 
+<!-- 
 ### Our RLAD Lab:
 - [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07)
 - Borislav Mavrin (2018.05-)
@@ -19,6 +20,7 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 - [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu) (2017.02-)
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09)
 - Hengshuai Yao (2017.02-)
+-->
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
