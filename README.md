@@ -6,7 +6,7 @@ In 2016, I was building an AI game player and a character AI module for NCSoft (
 
 In 2014, I was working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
 
-When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinforcement Learning, Reinforcement Ranking and Web Search. 
+From 2008 to 2014, I was studying my Ph.D at University of Alberta, working on Reinforcement Learning, Reinforcement Ranking and Web Search. 
 
 ## Research
 
