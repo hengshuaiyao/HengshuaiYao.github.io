@@ -10,12 +10,44 @@ When doing my Ph.D at University of Alberta (2008--2014), I was working on Reinf
 
 ## Research
 
-
+### Our RLAD Lab:
+- [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07)
+- Borislav Mavrin (2018.05-)
+- [Yangchen Pan](https://ca.linkedin.com/in/yangchen-pan-59704471) (2018.05-)
+- [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-)
+- [Chen Ma](https://arxiv.org/abs/1804.03758) (2018.05-)
+- [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu) (2017.02-)
+- [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09)
+- Hengshuai Yao (2017.02-)
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
-### Action-model based RL
+### Publication
+
+<!-- 
+- Equivalence and Link between Option-Critic and DDPG. Shangtong Zhang and Hengshuai Yao. 2018. 
+
+- Negative Log Likelihood Ratio Loss for Deep Neural Network Classification. Donglai Zhu, Hengshuai Yao, Bei Jiang and Peng Yu, 2018. 
+
+- Quantile Reinforcement Learning. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, 2018.
+
+- Distribution Reinforcement Learning. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, 2018.
+
+- Universal Successor Representation. Chen Ma, Hengshuai Yao, 2018. 
+
+- Inverse Reinforcement Learning for Autonomous Driving. Donglai Zhu, Hengshuai Yao, 2018. 
+ 
+- Expert Replay for Reinforcement Learning. Shangtong Zhang, Hengshuai Yao, 2018
+
+- Expert Representation for Fast Reinforcement Learning. Shangtong Zhang, Hao Chen, Hengshuai Yao, 2018.  
+
+- Yangchen Pan, Hao Chen, Donglai Zhu, Hengshuai Yao, Option-conditioned Next Image Prediction and Expert Options for Model-based Reinforcement Learning: Precise Stopping-at-a-point, 2018. 
+
+-->
+
+Negative Log Likelihood Ratio Loss for Deep Neural Network Classification. Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu. [arxiv](https://arxiv.org/pdf/1804.10690.pdf), 2018.
+
 - Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. Practical Issues of Action-conditioned Next Image Prediction. [arxiv](https://arxiv.org/abs/1802.02975), 2018.
 
     - Abstract: The problem of action-conditioned image prediction in robotics is to
@@ -35,7 +67,6 @@ at 0.3613 * 1e-3 MSE and 0.9633 SSIM. Our model requires less memory,
 is more computationally efficient and more advantageous to be used inside
 self-driving vehicles.
 
-
 - Yao, H. and Szepesvari, Cs. [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. [bib](bib.txt)
 
     - Abstract: In this paper we consider the problem of finding a good policy
@@ -54,8 +85,6 @@ from the point of view of data and computational efficiency.
 
     - Abstract: In this paper we introduce the concept of pseudo-MDPs to develop abstractions. Pseudo-MDPs relax the requirement that the transition kernel has to be a probability kernel. We show that the new framework captures many existing abstractions. We also introduce the concept of factored linear action models; a special case. Again, the relation of factored linear action models and existing works are discussed. We use the general framework to develop a theory for bounding the sub-optimality of policies derived from pseudo-MDPs. Specializing the framework, we recover existing results. We give a least-quares approach and a constrained optimization approach of learning the factored linear model as well as efficient computation methods. We demonstrate that the constrained optimization approach gives better performance than the least-squares approach with normalization.
 
-
-### Dyna-style Planning
 - Yao, H., Sutton, R. S., Bhatnagar, S., Diao, D., and Szepesvari, Cs. [Dyna(k): A multi-step Dyna planning. Abstraction in Reinforcement Learning](papers/dynak.pdf). Montreal, Canada. June 2009. 
 
 
@@ -110,15 +139,14 @@ manual selection of step-size.
 
 - Yao, H., Bhatnagar, S., and Szepesvari, Cs. Temporal difference learning by direct preconditioning. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
 
-### Off-policy Learning
 - Yao, H. Off-policy learning with linear action models: an efficient "One-Collection-For-All-Solution". In workshop on "Planning and Acting with Uncertain Models" at the 28th ICML, Bellevue, Washington, USA. 2011. 
 
-### Options
+- Peyman Yademellat, Masoud Nosrati, Yunfei Zhang, Hengshuai Yao, Hongbo Zhang, Jun Luo, Reinforcement learning-based behavior planning and evaluation framework for autonomous driving, 2018.  
+
 - Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. [Universal Option Models](papers/uom.pdf). NIPS. Montreal, Quebec, Canada. [bib](bib.txt)
 
     - Abstract: We consider the problem of learning models of options for real-time abstract planning, in the setting where reward functions can be specified at any time and their expected returns must be efficiently computed. We introduce a new model for an option that is independent of any reward function, called the universal option model (UOM). We prove that the UOM of an option can construct a traditional option model given a reward function, and also supports efficient computation of the option-conditional return. We extend the UOM to linear function approximation, and we show the UOM gives the TD solution of option returns and the value function of a policy over options. We provide a stochastic approximation algorithm for incrementally learning UOMs from data and prove its consistency. We demonstrate our method in two domains. The first domain is a real-time strategy game, where the controller must select the best game unit to accomplish a dynamically-specified task. The second domain is article recommendation, where each user query defines a new reward function and an article's relevance is the expected return from following a policy that follows the citations between articles. Our experiments show that UOMs are substantially more efficient than previously known methods for evaluating option returns and policies over options.
 
-### Web Search
 - Yao, H. and Schuurmans, D. 2013. [Reinforcement Ranking](papers/rr.pdf). 
     - Abstract: We introduce a new framework for web page ranking -- reinforcement ranking -- that improves the stability and accuracy of Page Rank while eliminating the need for computing the stationary distribution of random walks. Instead of relying on teleportation to ensure a well defined Markov chain, we develop a reverse-time reinforcement learning framework that determines web page authority based on the solution of a reverse Bellman equation. In particular, for a given reward function and surfing policy we recover a well defined authority score from a reverse-time perspective: looking back from a web page, what is the total incoming discounted reward brought by the surfer from the page's predecessors? This results in a novel form of reverse-time dynamic-programming/ 	reinforcement-learning problem that achieves several advantages over Page Rank based methods: First, stochasticity, ergodicity, and irreducibility of the underlying Markov chain is no longer required for well-posedness. Second, the method is less sensitive to graph topology and more stable in the presence of dangling pages. Third, not only does the reverse Bellman iteration yield a more efficient power iteration, it allows for faster updating in the presence of graph changes. Finally, our experiments demonstrate improvements in ranking quality.
     
