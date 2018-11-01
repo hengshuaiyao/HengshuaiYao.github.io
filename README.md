@@ -16,7 +16,6 @@ From 2008 to 2014, I was studying my Ph.D at University of Alberta, working on R
 - Borislav Mavrin (2018.05-)
 - [Yangchen Pan](https://ca.linkedin.com/in/yangchen-pan-59704471) (2018.05-)
 - [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-)
-- [Chen Ma](https://arxiv.org/abs/1804.03758) (2018.05-)
 - [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu) (2017.02-)
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09)
 - Hengshuai Yao (2017.02-)
@@ -38,11 +37,9 @@ From 2008 to 2014, I was studying my Ph.D at University of Alberta, working on R
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
-- ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search. Shangtong Zhang, Hao Chen, Hengshuai Yao. AAAI, Honolulu, 2019. (acceptance rate 16.2\%)
+- ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search. Shangtong Zhang, Hao Chen, Hengshuai Yao. AAAI, Honolulu, 2019. (acceptance rate 16.2%)
 
 - QUOTA: The Quantile Option Architecture for Reinforcement Learning. Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. AAAI, Honolulu, 2019.
-
-- Quantile for Exploration in Reinforcement Learning. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, AAAI, 2018.
 
 <!-- 
 Faster DRL with Episodic Replay: not sure it works.  
@@ -59,6 +56,7 @@ Faster DRL with Episodic Replay: not sure it works.
 
 - Expert Replay for Reinforcement Learning. [arxiv](), Hengshuai Yao, Shangtong Zhang 2018. 
 
+- Exploration using Distributional RL and UCB. Borislav Mavrin, Shangtong Zhang, Linglong Kong, Hengshuai Yao. AAAI, 2018.
 -->
 
 - Negative Log Likelihood Ratio Loss for Deep Neural Network Classification. Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu. [arxiv](https://arxiv.org/pdf/1804.10690.pdf), 2018.
