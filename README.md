@@ -20,31 +20,44 @@ From 2008 to 2014, I was studying my Ph.D at University of Alberta, working on R
 - [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu) (2017.02-)
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09)
 - Hengshuai Yao (2017.02-)
+
+- Model-based Hierarchical Reinforcement Learning for Behavior and Motion Planning. Yangchen Pan, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Elmira, Yunfei Zhang. 
+
+- Fast DDPG Trained Offline by Data Sweeping. Shangtong Zhang, Hengshuai Yao. 2018. ICLR. 
+
+- Learning Safe Maneuvers in Malicious Environment. ICRA, Nazmus, Shangtong Zhang, Hengshuai Yao, Hong Zhang. 2018. 
+
+- Offline Deep Policy Iteration. Shangtong Zhang, Hengshuai Yao. 2019. JAIR. DDPG and DQN. Roboschool, Atari games. 
+
+- Yangchen Pan, Hao Chen, Donglai Zhu, Hengshuai Yao, Option-conditioned Next Image Prediction and Expert Options for Model-based Reinforcement Learning: Precise Stopping-at-a-point, speed planning, pedestrian avoidance, ICRA, 2018. 
+
+- Deep Reinforcement Learning without Target Networks. 
 -->
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
+- ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search. Shangtong Zhang, Hao Chen, Hengshuai Yao. AAAI, Honolulu, 2019. (acceptance rate 16.2\%)
+
+- QUOTA: The Quantile Option Architecture for Reinforcement Learning. Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. AAAI, Honolulu, 2019.
+
+- Quantile for Exploration in Reinforcement Learning. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, AAAI, 2018.
 
 <!-- 
-- Equivalence and Link between Option-Critic and DDPG. Shangtong Zhang and Hengshuai Yao. 2018. 
+Faster DRL with Episodic Replay: not sure it works.  
 
-- Negative Log Likelihood Ratio Loss for Deep Neural Network Classification. Donglai Zhu, Hengshuai Yao, Bei Jiang and Peng Yu, 2018. 
+- Deterministic Option-Critic and Gamma-Agents. [arxiv](), Shangtong Zhang and Hengshuai Yao. ICLR, 2018. 
 
-- Quantile Reinforcement Learning. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, 2018.
+- High-Precision Control for Autonomous Driving. Hao Chen, Shangtong, Hengshuai Yao. ICRA, 2018.
 
-- Distribution Reinforcement Learning. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, 2018.
-
-- Universal Successor Representation. Chen Ma, Hengshuai Yao, 2018. 
+- Neural Map and Dyna-Net for Reinforcement Learning. Hengshuai Yao, 2018. 
 
 - Inverse Reinforcement Learning for Autonomous Driving. Donglai Zhu, Hengshuai Yao, 2018. 
- 
-- Expert Replay for Reinforcement Learning. Shangtong Zhang, Hengshuai Yao, 2018
 
 - Expert Representation for Fast Reinforcement Learning. Shangtong Zhang, Hao Chen, Hengshuai Yao, 2018.  
 
-- Yangchen Pan, Hao Chen, Donglai Zhu, Hengshuai Yao, Option-conditioned Next Image Prediction and Expert Options for Model-based Reinforcement Learning: Precise Stopping-at-a-point, 2018. 
+- Expert Replay for Reinforcement Learning. [arxiv](), Hengshuai Yao, Shangtong Zhang 2018. 
 
 -->
 
@@ -60,7 +73,7 @@ between correct and competing classes. It significantly
 outperforms the cross-entropy loss on the CIFAR-10 image
 classification task.
 
-- Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. Practical Issues of Action-conditioned Next Image Prediction. [arxiv](https://arxiv.org/abs/1802.02975), 2018.
+- Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. Practical Issues of Action-conditioned Next Image Prediction. International Conference on Intelligent Transportation Systems (ITSC), [arxiv](https://arxiv.org/abs/1802.02975), 2018.
 
     - Abstract: The problem of action-conditioned image prediction in robotics is to
 predict the expected next frame given the current camera frame the robot
