@@ -56,7 +56,7 @@ Faster DRL with Episodic Replay: not sure it works.
 
 - Expert Replay for Reinforcement Learning. [arxiv](), Hengshuai Yao, Shangtong Zhang 2018. 
 
-- Exploration using Distributional RL and UCB. Borislav Mavrin, Shangtong Zhang, Linglong Kong, Hengshuai Yao. AAAI, 2018.
+- Exploration using Distributional RL and UCB. Borislav Mavrin, Shangtong Zhang, Linglong Kong, Hengshuai Yao. ICLR, 2018. [pdf](https://openreview.net/forum?id=S1fNJhRqFX)
 -->
 
 - Negative Log Likelihood Ratio Loss for Deep Neural Network Classification. Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu. [arxiv](https://arxiv.org/pdf/1804.10690.pdf), 2018.
