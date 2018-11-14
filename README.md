@@ -37,9 +37,9 @@ From 2008 to 2014, I was studying my Ph.D at University of Alberta, working on R
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
-- ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search. Shangtong Zhang, Hao Chen, Hengshuai Yao. AAAI, Honolulu, 2019. (acceptance rate 16.2%)
+- ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search. Shangtong Zhang, Hao Chen, Hengshuai Yao. [arxiv](https://arxiv.org/abs/1811.02696), AAAI, Honolulu, 2019. (acceptance rate 16.2%)
 
-- QUOTA: The Quantile Option Architecture for Reinforcement Learning. Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. AAAI, Honolulu, 2019.
+- QUOTA: The Quantile Option Architecture for Reinforcement Learning. Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. [arxiv](https://arxiv.org/abs/1811.02073), AAAI, Honolulu, 2019.
 
 <!-- 
 Faster DRL with Episodic Replay: not sure it works.  
