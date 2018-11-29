@@ -59,7 +59,7 @@ Faster DRL with Episodic Replay: not sure it works.
 - Exploration using Distributional RL and UCB. Borislav Mavrin, Shangtong Zhang, Linglong Kong, Hengshuai Yao. ICLR, 2018. [pdf](https://openreview.net/forum?id=S1fNJhRqFX)
 -->
 
-- Negative Log Likelihood Ratio Loss for Deep Neural Network Classification. Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu. [arxiv](https://arxiv.org/pdf/1804.10690.pdf), 2018.
+- [Negative Log Likelihood Ratio Loss for Deep Neural Network Classification](https://arxiv.org/pdf/1804.10690.pdf). Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu., 2018.
 
 - Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. [Practical Issues of Action-conditioned Next Image Prediction](https://arxiv.org/abs/1802.02975). IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018.
 
@@ -82,8 +82,6 @@ Faster DRL with Episodic Replay: not sure it works.
 - Yao, H., Bhatnagar, S., and Szepesvari, Cs. Temporal difference learning by direct preconditioning. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
 
 - Yao, H. Off-policy learning with linear action models: an efficient "One-Collection-For-All-Solution". In workshop on "Planning and Acting with Uncertain Models" at the 28th ICML, Bellevue, Washington, USA. 2011. 
-
-- Peyman Yademellat, Masoud Nosrati, Yunfei Zhang, Hengshuai Yao, Hongbo Zhang, Jun Luo, Reinforcement learning-based behavior planning and evaluation framework for autonomous driving, 2018.  
 
 - Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. [Universal Option Models](papers/uom.pdf). NIPS. Montreal, Quebec, Canada. 
 
