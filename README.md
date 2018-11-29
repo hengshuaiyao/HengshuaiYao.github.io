@@ -61,11 +61,11 @@ Faster DRL with Episodic Replay: not sure it works.
 
 - Negative Log Likelihood Ratio Loss for Deep Neural Network Classification. Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu. [arxiv](https://arxiv.org/pdf/1804.10690.pdf), 2018.
 
-- Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. Practical Issues of Action-conditioned Next Image Prediction. International Conference on Intelligent Transportation Systems (ITSC), [arxiv](https://arxiv.org/abs/1802.02975), 2018.
+- Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. [Practical Issues of Action-conditioned Next Image Prediction](https://arxiv.org/abs/1802.02975). IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018.
 
 - Yao, H. and Szepesvari, Cs. [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. [bib](bib.txt)
 
-- Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. 2014. [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA. [bib](bib.txt)
+- Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. 2014. [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA. 
 
 - Yao, H., Sutton, R. S., Bhatnagar, S., Diao, D., and Szepesvari, Cs. [Dyna(k): A multi-step Dyna planning. Abstraction in Reinforcement Learning](papers/dynak.pdf). Montreal, Canada. June 2009. 
 
@@ -85,7 +85,7 @@ Faster DRL with Episodic Replay: not sure it works.
 
 - Peyman Yademellat, Masoud Nosrati, Yunfei Zhang, Hengshuai Yao, Hongbo Zhang, Jun Luo, Reinforcement learning-based behavior planning and evaluation framework for autonomous driving, 2018.  
 
-- Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. [Universal Option Models](papers/uom.pdf). NIPS. Montreal, Quebec, Canada. [bib](bib.txt)
+- Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. [Universal Option Models](papers/uom.pdf). NIPS. Montreal, Quebec, Canada. 
 
 - Yao, H. and Schuurmans, D. 2013. [Reinforcement Ranking](papers/rr.pdf). 
     
