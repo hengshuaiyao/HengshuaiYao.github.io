@@ -61,37 +61,37 @@ Faster DRL with Episodic Replay: not sure it works.
 
 - [Negative Log Likelihood Ratio Loss for Deep Neural Network Classification](https://arxiv.org/pdf/1804.10690.pdf). Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu., 2018.
 
-- Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. [Practical Issues of Action-conditioned Next Image Prediction](https://arxiv.org/abs/1802.02975). IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018.
+- [Practical Issues of Action-conditioned Next Image Prediction](https://arxiv.org/abs/1802.02975). Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018.
 
-- Yao, H. and Szepesvari, Cs. [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. 
+- [Approximate Policy Iteration with Linear Action Models](papers/lamapi.pdf). Yao, H. and Szepesvari, Cs. Twenty-Sixth Conference on Artificial Intelligence. AAAI. Toronto, Canada. 2012. 
 
-- Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. 2014. [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA. 
+- [Pseudo-MDPs and Factored Linear Action Models](papers/pmdp.pdf). Yao, H., Szepesvari, Cs., Pires, B. A., and Zhang, X. IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL), Best student paper nomination, Orlando, Florida, USA, 2014. 
 
-- Yao, H., Sutton, R. S., Bhatnagar, S., Diao, D., and Szepesvari, Cs. [Dyna(k): A multi-step Dyna planning. Abstraction in Reinforcement Learning](papers/dynak.pdf). Montreal, Canada. June 2009. 
+- [Dyna(k): A multi-step Dyna planning. Abstraction in Reinforcement Learning](papers/dynak.pdf). Yao, H., Sutton, R. S., Bhatnagar, S., Diao, D., and Szepesvari, Cs. Montreal, Canada. June 2009. 
 
-- Yao, H., Bhatnagar, S., and Diao, D. [Multi-step linear Dyna-style planning](papers/multi-step-dyna.pdf). Advances in Neural Information Processing Systems (NIPS) 22, Vancouver, BC, Canada. 2009.
+- [Multi-step linear Dyna-style planning](papers/multi-step-dyna.pdf). Yao, H., Bhatnagar, S., and Diao, D. Advances in Neural Information Processing Systems (NIPS) 22, Vancouver, BC, Canada. 2009.
 
-- Yao, H. Linear least-squares Dyna-style planning. Technical Report TR11-04, Department of Computing Science, University of Alberta. 2011.
+- Linear least-squares Dyna-style planning. Yao, H. Technical Report TR11-04, Department of Computing Science, University of Alberta. 2011.
 
-- Yao, H., and Liu, Z-Q. [Preconditioned temporal difference learning](papers/ptd.pdf). The 25th International Conference on Machine learning (ICML), Helsinki, Finland. June 2008. 
+- [Preconditioned temporal difference learning](papers/ptd.pdf). Yao, H., and Liu, Z-Q. The 25th International Conference on Machine learning (ICML), Helsinki, Finland. June 2008. 
 
-- Yao, H., and Liu, Z-Q. [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
+- [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). Yao, H., and Liu, Z-Q. The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
    
-- Yao, H., Bhatnagar, S., and Szepesvari, Cs. [LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS](papers/lms2.pdf). The Forty-eighth IEEE Control and Decision Conference (CDC), Shanghai, China. December 2009. 
+- [LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS](papers/lms2.pdf). Yao, H., Bhatnagar, S., and Szepesvari, Cs. The Forty-eighth IEEE Control and Decision Conference (CDC), Shanghai, China. December 2009. 
 
-- Yao, H., Bhatnagar, S., and Szepesvari, Cs. Temporal difference learning by direct preconditioning. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
+- Temporal difference learning by direct preconditioning. Yao, H., Bhatnagar, S., and Szepesvari, Cs. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
 
-- Yao, H. Off-policy learning with linear action models: an efficient "One-Collection-For-All-Solution". In workshop on "Planning and Acting with Uncertain Models" at the 28th ICML, Bellevue, Washington, USA. 2011. 
+- Off-policy learning with linear action models: an efficient "One-Collection-For-All-Solution". Yao, H. In workshop on "Planning and Acting with Uncertain Models" at the 28th ICML, Bellevue, Washington, USA. 2011. 
 
-- Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. [Universal Option Models](papers/uom.pdf). NIPS. Montreal, Quebec, Canada. 
+- [Universal Option Models](papers/uom.pdf). Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. NIPS. Montreal, Quebec, Canada. 
 
-- Yao, H. and Schuurmans, D. 2013. [Reinforcement Ranking](papers/rr.pdf). 
+- [Reinforcement Ranking](papers/rr.pdf). Yao, H. and Schuurmans, D. 2013. 
     
-- Lee, C., Yao, H., He, X., Su, C., and Chang, J-Y. 2014. [A System to Predict Future Popularity: Learning to Classify](papers/trending.pdf). WWW (poster), Seol,Korea. 
+- [A System to Predict Future Popularity: Learning to Classify](papers/trending.pdf). Lee, C., Yao, H., He, X., Su, C., and Chang, J-Y. WWW (poster), Seol,Korea, 2014. 
 
-- Yao, H. 2012. [MaxRank: Discovering and Leveraging the Most Valuable Links for Ranking](papers/maxrank.pdf)
+- [MaxRank: Discovering and Leveraging the Most Valuable Links for Ranking](papers/maxrank.pdf). Yao, H. 2012.
        
-- Yao, H., Sutton R. and Rafiei D. [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). accepted by IEEE Transaction on Cybernetics-part B, 2014. 
+-  [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). Yao, H., Sutton R. and Rafiei D. accepted by IEEE Transaction on Cybernetics-part B, 2014. 
 
 ### Reviewing
 - NIPS 2018. Reviewer.
