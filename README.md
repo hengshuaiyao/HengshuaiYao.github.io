@@ -9,7 +9,7 @@ Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate
 - Donglai Zhu (2017.02-) 
 - Hao Chen (2016.11-)
 - Hengshuai Yao, (2017.02-)
-- [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07, Sabbatical)
+- [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07; sabbatical)
 - Yangchen Pan (2018.05-; internship)
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09; internship)
 - Nazmus Sakib. (2018.05-; internship)
@@ -89,7 +89,10 @@ Faster DRL with Episodic Replay: not sure it works.
        
 -  [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). Yao, H., Sutton R. and Rafiei D. accepted by IEEE Transaction on Cybernetics-part B, 2014. 
 
-### Reviewing
+### Professional Activities
+- IEEE International Conference on Intelligent Transportation Systems, Maui, Hawaii, 2018.11. conference presenter. 
+- Berkley DeepDrive (BDD) workshop, University of California, Berkley, California,  2017.11, participant. 
+- Huawei workshop on Reinforcement Learning, University of Alberta, co-organizer, 2017.09.  
 - NIPS 2018. Reviewer.
 - ICML 2018. Program Committee Member.
 - AAAI 2018. Program Committee Member
