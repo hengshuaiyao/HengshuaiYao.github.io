@@ -90,7 +90,7 @@ Faster DRL with Episodic Replay: not sure it works.
 -  [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). Yao, H., Sutton R. and Rafiei D. accepted by IEEE Transaction on Cybernetics-part B, 2014. 
 
 ### Professional Activities
-- Huawei workshop on Reinforcement Learning and Robotics, Montreal, Canada, presenter, 2018.12.  
+- Huawei workshop on Reinforcement Learning and Robotics, Montreal, Canada, 2018.12. presenter. 
 - IEEE International Conference on Intelligent Transportation Systems, Maui, Hawaii, 2018.11. conference presenter. 
 - Berkley DeepDrive (BDD) workshop, University of California, Berkley, California,  2017.11, participant. 
 - Huawei workshop on Reinforcement Learning, University of Alberta, Edmonton, Canada, co-organizer, 2017.09.  
