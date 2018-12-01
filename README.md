@@ -1,6 +1,8 @@
 ## About me:
+My name is Hengshuai Yao. I studied reinforcement learning from 2008 to 2015 in a Ph.D program, at Department of Computing Science, University of Alberta. My thesis is on model-based reinforcement learning in linear function approximation. During my Ph.D studies, I worked with Dr. Csaba Szepesvari, Dr. Rich Sutton, Dr. Dale Schuurmans, and Dr. Davood Rafiei. I joined NCSoft game studio in San Francisco in 2016 working on using reinforcement learning in games. I moved back to Canada in September 2017 and joined Huawei?s autonomous driving team in Toronto. 
 
-Since 2017, I am working on reinforcement learning and deep learning for autonomous driving. We're hiring full-time and intern positions for reinforcement learning and robotics. 
+After spending seven months (with Huawei Toronto) on autonomous driving and understanding the challenges and also realizing the potential of reinforcement learning for improving driving safety and saving lives, I was determined to move back to Edmonton to build a research team to study the application of Reinforcement Learning to driving. I founded and lead the ?Reinforcement Learning for Autonomous Driving (RLAD)? in Edmonton for Huawei Technologies. The positioning of RLAD lab to connect reinforcement learning researchers at University of Alberta to challenging real-world autonomous driving problems, providing resources to conduct their research. 
+
 ### RLAD Lab:
 Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate frontier safety questions in autonomous driving, study the potential and risks of using reinforcement learning. Our lab has a young and ambitious team and alumni:
 - Borislav Mavrin (2018.05-)
