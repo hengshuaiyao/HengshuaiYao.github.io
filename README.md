@@ -4,7 +4,7 @@ My name is Hengshuai Yao. I studied reinforcement learning from 2008 to 2015 in 
 After spending seven months (with Huawei Toronto) on autonomous driving and understanding the challenges and also realizing the potential of reinforcement learning for improving driving safety and saving lives, I was determined to move back to Edmonton to build a research team to study the application of Reinforcement Learning to driving. I founded and lead the ?Reinforcement Learning for Autonomous Driving (RLAD)? in Edmonton for Huawei Technologies. The positioning of RLAD lab to connect reinforcement learning researchers at University of Alberta to challenging real-world autonomous driving problems, providing resources to conduct their research. 
 
 ### RLAD Lab:
-Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate frontier safety questions in autonomous driving, study the potential and risks of using reinforcement learning. Our lab has a young and ambitious team and alumni:
+Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate frontier safety issues in autonomous driving, study the potential and risks of using Reinforcement Learning for driving. Our lab has a young and ambitious team and alumni:
 - Borislav Mavrin (2018.05-)
 - [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu)(2017.02-) 
 - [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-)
