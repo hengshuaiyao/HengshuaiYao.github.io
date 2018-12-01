@@ -1,10 +1,10 @@
 ## About me:
 My name is Hengshuai Yao. I studied reinforcement learning from 2008 to 2015 in a Ph.D program, at Department of Computing Science, University of Alberta. My thesis is on model-based reinforcement learning in linear function approximation. During my Ph.D studies, I worked with Dr. Csaba Szepesvari, Dr. Rich Sutton, Dr. Dale Schuurmans, and Dr. Davood Rafiei. I joined NCSoft game studio in San Francisco in 2016 working on using reinforcement learning in games. I moved back to Canada in September 2017 and joined Huawei Noah's Ark. 
 
-After spending seven months on autonomous driving and understanding the challenges and also realizing the potential of reinforcement learning for improving driving safety and saving lives, I was determined to build a research team to study the application of Reinforcement Learning to driving. I founded and lead the "Reinforcement Learning for Autonomous Driving (RLAD)" in Edmonton for Huawei Technologies. The positioning of RLAD lab to connect reinforcement learning researchers at University of Alberta to challenging real-world autonomous driving problems, providing resources to conduct their research. 
+After extensive work on autonomous driving and collaboration with colleagues, I was determined to build a research team to study the application of Reinforcement Learning to driving. I founded and lead the "Reinforcement Learning for Autonomous Driving (RLAD)" in Edmonton for Huawei Technologies. The positioning of RLAD lab to connect reinforcement learning researchers at University of Alberta to challenging real-world autonomous driving problems, providing resources to conduct world-class research. 
 
 ### RLAD Lab:
-Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate frontier safety issues in autonomous driving, study the potential and risks of using Reinforcement Learning for driving. Our lab has a young and ambitious team and alumni:
+Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate frontier safety issues in autonomous driving, study the potential and risks of using Reinforcement Learning for driving, aiming to saving human lives on the future roads. Our lab has a young and ambitious team and alumni:
 - Borislav Mavrin (2018.05-)
 - [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu)(2017.02-) 
 - [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-)
@@ -13,13 +13,6 @@ Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate
 - [Yangchen Pan](https://ca.linkedin.com/in/yangchen-pan-59704471) (2018.05-; internship)
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09; internship)
 - Nazmus Sakib. (2018.05-; internship)
-
-In 2016, I was building an AI game player and a character AI module for NCSoft (California).  
-
-In 2014, I was working on a mobile app startup (6 team members) in Edmonton during and after my PhD studies.  
-
-From 2008 to 2014, I was studying my Ph.D at University of Alberta, working on Reinforcement Learning, Reinforcement Ranking and Web Search. 
-
 
 ## Research
 - Model-based Hierarchical Reinforcement Learning for Behavior and Motion Planning. Yangchen Pan, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Elmira, Yunfei Zhang. 
