@@ -109,16 +109,16 @@ Faster DRL with Episodic Replay: not sure it works.
 - IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning(ADPRL) 2014, pc member.
 
 ## Robocup Soccer 
-
-a game of our team. The player was based on hierachical reinforcement learning. Decisions the player has to make include: dribbling, passing, running, shooting, goal keeping, positioning (team position), resting, defending, etc. A high-level policy learns how to select a decision, and a low-level controller executes the selected decision. Both the high-level and low-level contoller were learned using reinforcement learning.  
+I was a member of TsinghuAeolus (soccer simulation team at Tsinghua University) for World Cup Simulation League. 
+A game of our team TsinghuAeolus playing against Everest in the final match at Robocup 2003. The player was based on hierarchical reinforcement learning. Decisions the player has to make include: dribbling, passing, running, shooting, goal keeping, positioning (team position), resting, defending, etc. A high-level policy learns how to select a decision, and a low-level controller executes the selected decision. Both the high-level and low-level controller were learned using reinforcement learning.  
 <video src="videos/2d simulation game short.mp4" width="640" height="400" autoplay controls preload></video>
 
 ## Tetris
-Using a policy iteration algorithm to play a tetris game. In this game, only considering the "S" and "Z" shapes (harder than the original game). The player was trained with data of randomly playing the game.   
+Using a policy iteration algorithm to play a Tetris game. In this game, only considering the "S" and "Z" shapes (harder than the original game). The player was trained with data of randomly playing the game.   
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
 
 ## Openprice
-The mobile App is the product of our startup Openprice. The app helps users manage their receipts and manage shopping.  
+The mobile App is the product of our startup Openprice which I cofounded in 2016. The app helps users manage their receipts and manage shopping.  
 
 Uploading receipts and have it OCR-ed:
 <video src="videos/upload receipt.mp4" width="640" height="400" autoplay controls preload></video>
