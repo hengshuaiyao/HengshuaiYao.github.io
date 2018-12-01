@@ -1,6 +1,16 @@
 ## About me:
 
 Since 2017, I am working on reinforcement learning and deep learning for autonomous driving. We're hiring full-time and intern positions for reinforcement learning and robotics. 
+### RLAD Lab:
+Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate frontier safety questions in autonomous driving, study the potential and risks of using reinforcement learning. Our lab has a young and ambitious team and alumni:
+- Borislav Mavrin (2018.05-)
+- [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu)(2017.02-) 
+- [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-)
+- Hengshuai Yao, (2017.02-)
+- [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07, Sabbatical)
+- [Yangchen Pan](https://ca.linkedin.com/in/yangchen-pan-59704471) (2018.05-; internship)
+- [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09; internship)
+- Nazmus Sakib. (2018.05-; internship)
 
 In 2016, I was building an AI game player and a character AI module for NCSoft (California).  
 
@@ -8,18 +18,8 @@ In 2014, I was working on a mobile app startup (6 team members) in Edmonton duri
 
 From 2008 to 2014, I was studying my Ph.D at University of Alberta, working on Reinforcement Learning, Reinforcement Ranking and Web Search. 
 
+
 ## Research
-
-<!-- 
-### Our RLAD Lab:
-- [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07)
-- Borislav Mavrin (2018.05-)
-- [Yangchen Pan](https://ca.linkedin.com/in/yangchen-pan-59704471) (2018.05-)
-- [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-)
-- [Donglai Zhu](https://www.researchgate.net/profile/Donglai_Zhu) (2017.02-)
-- [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09)
-- Hengshuai Yao (2017.02-)
-
 - Model-based Hierarchical Reinforcement Learning for Behavior and Motion Planning. Yangchen Pan, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Elmira, Yunfei Zhang. 
 
 - Fast DDPG Trained Offline by Data Sweeping. Shangtong Zhang, Hengshuai Yao. 2018. ICLR. 
