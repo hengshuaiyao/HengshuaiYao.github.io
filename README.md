@@ -14,7 +14,7 @@ Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09; internship)
 - Nazmus Sakib. (2018.05-; internship)
 
-<--
+<!---
 ## Research
 - Model-based Hierarchical Reinforcement Learning for Behavior and Motion Planning. Yangchen Pan, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Elmira, Yunfei Zhang. 
 
@@ -27,7 +27,7 @@ Our Reinforcement Learning for Autonomous Driving (RLAD) Lab aims to investigate
 - Yangchen Pan, Hao Chen, Donglai Zhu, Hengshuai Yao, Option-conditioned Next Image Prediction and Expert Options for Model-based Reinforcement Learning: Precise Stopping-at-a-point, speed planning, pedestrian avoidance, ICRA, 2018. 
 
 - Deep Reinforcement Learning without Target Networks. 
--->
+--->
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
