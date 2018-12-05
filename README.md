@@ -92,10 +92,9 @@ Faster DRL with Episodic Replay: not sure it works.
 ### Professional Activities
 - ICML 2016, 2017, 2018, 2019. Program Committee Member.
 - NIPS 2016, 2017, 2018. Reviewer.
-- AAAI 2018. Program Committee Member.
+- AAAI 2017, 2018. Program Committee Member.
 - AIStat 2018, 2019. Program committee member.
 - ACML 2017. Program Committee Member.
-- AIStats 2017, Program Committee Member.
 - CIKM 2016, Program Committee Member (both research and industry track).
 - WWW 2015, 2016, Program Committee Member (on web search)
 - The First Workshop on Heterogeneous Information Access at WSDM 2015, Program Committee Member.
