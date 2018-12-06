@@ -123,6 +123,7 @@ Store search and catalog search (the girl on skype is Reka our App and UI design
 
 Catalog we built (shown is Json format. The json files was injected to a MySQL database)
 <video src="videos/catalogDemo2.mp4" width="640" height="400" autoplay controls preload></video>
+
 -->
 
 ## Links
