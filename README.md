@@ -3,7 +3,7 @@ My name is Hengshuai Yao. I studied reinforcement learning at Reinforcement Lear
 
 ### RLAD Lab:
 I lead the "Reinforcement Learning for Autonomous Driving (RLAD)" in Edmonton for Huawei Technologies. 
-Our Lab aims to investigate fundamental issues in mobile robots, study potential and risks of using Reinforcement Learning for wheel robots. 
+Our Lab aims to investigate fundamental issues in mobile robots, study the potential and risks of using Reinforcement Learning for wheel robots. 
 - Borislav Mavrin (2018.05-)
 - Donglai Zhu (2017.02-) 
 - Hao Chen (2016.11-)
