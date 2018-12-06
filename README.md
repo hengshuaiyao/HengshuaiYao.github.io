@@ -108,6 +108,7 @@ Here shows a game of our team TsinghuAeolus playing against Everest in the final
 I developed a policy iteration algorithm to play a Tetris game. In this game, there are only hard shapes: "S" and "Z". The player was trained with data of randomly playing the game.   
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
 
+<!-- 
 ## Openprice
 The mobile App is the product of our startup Openprice which I cofounded in 2016. The app helps users manage their receipts and manage shopping.  
 
@@ -122,6 +123,7 @@ Store search and catalog search (the girl on skype is Reka our App and UI design
 
 Catalog we built (shown is Json format. The json files was injected to a MySQL database)
 <video src="videos/catalogDemo2.mp4" width="640" height="400" autoplay controls preload></video>
+-->
 
 ## Links
 - [Dr. Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/)
