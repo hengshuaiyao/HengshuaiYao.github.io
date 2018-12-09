@@ -64,11 +64,11 @@ Faster DRL with Episodic Replay: not sure it works.
 
 - [Dyna(k): A multi-step Dyna planning](papers/dynak.pdf). Yao, H., Sutton, R. S., Bhatnagar, S., Diao, D., and Szepesvari, Cs. ICML workshop on Abstraction in Reinforcement Learning, Montreal, Canada. June 2009. 
 
-- [Multi-step linear Dyna-style planning](papers/multi-step-dyna.pdf). Yao, H., Bhatnagar, S., and Diao, D. Advances in Neural Information Processing Systems (NIPS) 22, Vancouver, BC, Canada. 2009.
+- [Multi-step linear Dyna-style planning](papers/multi-step-dyna.pdf). Yao, H., Bhatnagar, S., and Diao, D. NIPS, Vancouver, BC, Canada. 2009.
 
 - Linear least-squares Dyna-style planning. Yao, H. Technical Report TR11-04, Department of Computing Science, University of Alberta. 2011.
 
-- [Preconditioned temporal difference learning](papers/ptd.pdf). Yao, H., and Liu, Z-Q. The 25th International Conference on Machine learning (ICML), Helsinki, Finland. June 2008. 
+- [Preconditioned temporal difference learning](papers/ptd.pdf). Yao, H., and Liu, Z-Q. ICML, Helsinki, Finland. June 2008. 
 
 - [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). Yao, H., and Liu, Z-Q. The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
    
@@ -89,12 +89,12 @@ Faster DRL with Episodic Replay: not sure it works.
 -  [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). Yao, H., Sutton R. and Rafiei D. accepted by IEEE Transaction on Cybernetics-part B, 2014. 
 
 ### Professional Activities
+- AAAI 2017, 2018. Program Committee Member.
+- ACML 2017. Program Committee Member.
+- AIStat 2018, 2019. Program committee member.
+- CIKM 2016, Program Committee Member (both research and industry track).
 - ICML 2016, 2017, 2018, 2019. Program Committee Member.
 - NIPS 2016, 2017, 2018. Reviewer.
-- AAAI 2017, 2018. Program Committee Member.
-- AIStat 2018, 2019. Program committee member.
-- ACML 2017. Program Committee Member.
-- CIKM 2016, Program Committee Member (both research and industry track).
 - WWW 2015, 2016. Program Committee Member (on web search)
 - The First Workshop on Heterogeneous Information Access at WSDM 2015, Program Committee Member.
 - IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning(ADPRL) 2014, Program Committee Member.
