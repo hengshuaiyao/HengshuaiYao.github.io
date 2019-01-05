@@ -37,7 +37,7 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 
 - [QUOTA: The Quantile Option Architecture for Reinforcement Learning](https://arxiv.org/abs/1811.02073). Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. AAAI (Oral presentation), Honolulu, 2019.
 
-- [Towards Comprehensive Maneuver Decisions for Lane Change Using Reinforcement Learning](https://openreview.net/forum?id=SJe9yugRcm). Chen Chen, Jun Qian, Hengshuai Yao, Jun Luo, Hongbo Zhang, Wulong Liu. NIPS Workshop on Machine Learning for Intelligent Transportation Systems(MLITS). 2018. 
+- [Towards Comprehensive Maneuver Decisions for Lane Change Using Reinforcement Learning](https://openreview.net/forum?id=SJe9yugRcm). Chen Chen, Jun Qian, Hengshuai Yao, Jun Luo, Hongbo Zhang, Wulong Liu. NIPS Workshop on Machine Learning for Intelligent Transportation Systems (MLITS). 2018. 
 
 - [Monte-Carlo Tree Search vs. Model-Predictive Controller: A Track-Following Example](https://openreview.net/forum?id=SyiF5-23Z&noteId=S1y46fu1M).  NIPS Workshop on Machine Learning for Intelligent Transportation Systems (MLITS), Hengshuai Yao, Masoud S. Nasrati, Kasra Rezaee. Long Beach, California, USA. 2017.
 
