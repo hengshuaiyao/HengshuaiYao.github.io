@@ -32,9 +32,13 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
+- [Towards Comprehensive Maneuver Decisions for Lane Change Using Reinforcement Learning](https://openreview.net/forum?id=SJe9yugRcm). Chen Chen, Jun Qian, Hengshuai Yao, Jun Luo, Hongbo Zhang, Wulong Liu. NIPS Workshop on Machine Learning for Intelligent Transportation Systems(MLITS). 2018. 
+
 - [ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search](https://arxiv.org/abs/1811.02696). Shangtong Zhang, Hao Chen, Hengshuai Yao. AAAI, Honolulu, 2019. (acceptance rate 16.2%)
 
-- [QUOTA: The Quantile Option Architecture for Reinforcement Learning](https://arxiv.org/abs/1811.02073). Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. AAAI, Honolulu, 2019.
+- [QUOTA: The Quantile Option Architecture for Reinforcement Learning](https://arxiv.org/abs/1811.02073). Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. AAAI (Oral presentation), Honolulu, 2019.
+
+- [Monte-Carlo Tree Search vs. Model-Predictive Controller: A Track-Following Example](https://openreview.net/forum?id=SyiF5-23Z&noteId=S1y46fu1M).  NIPS Workshop on Machine Learning for Intelligent Transportation Systems (MLITS), Hengshuai Yao, Masoud S. Nasrati, Kasra Rezaee. Long Beach, California, USA. 2017.
 
 <!-- 
 Faster DRL with Episodic Replay: not sure it works.  
@@ -44,8 +48,6 @@ Faster DRL with Episodic Replay: not sure it works.
 - High-Precision Control for Autonomous Driving. Hao Chen, Shangtong, Hengshuai Yao. ICRA, 2018.
 
 - Neural Map and Dyna-Net for Reinforcement Learning. Hengshuai Yao, 2018. 
-
-- Inverse Reinforcement Learning for Autonomous Driving. Donglai Zhu, Hengshuai Yao, 2018. 
 
 - Expert Representation for Fast Reinforcement Learning. Shangtong Zhang, Hao Chen, Hengshuai Yao, 2018.  
 
@@ -88,7 +90,7 @@ Faster DRL with Episodic Replay: not sure it works.
        
 -  [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). Yao, H., Sutton R. and Rafiei D. accepted by IEEE Transaction on Cybernetics-part B, 2014. 
 
-### Professional Activities
+### Reviewing
 - AAAI 2017, 2018. Program Committee Member.
 - ACML 2017. Program Committee Member.
 - AIStat 2018, 2019. Program committee member.
