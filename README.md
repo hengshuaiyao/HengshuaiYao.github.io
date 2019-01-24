@@ -4,14 +4,15 @@ My name is Hengshuai Yao. I studied reinforcement learning at Reinforcement Lear
 ### RLAD Lab:
 I lead the "Reinforcement Learning for Autonomous Driving (RLAD)" in Edmonton for Huawei Technologies. 
 Our Lab aims to investigate fundamental issues in mobile robots, study the potential and risks of using Reinforcement Learning for wheel robots. 
-- Borislav Mavrin (2018.05-)
 - Donglai Zhu (2017.02-) 
 - Hao Chen (2016.11-)
 - Hengshuai Yao, (2017.02-)
 - [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07; sabbatical)
-- Yangchen Pan (2018.05-; internship)
+- Yangchen Pan (2018.05-2018.12; internship)
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09; internship)
+- Borislav Mavrin (2018.05-)
 - Nazmus Sakib. (2018.05-; internship)
+- Taher Jafferjee. (2019.01-; internship)
 
 <!--
 ## Research
@@ -26,12 +27,17 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 - Yangchen Pan, Hao Chen, Donglai Zhu, Hengshuai Yao, Option-conditioned Next Image Prediction and Expert Options for Model-based Reinforcement Learning: Precise Stopping-at-a-point, speed planning, pedestrian avoidance, ICRA, 2018. 
 
 - Deep Reinforcement Learning without Target Networks. 
+
+- [Deep Reinforcement Learning with Decorrelation]. Borislav Mavrin, Hengshuai Yao, Linglong Kong. ICML, Long Beach, California, USA. 2019.
 -->
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
+- HC-Dyna: A Model-based Incremental Deep Reinforcement Learning Architecture. Yangchen Pan, Hengshuai Yao, Amir Masoud Farahmand, Matha White. AAMAS, Montreal, Canada. 2019.
+
+- Exploration in the face of Parametric and Intrinsic Uncertainties. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong. AAMAS, Montreal, Canada. 2019.
 
 - [ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search](https://arxiv.org/abs/1811.02696). Shangtong Zhang, Hao Chen, Hengshuai Yao. AAAI, Honolulu, 2019. (acceptance rate 16.2%)
 
