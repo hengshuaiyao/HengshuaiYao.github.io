@@ -35,7 +35,7 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
-- [Reinforcing Classical Planning for Adversary Driving Scenarios](papers/iros_final.pdf). Nazmus Sakib, Hengshuai Yao, Hong Zhang. Preprint. 
+- [Reinforcing Classical Planning for Adversary Driving Scenarios](papers/iros_final.pdf). Nazmus Sakib, Hengshuai Yao, Hong Zhang. Preprint, March 2019. 
 
 - HC-Dyna: A Model-based Incremental Deep Reinforcement Learning Architecture. Yangchen Pan, Hengshuai Yao, Amir Masoud Farahmand, Matha White. AAMAS, Montreal, Canada. 2019.
 
