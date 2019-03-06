@@ -99,7 +99,7 @@ Faster DRL with Episodic Replay: not sure it works.
 -  [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). Yao, H., Sutton R. and Rafiei D. accepted by IEEE Transaction on Cybernetics-part B, 2014. 
 
 ### Reviewing
-AAAI, ADPRL, ACML, AIStat, CIKM, ICML, NIPS, WWW.
+AAAI, ICML, NIPS, UAI, ADPRL, AIStat, CIKM, WWW.
 
 ## Robocup Soccer 
 I was a member of TsinghuAeolus (soccer simulation team at Tsinghua University) for World Cup Simulation League. 
