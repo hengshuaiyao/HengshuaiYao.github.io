@@ -1,11 +1,10 @@
 ## Hello, world!
 My name is Hengshuai Yao. I studied reinforcement learning at Reinforcement Learning and Artificial Intelligence (RLAI) lab from 2008 to 2015 in a Ph.D program at Department of Computing Science, University of Alberta. My thesis is on model-based reinforcement learning with linear function approximation. During my Ph.D studies, I worked with Dr. Csaba Szepesvari, Dr. Rich Sutton, Dr. Dale Schuurmans, and Dr. Davood Rafiei on reinforcement learning theory, algorithms and web applications. I joined NCSoft game studio in San Francisco in 2016 working on  reinforcement learning in games. I moved back to Canada in 2017 and joined Huawei Noah's Ark Lab. 
 
-### RLAD Lab:
-I lead the "Reinforcement Learning for Autonomous Driving (RLAD)" in Edmonton for Huawei Technologies. 
-Our Lab aims to investigate fundamental issues in mobile robots, study the potential and risks of using Reinforcement Learning for wheel robots. 
-- Donglai Zhu (2017.02-) 
-- Hao Chen (2016.11-)
+### RL Lab:
+Our Lab aims to investigate fundamental issues in mobile robots, study the potential and risks of using reinforcement learning for robot machines. 
+- Donglai Zhu (2017.02-2019.02) 
+- Hao Chen (2016.11-2019.01)
 - Hengshuai Yao, (2017.02-)
 - [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07; sabbatical)
 - Yangchen Pan (2018.05-2018.12; internship)
