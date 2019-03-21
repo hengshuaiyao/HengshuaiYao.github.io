@@ -34,6 +34,7 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 
 ### Publication
 - [Deep Reinforcement Learning with Decorrelation](https://arxiv.org/abs/1903.07765). Borislav Mavrin, Hengshuai Yao, and Linglong Kong, 2019. 
+
 <img src="videos/dqn_decor.png" alt="hi" class="inline"/>
 
 - [Reinforcing Classical Planning for Adversary Driving Scenarios](papers/iros_final.pdf). Nazmus Sakib, Hengshuai Yao, Hong Zhang. Preprint, March 2019. Video:
