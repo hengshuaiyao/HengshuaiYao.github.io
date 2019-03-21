@@ -27,15 +27,18 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 
 - Deep Reinforcement Learning without Target Networks. 
 
-- [Deep Reinforcement Learning with Decorrelation]. Borislav Mavrin, Hengshuai Yao, Linglong Kong. ICML, Long Beach, California, USA. 2019.
 -->
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
+- [Deep Reinforcement Learning with Decorrelation](https://arxiv.org/abs/1903.07765). Borislav Mavrin, Hengshuai Yao, and Linglong Kong, 2019. 
+<img src="videos/dqn_decor.png" alt="hi" class="inline"/>
+
 - [Reinforcing Classical Planning for Adversary Driving Scenarios](papers/iros_final.pdf). Nazmus Sakib, Hengshuai Yao, Hong Zhang. Preprint, March 2019. Video:
 <video src="videos/iros.mp4" width="640" height="400" autoplay controls preload></video>
+
 
 - Exploration in the face of Parametric and Intrinsic Uncertainties. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong. AAMAS, Montreal, Canada. 2019.
 
