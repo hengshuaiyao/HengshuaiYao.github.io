@@ -40,8 +40,7 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 - [Reinforcing Classical Planning for Adversary Driving Scenarios](papers/iros_final.pdf). Nazmus Sakib, Hengshuai Yao, Hong Zhang. Preprint, March 2019. Video:
 <video src="videos/iros.mp4" width="640" height="400" autoplay controls preload></video>
 
-
-- Exploration in the face of Parametric and Intrinsic Uncertainties. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong. AAMAS, Montreal, Canada. 2019.
+- [Exploration in the face of Parametric and Intrinsic Uncertainties](papers/dltv_aamas19.pdf). Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong. AAMAS, Montreal, Canada. 2019.
 
 - [ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search](https://arxiv.org/abs/1811.02696). Shangtong Zhang, Hao Chen, Hengshuai Yao. AAAI, Honolulu, 2019. (acceptance rate 16.2%)
 
