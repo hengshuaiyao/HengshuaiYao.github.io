@@ -15,7 +15,7 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 - [Chao Gao](https://scholar.google.ca/citations?user=N2H5y_MAAAAJ&hl=en) (2019.05-; internship)
 - [Vincent Liu](https://github.com/VincentLiu3) (2019.05-; internship)
 - [Chenjun Xiao](https://webdocs.cs.ualberta.ca/~chenjun/) (2019.05-; internship)
-- Paniz Behboudian (2019.05-; internship)
+- [Paniz Behboudian](https://ir.linkedin.com/in/panizbehboudian) (2019.05-; internship)
 
 <!--
 ## Research
