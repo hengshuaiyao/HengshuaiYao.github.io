@@ -5,13 +5,13 @@ My name is Hengshuai Yao. I studied reinforcement learning at Reinforcement Lear
 Our Lab aims to investigate fundamental issues in mobile robots, study the potential and risks of using reinforcement learning for robot machines. 
 - Donglai Zhu (2017.02-2019.02) 
 - Hao Chen (2016.11-2019.01)
-- Hengshuai Yao, (2017.02-)
+- Hengshuai Yao (2017.02-)
 - [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07; sabbatical)
 - Yangchen Pan (2018.05-2018.12; internship)
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09; internship)
 - Borislav Mavrin (2018.05-)
-- Nazmus Sakib. (2018.05-; internship)
-- Taher Jafferjee. (2019.01-; internship)
+- Nazmus Sakib (2018.05-; internship)
+- Taher Jafferjee (2019.01-; internship) 
 
 <!--
 ## Research
@@ -33,6 +33,8 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
+-[Efficient Exploration with Quantile Approximated Upper Confidence Bound]. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, California, USA. 2019.
+
 - [Deep Reinforcement Learning with Decorrelation](https://arxiv.org/abs/1903.07765). Borislav Mavrin, Hengshuai Yao, and Linglong Kong, 2019. 
 
 <img src="videos/dqn_decor.png" alt="hi" class="inline"/>
