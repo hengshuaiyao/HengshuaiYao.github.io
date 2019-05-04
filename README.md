@@ -3,9 +3,8 @@ My name is Hengshuai Yao. I studied reinforcement learning at Reinforcement Lear
 
 ### RL Lab:
 Our Lab aims to investigate fundamental issues in mobile robots, study the potential and risks of using reinforcement learning for robot machines. 
-- Donglai Zhu (2017.02-2019.02) 
-- Hao Chen (2016.11-2019.01)
-- Hengshuai Yao (2017.02-)
+- [Donglai Zhu](https://arxiv.org/pdf/1804.10690.pdf) (2017.02-2019.02) 
+- [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-2019.01)
 - [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07; sabbatical)
 - [Yangchen Pan](https://arxiv.org/abs/1806.06931) (2018.05-2018.12; internship)
 - [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09; internship)
