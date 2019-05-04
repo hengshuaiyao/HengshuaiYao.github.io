@@ -12,6 +12,10 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 - Borislav Mavrin (2018.05-)
 - Nazmus Sakib (2018.05-; internship)
 - Taher Jafferjee (2019.01-; internship) 
+- [Chao Gao](https://scholar.google.ca/citations?user=N2H5y_MAAAAJ&hl=en) (2019.05-; internship)
+- [Vincent Liu](https://github.com/VincentLiu3) (2019.05-; internship)
+- [Chenjun Xiao](https://webdocs.cs.ualberta.ca/~chenjun/) (2019.05-; internship)
+- Paniz Behboudian (2019.05-; internship)
 
 <!--
 ## Research
