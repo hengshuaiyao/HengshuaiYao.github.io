@@ -37,7 +37,7 @@ Our Lab aims to investigate fundamental issues in mobile robots, study the poten
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
--[Efficient Exploration with Quantile Approximated Upper Confidence Bound]. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, California, USA. 2019.
+- Efficient Exploration with Quantile Approximated Upper Confidence Bound. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, California, USA. 2019.
 
 - [Deep Reinforcement Learning with Decorrelation](https://arxiv.org/abs/1903.07765). Borislav Mavrin, Hengshuai Yao, and Linglong Kong, 2019. 
 
