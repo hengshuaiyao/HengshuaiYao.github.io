@@ -2,7 +2,7 @@
 My name is Hengshuai Yao. I studied reinforcement learning at Reinforcement Learning and Artificial Intelligence (RLAI) lab from 2008 to 2015 in a Ph.D program at Department of Computing Science, University of Alberta. My thesis is on model-based reinforcement learning with linear function approximation. During my Ph.D studies, I worked with Dr. Csaba Szepesvari, Dr. Rich Sutton, Dr. Dale Schuurmans, and Dr. Davood Rafiei on reinforcement learning theory, algorithms and web applications. I joined NCSoft game studio in San Francisco in 2016 working on  reinforcement learning in games. I moved back to Canada in 2017 and joined Huawei. 
 
 ### RL Lab:
-Our Lab aims to investigate fundamental issues in mobile robots, study the potential and risks of using reinforcement learning for robot machines. 
+Our Lab is focused on reinforcement learning for practical problems, from large state-action space problems to safety robot machines; as well as fundamental algorithm research. 
 - [Donglai Zhu](https://arxiv.org/pdf/1804.10690.pdf) (2017.02-2019.02) 
 - [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-2019.01)
 - [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07; sabbatical)
