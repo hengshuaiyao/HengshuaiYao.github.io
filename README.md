@@ -4,20 +4,6 @@ I studied reinforcement learning at Reinforcement Learning and Artificial Intell
 ### RL Lab:
 Our Lab is focused on reinforcement learning for practical problems, from large state-action space problems to safety robot machines; as well as fundamental algorithm research. 
 
-<!--
-- [Donglai Zhu](https://arxiv.org/pdf/1804.10690.pdf) (2017.02-2019.02) 
-- [Hao Chen](https://ca.linkedin.com/in/tomhaochen) (2016.11-2019.01)
-- [Linglong Kong](http://www.mathstat.ualberta.ca/~lkong/) (2018.07-2019.07; sabbatical)
-- [Yangchen Pan](https://arxiv.org/abs/1806.06931) (2018.05-2018.12; internship)
-- [Shangtong Zhang](https://github.com/ShangtongZhang) (2018.04-2018.09; internship)
-- [Borislav Mavrin](https://scholar.google.ca/citations?user=P9KhTOgAAAAJ&hl=en) (2018.05-)
-- [Nazmus Sakib](https://arxiv.org/abs/1903.08606) (2018.05-; internship)
-- [Taher Jafferjee](https://techstarsstartupweekedmonton2018.sched.com/taherjafferjee) (2019.01-; internship) 
-- [Chao Gao](https://scholar.google.ca/citations?user=N2H5y_MAAAAJ&hl=en) (2019.05-; internship)
-- [Vincent Liu](https://github.com/VincentLiu3) (2019.05-; internship)
-- [Chenjun Xiao](https://webdocs.cs.ualberta.ca/~chenjun/) (2019.05-; internship)
-- [Paniz Behboudian](https://ir.linkedin.com/in/panizbehboudian) (2019.05-; internship)
-
 ## Research
 - Model-based Hierarchical Reinforcement Learning for Behavior and Motion Planning. Yangchen Pan, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Elmira, Yunfei Zhang. 
 
