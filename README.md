@@ -4,21 +4,6 @@ I studied reinforcement learning at Reinforcement Learning and Artificial Intell
 ### RL Lab:
 Our Lab is focused on reinforcement learning for practical problems, from large state-action space problems to safety robot machines; as well as fundamental algorithm research. 
 
-## Research
-- Model-based Hierarchical Reinforcement Learning for Behavior and Motion Planning. Yangchen Pan, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Elmira, Yunfei Zhang. 
-
-- Fast DDPG Trained Offline by Data Sweeping. Shangtong Zhang, Hengshuai Yao. 2018. ICLR. 
-
-- Learning Safe Maneuvers in Malicious Environment. ICRA, Nazmus, Shangtong Zhang, Hengshuai Yao, Hong Zhang. 2018. 
-
-- Offline Deep Policy Iteration. Shangtong Zhang, Hengshuai Yao. 2019. JAIR. DDPG and DQN. Roboschool, Atari games. 
-
-- Yangchen Pan, Hao Chen, Donglai Zhu, Hengshuai Yao, Option-conditioned Next Image Prediction and Expert Options for Model-based Reinforcement Learning: Precise Stopping-at-a-point, speed planning, pedestrian avoidance, ICRA, 2018. 
-
-- Deep Reinforcement Learning without Target Networks. 
-
--->
-
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
