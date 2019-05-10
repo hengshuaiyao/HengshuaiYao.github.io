@@ -14,7 +14,7 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 
 - [Deep Reinforcement Learning with Decorrelation](https://arxiv.org/abs/1903.07765). Borislav Mavrin, Hengshuai Yao, and Linglong Kong, 2019. 
 
-<img src="videos/dqn_decor.png" alt="hi" class="inline"/>
+<img align="center" src="videos/dqn_decor.png" alt="hi" class="inline"/>
 
 - [Reinforcing Classical Planning for Adversary Driving Scenarios](papers/iros_final.pdf). Nazmus Sakib, Hengshuai Yao, Hong Zhang. Preprint, March 2019. Video:
 <video src="videos/iros.mp4" width="640" height="400" autoplay controls preload></video>
