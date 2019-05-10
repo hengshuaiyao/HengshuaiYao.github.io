@@ -8,6 +8,8 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
+- 
+
 - Efficient Exploration with Quantile Approximated Upper Confidence Bound. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, California, USA. 2019.
 
 - [Deep Reinforcement Learning with Decorrelation](https://arxiv.org/abs/1903.07765). Borislav Mavrin, Hengshuai Yao, and Linglong Kong, 2019. 
@@ -23,27 +25,13 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 
 - [QUOTA: The Quantile Option Architecture for Reinforcement Learning](https://arxiv.org/abs/1811.02073). Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. AAAI (Oral presentation), Honolulu, 2019.
 
+- [Negative Log Likelihood Ratio Loss for Deep Neural Network Classification](https://arxiv.org/pdf/1804.10690.pdf). Future Technologies Conference. Hengshuai Yao, Donglai Zhu, Bei Jiang, Peng Yu, San Francisco, USA. 2019.
+
 - [Towards Comprehensive Maneuver Decisions for Lane Change Using Reinforcement Learning](https://openreview.net/forum?id=SJe9yugRcm). Chen Chen, Jun Qian, Hengshuai Yao, Jun Luo, Hongbo Zhang, Wulong Liu. NIPS Workshop on Machine Learning for Intelligent Transportation Systems (MLITS). 2018. 
 
-- [Monte-Carlo Tree Search vs. Model-Predictive Controller: A Track-Following Example](https://openreview.net/forum?id=SyiF5-23Z&noteId=S1y46fu1M).  NIPS Workshop on Machine Learning for Intelligent Transportation Systems (MLITS), Hengshuai Yao, Masoud S. Nasrati, Kasra Rezaee. Long Beach, California, USA. 2017.
+- [Monte-Carlo Tree Search vs. Model-Predictive Controller: A Track-Following Example](https://openreview.net/forum?id=SyiF5-23Z&noteId=S1y46fu1M).  NIPS Workshop on Machine Learning for Intelligent Transportation Systems (MLITS), Hengshuai Yao, Masoud S. Nasrati, Kasra Rezaee. Long Beach, USA. 2017. Video:
 
-<!-- 
-Faster DRL with Episodic Replay: not sure it works.  
-
-- Deterministic Option-Critic and Gamma-Agents. [arxiv](), Shangtong Zhang and Hengshuai Yao. ICLR, 2018. 
-
-- High-Precision Control for Autonomous Driving. Hao Chen, Shangtong, Hengshuai Yao. ICRA, 2018.
-
-- Neural Map and Dyna-Net for Reinforcement Learning. Hengshuai Yao, 2018. 
-
-- Expert Representation for Fast Reinforcement Learning. Shangtong Zhang, Hao Chen, Hengshuai Yao, 2018.  
-
-- Expert Replay for Reinforcement Learning. [arxiv](), Hengshuai Yao, Shangtong Zhang 2018. 
-
-- Exploration using Distributional RL and UCB. Borislav Mavrin, Shangtong Zhang, Linglong Kong, Hengshuai Yao. ICLR, 2018. [pdf](https://openreview.net/forum?id=S1fNJhRqFX)
--->
-
-- [Negative Log Likelihood Ratio Loss for Deep Neural Network Classification](https://arxiv.org/pdf/1804.10690.pdf). Donglai Zhu, Hengshuai Yao, Bei Jiang, Peng Yu., 2018.
+[![MCTS for lane following control](videos/udacity.png)](https://www.youtube.com/watch?v=YP7qPJSJAVU)
 
 - [Practical Issues of Action-conditioned Next Image Prediction](https://arxiv.org/abs/1802.02975). Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018.
 
