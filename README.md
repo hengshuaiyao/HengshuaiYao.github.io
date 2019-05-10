@@ -31,9 +31,7 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 
 - [Monte-Carlo Tree Search vs. Model-Predictive Controller: A Track-Following Example](https://openreview.net/forum?id=SyiF5-23Z&noteId=S1y46fu1M).  NIPS Workshop on Machine Learning for Intelligent Transportation Systems (MLITS), Hengshuai Yao, Masoud S. Nasrati, Kasra Rezaee. Long Beach, USA. 2017. Video:
 
-<img src="https://www.youtube.com/watch?v=YP7qPJSJAVU" alt="hi" class="inline"/>
-
-%[![alt text](videos/udacity.png)](https://www.youtube.com/watch?v=YP7qPJSJAVU){width="50%"}
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=YP7qPJSJAVU" frameborder="0" allowfullscreen></iframe>
 
 - [Practical Issues of Action-conditioned Next Image Prediction](https://arxiv.org/abs/1802.02975). Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018.
 
