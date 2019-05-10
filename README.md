@@ -17,7 +17,8 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 <img align="center" src="videos/dqn_decor.png" alt="hi" class="inline"/>
 
 - [Reinforcing Classical Planning for Adversary Driving Scenarios](papers/iros_final.pdf). Nazmus Sakib, Hengshuai Yao, Hong Zhang. Preprint, March 2019. Video:
-<video src="videos/iros.mp4" width="640" height="400" autoplay controls preload></video>
+
+<iframe width="640" height="400" src="https://www.youtube.com/embed/9BFYX1WRjtA" frameborder="0" allowfullscreen></iframe>
 
 - [Exploration in the face of Parametric and Intrinsic Uncertainties](papers/dltv_aamas19.pdf). Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong. AAMAS, Montreal, Canada. 2019.
 
