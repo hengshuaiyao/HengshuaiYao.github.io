@@ -10,7 +10,7 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 ### Publication
 - Hill-climbing on Value Estimates for Search-control in Dyna. Yangchen Pan, Hengshuai Yao, Amir Farahand Masoud, and Martha White. IJCAI. Macau, China, 2019.  
 
-- Efficient Exploration with Quantile Approximated Upper Confidence Bound. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, California, USA. 2019.
+- Efficient Exploration with Quantile Approximated Upper Confidence Bound. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, USA. 2019.
 
 - [Deep Reinforcement Learning with Decorrelation](https://arxiv.org/abs/1903.07765). Borislav Mavrin, Hengshuai Yao, and Linglong Kong, 2019. 
 
@@ -31,7 +31,7 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 
 - [Monte-Carlo Tree Search vs. Model-Predictive Controller: A Track-Following Example](https://openreview.net/forum?id=SyiF5-23Z&noteId=S1y46fu1M).  NIPS Workshop on Machine Learning for Intelligent Transportation Systems (MLITS), Hengshuai Yao, Masoud S. Nasrati, Kasra Rezaee. Long Beach, USA. 2017. Video:
 
-[![MCTS for lane following control](videos/udacity.png)](https://www.youtube.com/watch?v=YP7qPJSJAVU)
+[![alt text](videos/udacity.png)](https://www.youtube.com/watch?v=YP7qPJSJAVU)
 
 - [Practical Issues of Action-conditioned Next Image Prediction](https://arxiv.org/abs/1802.02975). Donglai Zhu, Hao Chen, Hengshuai Yao, Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang. IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018.
 
