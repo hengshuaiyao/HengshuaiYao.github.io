@@ -8,7 +8,7 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
-- 
+- Hill-climbing on Value Estimates for Search-control in Dyna. Yangchen Pan, Hengshuai Yao, Amir Farahand Masoud, and Martha White. IJCAI. Macau, China, 2019.  
 
 - Efficient Exploration with Quantile Approximated Upper Confidence Bound. Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, California, USA. 2019.
 
