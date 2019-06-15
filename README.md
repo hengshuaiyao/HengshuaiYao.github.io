@@ -12,7 +12,7 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 
 - [Distributional Reinforcement Learning for Efficient Exploration](https://arxiv.org/abs/1905.06125). Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, USA. 2019.
 
-Here is the performance of a low-quantile $Q_{0.1}$ driving in CARLA (A 3D driving simulator) in a safety-based reward function. This motivates "Distributional Reinforcement Learning"! 
+Here is the testing performance of a low-quantile $Q_{0.1}$ driving in CARLA (A 3D driving simulator) in a safety-based reward function as we have more and more samples. This motivates "Distributional Reinforcement Learning"! 
 <div align="center">
 <img align="center" src="videos/carla_dltv.png" alt="hi" class="inline"/>
 </div>
