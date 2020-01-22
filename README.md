@@ -8,11 +8,11 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
-- [Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans](https://arxiv.org/abs/1911.03074). Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, Hengshuai Yao, Martin Jagersand, ICRA, 2020, Paris, France. 
+- [Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans](https://arxiv.org/abs/1911.03074). Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, Hengshuai Yao, Martin Jagersand, ICRA, 2020, Paris, France. [Video](https://youtu.be/SJYDiNjwYSQ)
 
-<div align="center">
-<iframe align= "middle" width="750" height="400" src="https://youtu.be/SJYDiNjwYSQ" frameborder="0" allowfullscreen></iframe>
-</div>
+%<div align="center">
+%<iframe align= "middle" width="750" height="400" src="https://youtu.be/SJYDiNjwYSQ" frameborder="0" allowfullscreen></iframe>
+%</div>
 
 - [Hill-climbing on Value Estimates for Search-control in Dyna](https://webdocs.cs.ualberta.ca/~whitem/publications/pan2019hill.pdf). Yangchen Pan, Hengshuai Yao, Amir Masoud Farahmand, and Martha White. IJCAI. Macau, China, 2019.  
 
