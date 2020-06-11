@@ -14,13 +14,16 @@ Our Lab is focused on reinforcement learning for practical problems, from large 
 
 - [Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans](https://arxiv.org/abs/1911.03074). Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, Hengshuai Yao, Martin Jagersand, ICRA, 2020, Paris, France. 
 
+<div align="center">
 <iframe width="678" height="381" src="https://www.youtube.com/embed/SJYDiNjwYSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 - [Hill-climbing on Value Estimates for Search-control in Dyna](https://webdocs.cs.ualberta.ca/~whitem/publications/pan2019hill.pdf). Yangchen Pan, Hengshuai Yao, Amir Masoud Farahmand, and Martha White. IJCAI. Macau, China, 2019.  
 
 - [Distributional Reinforcement Learning for Efficient Exploration](https://arxiv.org/abs/1905.06125). Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, USA. 2019.
 
 Here is the testing performance of a low-quantile $Q_{0.1}$ driving in CARLA (A 3D driving simulator) in a safety-based reward function as we have more and more samples. This motivates "Distributional Reinforcement Learning"! 
+
 <div align="center">
 <img align="center" src="videos/carla_dltv.png" alt="hi" class="inline"/>
 </div>
