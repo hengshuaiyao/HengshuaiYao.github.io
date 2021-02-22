@@ -1,7 +1,7 @@
 ## Intro
 I studied reinforcement learning at Reinforcement Learning and Artificial Intelligence (RLAI) lab from 2008 to 2014 in a Ph.D program at Department of Computing Science, University of Alberta. My thesis is on model-based reinforcement learning with linear function approximation. During my Ph.D studies, I worked with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, and Davood Rafiei on reinforcement learning theory, algorithms and web applications. I joined NCSoft game studio in San Francisco in 2016 working on  reinforcement learning in games. I moved back to Canada and joined Huawei  in 2017. 
 
-I studied Mathematics in Shandong University of Technology with an entrance rank of the second place university-level and passed the national university entrance score with 100+ in 1999. Before that, I studied in a talented program at Zhaoyuan 1st Middle School with an entrance rank of top-20 city level.  
+I studied Mathematics in Shandong University of Technology with an entrance rank of the second place at university level and passed the national university entrance score with 100+ in 1999. Before that, I entered a talented program at Zhaoyuan 1st Middle School with a top-20 rank at a city level. I was accepted with a top 30 rank in the national graduate test out of 1500+ candidates by the computer science and engineering department of Tsinghua University in 2003. 
 
 ### RL Lab:
 Our Lab is focused on reinforcement learning for practical problems, from large state-action space problems to safety robot machines; as well as fundamental algorithm research. 
@@ -130,10 +130,9 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 - [Martin Jagersand](https://webdocs.cs.ualberta.ca/~jag/)
 - [Jonathan How](http://www.mit.edu/~jhow/)
 - [DeepMind Research](https://deepmind.com/research/)
-- [Peter Abbel](http://people.eecs.berkeley.edu/~pabbeel/)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 
 ## Contact
-my first name at gmail
+hengshu1 A@T ualberta.ca
 
 
