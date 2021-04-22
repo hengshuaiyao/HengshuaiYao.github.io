@@ -135,8 +135,9 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 
 ## Contact
-hengshu1 "At@" ualberta.ca
+hengshu1 "At@At" ualberta.ca
 
+## Life
 I live in Edmonton with my family, Dongcui, Alex, Marissa, and Dylan. Our favourite activity is to follow our cat Benji for a spiritual trail exploration. 
 
 
