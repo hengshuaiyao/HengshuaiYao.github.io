@@ -125,15 +125,6 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 
 -->
 
-## Links
-- [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/)
-- [Martin Muller](https://webdocs.cs.ualberta.ca/~mmueller/)
-- [Martha White](http://webdocs.cs.ualberta.ca/~whitem/)
-- [Martin Jagersand](https://webdocs.cs.ualberta.ca/~jag/)
-- [Jonathan How](http://www.mit.edu/~jhow/)
-- [DeepMind Research](https://deepmind.com/research/)
-- [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
-
 ## Contact
 hengshu1 "At@At" ualberta.ca
 
