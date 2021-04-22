@@ -1,5 +1,5 @@
 ## Intro
-My research interest is reinforcement learning with a focus on model-based methods. I'm very interested to understand the fundamental learning schemes in human beings and derive learning methods based on the understanding. My recent focus on stochastic gradient methods, step-size adaptation, and representation learning with neural networks. 
+My research interest is reinforcement learning with a focus on model-based methods. I'm very interested to understand the fundamental learning schemes in human beings and derive learning methods based on the understanding. My recent focus is on stochastic gradient methods, step-size adaptation, and sparse representation learning with neural networks. 
 
 I studied reinforcement learning at Reinforcement Learning and Artificial Intelligence (RLAI) lab from 2008 to 2014 in a Ph.D program at Department of Computing Science, University of Alberta. My thesis is on model-based reinforcement learning with linear function approximation. During my Ph.D studies, I worked with Csaba Szepesvari, Rich Sutton, Dale Schuurmans, and Davood Rafiei on reinforcement learning theory, algorithms and web applications. I joined NCSoft game studio in San Francisco in 2016 working on  reinforcement learning in games. I moved back to Canada and joined Huawei  in 2017. 
 
