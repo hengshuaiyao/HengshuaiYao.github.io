@@ -135,6 +135,6 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 
 ## Contact
-hengshu1 A@T ualberta.ca
+hengshu1 "At@" ualberta.ca
 
 
