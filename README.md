@@ -1,14 +1,18 @@
 ## Intro
-My research interest is reinforcement learning with a focus on model-based methods. I'm very interested to understand the fundamental learning schemes in human beings and derive learning methods based on the understanding. My recent focus is on stochastic gradient methods, step-size adaptation, and sparse representation learning with neural networks. 
+
+My research interest is reinforcement learning with a focus on model-based methods. My recent focus is on stochastic gradient methods, step-size adaptation, and sparse representation learning with neural networks. 
 
 I'm an adjunct professor at Department of Computing Science, University of Alberta. I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D program at the same department. I worked on offline model-based approximate policy iteration (with Csaba Szepesvari), multi-step linear Dyna-style planning (with Rich Sutton), a novel reinforcement learning perspective for PageRank (with Dale Schuurmans), and Webpage ranking and Web search (with Davood Rafiei). I interned with Yahoo! Sunnyvale in 2013 and practiced Hadoop for large-scale data experiments and won a championship (CEO award) for "TrendingNow" project that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I moved back to Canada and joined Huawei in 2017. I'm a technical lead of several joint lab projects between Huwei and University of Alberta. 
 
-I studied in a specialized program at the Department of Mathematics in Shandong University of Technology with an entrance rank of the second place at university level and passed the national university entrance score with 100+ in 1999. Before that, I entered a talented program at Zhaoyuan 1st Middle School with a top-20 rank at the city level. I was accepted with top 30 rank in the national graduate test out of 1500+ candidates by the computer science and engineering department of Tsinghua University in 2003. 
+I was accepted with 30+/1500 rank in the national graduate test by the computer science and engineering department of Tsinghua University in 2003.
+I studied in a specialized program at the Department of Mathematics in Shandong University of Technology with an entrance rank of the 2nd place at university level and passed the national university entrance score with 100+ in 1999.  I entered a talented program at Zhaoyuan 1st Middle School with a top-20 rank at the city level. 
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
+- [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862). Shangtong Zhang, Hengshuai Yao, and Shimon Whiteson, ICML, 2021.
+
 - [Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation](https://arxiv.org/abs/1911.04384). Shangtong Zhang, Bo Liu, Hengshuai Yao, and Shimon Whiteson, ICML, 2020.
 
 - [Weakly Guided Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs](https://arxiv.org/abs/2001.09540). Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, Hengshuai Yao, and Martin Jagersand, IJCAI, 2020.
