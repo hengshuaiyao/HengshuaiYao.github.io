@@ -4,8 +4,10 @@ My research interest is reinforcement learning with a focus on model-based metho
 
 I'm an adjunct professor at Department of Computing Science, University of Alberta. I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D program at the same department. I worked on offline model-based approximate policy iteration (with Csaba Szepesvari), multi-step linear Dyna-style planning (with Rich Sutton), a novel reinforcement learning perspective for PageRank (with Dale Schuurmans), and Webpage ranking and Web search (with Davood Rafiei). I interned with Yahoo! Sunnyvale in 2013 and practiced Hadoop for large-scale data experiments and won a championship (CEO award) for "TrendingNow" project that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I moved back to Canada and joined Huawei in 2017. I'm a technical lead of several joint lab projects between Huwei and University of Alberta. 
 
-I was accepted with 30+/1500 rank in the national graduate test by the computer science and engineering department of Tsinghua University in 2003.
-I studied in a specialized program at the Department of Mathematics in Shandong University of Technology with an entrance rank of the 2nd place at university level and passed the national university entrance score with 100+ in 1999.  I entered a talented program at Zhaoyuan 1st Middle School with a top-20 rank at the city level. 
+### Education: 
+* M.E, Tsinghua University, accepted with 30+/1500 rank in the national graduate test by the computer science and engineering department, 2003--2006.
+* B.S, Shandong University of Technology, a specialized program, Department of Mathematics in Shandong University of Technology, with an entrance rank of the 2nd place at university level and passed the national university entrance score with 100+, 1999--2003.  
+* Zhaoyuan 1st Middle School, a talented program with a top-20 entrance rank at the city level, 1996--1999. 
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
