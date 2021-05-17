@@ -6,7 +6,7 @@ I'm an adjunct professor at Department of Computing Science, University of Alber
 
 ### Education: 
 * M.E, Tsinghua University, accepted with 30+/1500 rank in the national graduate test by the computer science and engineering department, 2003--2006.
-* B.S, Shandong University of Technology, a specialized program, Department of Mathematics in Shandong University of Technology, with an entrance rank of the 2nd place at university level and passed the national university entrance score with 100+, 1999--2003.  
+* B.S, Shandong University of Technology, a specialized program, Department of Mathematics in Shandong University of Technology, with an entrance rank of the 2nd place at university level with a score 100+ higher than the national university entrance score, 1999--2003.  
 * Zhaoyuan 1st Middle School, a talented program with a top-20 entrance rank at the city level, 1996--1999. 
 
 ### Thesis
