@@ -2,11 +2,11 @@
 
 My research interest is reinforcement learning with a focus on model-based methods. My recent focus is on stochastic gradient methods, step-size adaptation, and sparse representation learning with neural networks. 
 
-I'm an adjunct professor at Department of Computing Science, University of Alberta. I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D program at the same department. I worked on offline model-based approximate policy iteration (with Csaba Szepesvari), multi-step linear Dyna-style planning (with Rich Sutton), a novel reinforcement learning perspective for PageRank (with Dale Schuurmans), and Webpage ranking and Web search (with Davood Rafiei). I interned with Yahoo! Sunnyvale in 2013 and practiced Hadoop for large-scale data experiments and won a championship (CEO award) for "TrendingNow" project that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I moved back to Canada and joined Huawei in 2017. I'm a technical lead of several joint lab projects between Huwei and University of Alberta. 
+I'm an adjunct professor at Department of Computing Science, University of Alberta. I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D program at the same department. I worked on offline model-based approximate policy iteration (with Csaba Szepesvari), multi-step linear Dyna-style planning (with Rich Sutton), a novel reinforcement learning perspective for PageRank (with Dale Schuurmans), and Webpage ranking and Web search (with Davood Rafiei). I interned with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" project that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I joined Huawei in 2017. I'm a technical lead of the joint lab between University of Alberta and Huawei. 
 
 ### Education: 
 * M.E, Tsinghua University, accepted with 30+/1500 rank in the national graduate test by the computer science and engineering department, 2003--2006.
-* B.S, Shandong University of Technology, a specialized program, Department of Mathematics in Shandong University of Technology, with an entrance rank of the 2nd place at university level with a score 100+ higher than the national university entrance score, 1999--2003.  
+* B.S, Shandong University of Technology, a specialized program, department of mathematics, with an entrance rank of the 2nd place at university level, 1999--2003.  
 * Zhaoyuan 1st Middle School, a talented program with a top-20 entrance rank at the city level, 1996--1999. 
 
 ### Thesis
