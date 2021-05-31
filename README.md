@@ -1,6 +1,6 @@
 ## Intro
 
-My research interest is reinforcement learning with a focus on model-based methods. My recent focus is on stochastic gradient methods, step-size adaptation, and sparse representation learning with neural networks. 
+My research interest is model-based reinforcement learning. My recent focus is on stochastic gradient methods, step-size adaptation, and sparse representation learning with neural networks. 
 
 I'm an adjunct professor at Department of Computing Science, University of Alberta. I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D program at the same department. I worked on offline model-based approximate policy iteration (with Csaba Szepesvari), multi-step linear Dyna-style planning (with Rich Sutton), a novel reinforcement learning perspective for PageRank (with Dale Schuurmans), and Webpage ranking and Web search (with Davood Rafiei). I interned with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" project that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I joined Huawei in 2017. I'm a technical lead of the joint lab between University of Alberta and Huawei. 
 
