@@ -7,7 +7,7 @@ I'm an adjunct professor at Department of Computing Science, University of Alber
 ### Education: 
 * M.E, Tsinghua University, 30+/1500 entrance rank, department of computer science and engineering, 2003--2006.
 * B.S, Shandong University of Technology, specialized program, the 2nd place entrance rank at university level, department of mathematics, 1999--2003.  
-* Zhaoyuan 1st Middle School, specialized program, top-20 entrance rank at the Zhaoyuan city level, 1996--1999. 
+* Zhaoyuan 1st Middle School, specialized program, top-20 entrance rank at Zhaoyuan city level, 1996--1999. 
 
 ### Thesis
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
