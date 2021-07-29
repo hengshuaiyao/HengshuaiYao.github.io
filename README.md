@@ -13,7 +13,7 @@ I'm an adjunct professor at Department of Computing Science, University of Alber
 - Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
 
 ### Publication
-- Exploring Neural Architecture Search Space via Deep Deterministic Sampling. KEITH G. MILLS1, MOHAMMAD SALAMEH, DI NIU, FRED X. HAN, SEYED SAEED CHANGIZ REZAEI, HENGSHUAI YAO, and SHANGLING JUI. accepted by IEEE Access, 2021. 
+- Exploring Neural Architecture Search Space via Deep Deterministic Sampling. Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, Hengshuai Yao, and Shangling Jui. accepted by IEEE Access, 2021. 
 
 - [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862). Shangtong Zhang, Hengshuai Yao, and Shimon Whiteson, ICML, 2021.
 
