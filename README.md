@@ -8,7 +8,7 @@ I'm an adjunct professor at Department of Computing Science, University of Alber
 * Zhaoyuan 1st Middle School, specialized program, top-20 entrance rank at Zhaoyuan city level, 1996--1999. 
 
 ### Thesis
-- Yao, H. Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), 2015. 
+- Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, 2015. Thesis supervisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
 
 ### Publication
 - Exploring Neural Architecture Search Space via Deep Deterministic Sampling. Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, Hengshuai Yao, and Shangling Jui. accepted by IEEE Access, 2021. 
