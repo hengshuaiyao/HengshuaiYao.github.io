@@ -4,8 +4,8 @@ I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D pro
 
 ### Education: 
 * M.E, Tsinghua University, department of computer science and engineering, 2003--2006.
-* B.S, Shandong University of Technology, specialized program, department of mathematics, 1999--2003.  
-* Zhaoyuan 1st Middle School, specialized program, 1996--1999. 
+* B.S, Shandong University of Technology, department of mathematics, 1999--2003.  
+* Zhaoyuan 1st Middle School, 1996--1999. 
 
 ### Thesis
 - Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, 2015. Thesis supervisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
