@@ -1,5 +1,3 @@
-## Welcome to my homepage
-
 I'm an adjunct professor at Department of Computing Science, University of Alberta. My research interest is model-based reinforcement learning with a recent focus on stochastic gradient methods, step-size adaptation, and sparse representation learning. I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D program at the same department. I worked on offline model-based approximate policy iteration, multi-step linear Dyna-style planning, a novel reinforcement learning perspective for PageRank, and Webpage ranking and Web search. I interned with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" project that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I joined Huawei in 2017. I'm a technical lead of the joint lab between University of Alberta and Huawei. 
 
 ### Education: 
