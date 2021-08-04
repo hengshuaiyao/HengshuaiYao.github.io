@@ -11,7 +11,7 @@ I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D pro
 - Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, 2015. Thesis supervisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
 
 ### Publication
-- Exploring Neural Architecture Search Space via Deep Deterministic Sampling. Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, Hengshuai Yao, and Shangling Jui. accepted, IEEE Access, 2021. 
+- Exploring Neural Architecture Search Space via Deep Deterministic Sampling. Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, Hengshuai Yao, and Shangling Jui. accepted, IEEE Access, page(s): 1-13, 10.1109/ACCESS.2021.3101975IEEE Access, 2021. 
 
 - [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862). Shangtong Zhang, Hengshuai Yao, and Shimon Whiteson, ICML, 2021.
 
