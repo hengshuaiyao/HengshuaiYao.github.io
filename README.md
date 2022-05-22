@@ -1,6 +1,6 @@
-I'm an adjunct professor at Department of Computing Science, University of Alberta. My research interest is model-based reinforcement learning with a recent focus on stochastic gradient methods, step-size adaptation, and sparse representation learning. 
+I'm an adjunct professor at Department of Computing Science, University of Alberta. My research interest is model-based reinforcement learning with a recent focus on stochastic gradient methods especially step-size adaptation. 
 
-I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D program at the same department. I worked on offline model-based approximate policy iteration, multi-step linear Dyna-style planning, a novel reinforcement learning perspective for PageRank, and Webpage ranking and Web search. I interned with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" project that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I joined Huawei in 2017 and founded joint lab projects between University of Alberta and Huawei. 
+I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D program at the same department. I worked on offline model-based approximate policy iteration, multi-step linear Dyna-style planning, a novel reinforcement learning perspective for PageRank, and Webpage ranking and Web search. I did an internship with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" project that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I joined Huawei in 2017 and founded joint lab projects between University of Alberta and Huawei. 
 
 ### Education: 
 * M.E, Tsinghua University, department of computer science and engineering, 2003--2006.
@@ -11,6 +11,11 @@ I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D pro
 - Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, 2015. Thesis supervisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
 
 ### Publication
+
+- [Learning to Accelerate by the Methods of Step-size Planning](https://arxiv.org/abs/2204.01705). Hengshuai Yao. 2022. 
+
+- [Understanding and Mitigating the Limitations of Prioritized Replay](https://openreview.net/pdf?id=HBlNGvIicg9). Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani and Jun Luo. UAI, 2022. 
+
 - [Exploring Neural Architecture Search Space via Deep Deterministic Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404). Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, Hengshuai Yao, and Shangling Jui. IEEE Access, pp 110962-110974, volume 9 2021. 
 
 - [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862). Shangtong Zhang, Hengshuai Yao, and Shimon Whiteson, ICML, 2021.
