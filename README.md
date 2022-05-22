@@ -12,7 +12,7 @@ I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D pro
 
 ### Publication
 
-- [Learning to Accelerate by the Methods of Step-size Planning](https://arxiv.org/abs/2204.01705). Hengshuai Yao. 2022. 
+- [Learning to Accelerate by the Methods of Step-size Planning](https://arxiv.org/abs/2204.01705). Hengshuai Yao. arXiv:2204.01705. 2022. 
 
 In this paper, I discussed (1) why negative step-sizes make sense; (2)why diagonal-matrix step-size is suitable for deep learning and optimization; (3) why we should treat gradient descent update as data; and (4) Is it posible to use the gradient descent update data to learn and plan step-sizes?
 
