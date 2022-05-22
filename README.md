@@ -14,6 +14,15 @@ I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D pro
 
 - [Learning to Accelerate by the Methods of Step-size Planning](https://arxiv.org/abs/2204.01705). Hengshuai Yao. 2022. 
 
+In this paper, I discussed (1) why negative step-sizes make sense; (2)why diagonal-matrix step-size is suitable for deep learning and optimization; (3) why we should treat gradient descent update as data; and (4) Is it posible to use the gradient descent update data to learn and plan step-sizes?
+
+All the above four questions can be understood from this figure in the paper. 
+<div align="center">
+<img align="center" src="videos/csawg_illustration.png" alt="hi" class="inline"/>
+</div>
+
+- [A Roller Coaster View of Gradient Descent]. Hengshuai Yao, 2022. Slides  for the "learning to accelerate" paper. 
+
 - [Understanding and Mitigating the Limitations of Prioritized Replay](https://openreview.net/pdf?id=HBlNGvIicg9). Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani and Jun Luo. UAI, 2022. 
 
 - [Exploring Neural Architecture Search Space via Deep Deterministic Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404). Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, Hengshuai Yao, and Shangling Jui. IEEE Access, pp 110962-110974, volume 9 2021. 
