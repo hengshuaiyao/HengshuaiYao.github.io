@@ -21,7 +21,7 @@ All the above four questions can be understood from this figure in the paper.
 <img align="center" src="videos/csawg_illustration.png" alt="hi" class="inline"/>
 </div>
 
-- [A Roller Coaster View of Gradient Descent]. Hengshuai Yao, Slides for the "learning to accelerate" paper. AI Seminar, University of Alberta. June 3rd. 2022. 
+- A Roller Coaster View of Gradient Descent. Hengshuai Yao, Slides for the "learning to accelerate" paper. AI Seminar, University of Alberta. June 3rd. 2022. [Keynote file with animation](step-sizing.key). [pdf file](step-sizing.pdf)
 
 - [Understanding and Mitigating the Limitations of Prioritized Replay](https://openreview.net/pdf?id=HBlNGvIicg9). Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani and Jun Luo. UAI, 2022. 
 
