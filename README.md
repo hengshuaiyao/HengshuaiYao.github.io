@@ -1,4 +1,4 @@
-<img align="left" src="videos/head_picture1.jpeg" width="28%" height="28%" alt="hengshuai yao" class="inline"/>
+<img align="left" src="videos/head_picture1.jpeg" width="33%" height="33%" alt="hengshuai yao" class="inline"/>
 
 I'm an adjunct professor at Department of Computing Science, University of Alberta. 
 My research interest is model-based reinforcement learning with a recent focus on gradient descent especially step-size adaptation. 
