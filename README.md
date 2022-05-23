@@ -22,7 +22,7 @@ I studied reinforcement learning at the RLAI lab from 2008 to 2014 in a Ph.D pro
 
 In this paper, I discussed 
 <ul>
-   <li> a data perspective for gradient descent, and the possibility of using it to learn and plan step-sizes for an acceleration of gradient descent. </li>
+   <li> a data perspective for gradient descent, and the possibility of using the gradient descent update data to learn and plan step-sizes for an acceleration of gradient descent. </li>
    <li> a new understanding of individual step-sizes for parameters, that the collection of them, in the form of diagonal matrix as we explored in the paper, can be viewed as a multi-step transition model for gradient descent update. </li>
    <li> the diagonal-matrix step-size has the same projection power as a full-sized matrix. </li>
    <li> why negative step-sizes make sense for both deterministic and stochastic settings for fast convergence. </li>
