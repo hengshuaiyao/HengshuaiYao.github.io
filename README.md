@@ -28,7 +28,7 @@ In this paper, I discussed
    <li> why negative step-sizes make sense for both deterministic and stochastic settings for fast convergence. </li>
  </ul>
 
-All the above four questions can be understood from this figure in the paper. 
+All the above four ideas can be understood from this figure in the paper. 
 <div align="center">
 <img align="center" src="videos/csawg_illustration.png" alt="hi" class="inline"/>
 </div>
