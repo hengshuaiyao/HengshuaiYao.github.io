@@ -33,7 +33,6 @@ All the above four ideas can be understood from this figure in the paper.
 <img align="center" src="videos/csawg_illustration.png" alt="hi" class="inline"/>
 </div>
 
-- A Roller Coaster View of Gradient Descent. Hengshuai Yao, Slides for the "learning to accelerate" paper. AI Seminar, University of Alberta. June 3rd. 2022. [(Keynote file with animation)](https://drive.google.com/file/d/1JXz8FFPxlcRHlk_8WpiSwrQLW4Fsiy34/view?usp=sharing) [(pdf file)](https://drive.google.com/file/d/1R4BLZ5COwgslX2G63mBXHdfiHBoIBleD/view?usp=sharing)
 
 - [Understanding and Mitigating the Limitations of Prioritized Replay](https://openreview.net/pdf?id=HBlNGvIicg9). Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani and Jun Luo. UAI, 2022. 
 
