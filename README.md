@@ -1,7 +1,7 @@
 <img align="left" src="videos/head_picture1.jpeg" width="33%" height="33%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
 Hi, my name is Hengshuai Yao. 
-My research interest is model-based reinforcement learning with a recent focus on gradient descent especially step-size adaptation. Interesting thing is I brought a connection between the two seemingly unrelated topics. Check the "learning to accelerate" paper below.
+My research interest is model-based reinforcement learning with a recent focus on gradient descent especially step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. Check the "learning to accelerate" paper below.
 
  I'm an adjunct professor at Department of Computing Science, University of Alberta, where I studied reinforcement learning at the RLAI lab from 2008 to 2014. I worked on offline model-based approximate policy iteration, multi-step linear Dyna-style planning, a novel reinforcement learning perspective for PageRank, and Webpage ranking and Web search. I did an internship with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" (check yahoo.com at the top right corner) that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I joined Huawei in 2017 and founded the joint lab projects with University of Alberta. 
 
@@ -24,7 +24,7 @@ In this paper, I discussed
 <ul>
    <li> a data perspective for gradient descent, and the possibility of using the gradient descent update data to learn and plan step-sizes for an acceleration of gradient descent. </li>
    <li> a new understanding of individual step-sizes for parameters, that the collection of them, in the form of diagonal matrix as we explored in the paper, can be viewed as a multi-step transition model for gradient descent update. </li>
-   <li> the diagonal-matrix step-size has the same projection power as a full-sized matrix. </li>
+   <li> the diagonal-matrix step-size has the same projection power as a full-sized matrix. Why is this important? The difference is O(n) or O(n^2). The difference is whether O(n) can be exact. This frees diagonal-step-size from approximating Hessian. </li>
    <li> why negative step-sizes make sense for both deterministic and stochastic settings for fast convergence. </li>
  </ul>
 
