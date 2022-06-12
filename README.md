@@ -163,7 +163,17 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 ## Contact
 hengshu1 "At@" ualberta.ca
 
-## Life
-I live in Edmonton with my family, Dongcui, Alex, Marissa, and Dylan. Our favourite activity is to follow our cat Benji for a spiritual trail exploration. 
+### Students 
+- Xing Chen, cosupervised with Yi Chang and Hechang Chen, School of Artificial Intelligence, Jilin University. 2020--
+- Yanqing Wu, cosupervised with Randy Goebel, Department of Computing Science, University of Alberta. 2022--
+- Nazmus Sakib, cosupervised with Hong Zhang, Department of Computing Science, University of Alberta. He graduated in 2020. Nazmus taught me what is positively making things possible with magic fingers from hard work. 
+- [Mennatullah Siam](https://scholar.google.com/citations?user=AVPds3kAAAAJ&hl=ar), Department of Computing Science, University of Alberta. mentored 2019 to 2020. Now a postdoc at York University. Menna taught me what is real passion for research. 
+- [Shangtong Zhang](http://shangtongzhang.github.io/), Department of Computing Science, University of Alberta. mentored 2019 to 2020, now an assistant professor at University of Virginia. Shangtong taught me what is productivity, creativity and persistence. 
+- Yangchen Pan, Department of Computing Science, University of Alberta, mentored in summer 2019 to 2020 on MCTS. He taught me the backward model for model-based RL. 
+- Chao Gao, Department of Computing Science, University of Alberta, mentored in summer 2019 to 2020 on MCTS. He taught me how MCTS works (however it appears I didn't learn well at that time; Only in 2022 I had a chance to better grasp it) and the game of Hex. 
+- [Arash Pourzarabi](https://www.cbc.ca/news/canada/edmonton/alberta-victims-plane-crash-iran-1.5418751), a very talented student I mentored in 2020 summer, always missed by us in PS752. Together we were working on deorrelation features for DQN. One month ago before that, he and me we were having lunch at Phobulous near UofA and I always remember his smile and bright eyes. 
+- Khuram Javed, Department of Computing Science, University of Alberta, mentored in summer 2019 to 2020 and I was learning meta learning from him.  
+- Yi Liu. Department of Mathematical and Statistical Sciences, University of Alberta. mentored in summer 2019. We were working on UCB and I was learning the mathematics behind UCB from him. 
+ 
 
 
