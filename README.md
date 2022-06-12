@@ -158,10 +158,6 @@ Store search and catalog search (the girl on skype is Reka our App and UI design
 Catalog we built (shown is Json format. The json files was injected to a MySQL database)
 <video src="videos/catalogDemo2.mp4" width="640" height="400" autoplay controls preload></video>
 
--->
-
-## Contact
-hengshu1 "At@" ualberta.ca
 
 ### Students 
 - Xing Chen, cosupervised with Yi Chang and Hechang Chen, School of Artificial Intelligence, Jilin University. 2020--
@@ -174,6 +170,12 @@ hengshu1 "At@" ualberta.ca
 - [Arash Pourzarabi](https://www.cbc.ca/news/canada/edmonton/alberta-victims-plane-crash-iran-1.5418751), a very talented student I mentored in 2020 summer, always missed by us in PS752. Together we were working on deorrelation features for DQN. One month ago before that, he and me we were having lunch at Phobulous near UofA and I always remember his smile and bright eyes. 
 - Khuram Javed, Department of Computing Science, University of Alberta, mentored in summer 2019 to 2020 and I was learning meta learning from him.  
 - Yi Liu. Department of Mathematical and Statistical Sciences, University of Alberta. mentored in summer 2019. We were working on UCB and I was learning the mathematics behind UCB from him. 
+
+-->
+
+## Contact
+hengshu1 "At@" ualberta.ca
+
  
 
 
