@@ -24,7 +24,7 @@ All the above four ideas can be understood from this figure in the paper.
 
 - [The Sufficiency of Off-policyness: PPO is insufficient according to an Off-policy Measure](https://arxiv.org/pdf/2205.10047.pdf). Xing Chen, Dongcui Diao, Hechang Chen, Hengshuai Yao, Jielong Yang, Haiyin Piao, Zhixiao Sun, Bei Jiang, Yi Chang. arXiv:2205.10047. 2022.
 
-This paper has an interesting observation: The famous PPO algorithm fails to discover better policies that is beyond the clip range of the importance sampling ratio. In particular, the figure below shows better policies can deviate as much as 20 to 60 times from the policy in last iteration! The [1-epsilon, 1+epsilon] by PPO is way too small.
+This paper has an interesting observation: The famous PPO algorithm fails to discover better policies that is beyond the clip range of the importance sampling ratio. In particular, the figure below shows better policies can deviate as much as 20 to 60 times from the policy in last iteration! The [1-epsilon, 1+epsilon] clipping for the importance sampling ratio by PPO is way too small. If one increases epsilon for PPO, it can becomes unstable because of the gradient variances. Our P3O is a solution to tame the importance sampling ratio in an interesting way.  
 
 <div align="center">
 <img align="center" src="videos/deon_ppo_p3o.png" alt="hi" class="inline"/>
