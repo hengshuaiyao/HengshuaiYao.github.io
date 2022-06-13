@@ -1,20 +1,9 @@
 <img align="left" src="videos/head_picture1.jpeg" width="33%" height="33%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-Hi, my name is Hengshuai Yao. 
-My research interest is model-based reinforcement learning with a recent focus on gradient descent especially step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. Check the "learning to accelerate" paper below.
+Hi, my name is Hengshuai Yao. My research interest is model-based reinforcement learning with a recent focus on gradient descent especially step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. Check the "learning to accelerate" paper below.
 
  I'm an adjunct professor at Department of Computing Science, University of Alberta, where I studied reinforcement learning at the RLAI lab from 2008 to 2014. I worked on offline model-based approximate policy iteration, multi-step linear Dyna-style planning, a novel reinforcement learning perspective for PageRank, and Webpage ranking and Web search. I did an internship with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" (check yahoo.com at the top right corner) that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I joined Huawei in 2017 and founded the joint lab projects with University of Alberta. 
 
-
-
-### Education: 
-* Ph.D, University of Alberta, Computing Science, 2008--2014. 
-* M.E, Tsinghua University, department of computer science and engineering, 2003--2006.
-* B.S, Shandong University of Technology, department of mathematics, 1999--2003.  
-* Zhaoyuan 1st Middle School, 1996--1999. 
-
-### Thesis
-- Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, defended in 2015. Thesis supervisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
 
 ### Publication
 
@@ -61,7 +50,7 @@ This paper has an interesting observation: The famous PPO algorithm fails to dis
 
 - [Distributional Reinforcement Learning for Efficient Exploration](https://arxiv.org/abs/1905.06125). Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, USA. 2019.
 
-Here is the testing performance of a low-quantile $Q_{0.1}$ driving in CARLA (A 3D driving simulator) in a safety-based reward function as we have more and more samples. This motivates "Distributional Reinforcement Learning"! 
+One cool thing about deep RL is the theory of distributional RL. However, why do we need to learn a distribution of value functions at all? While the theory of distributional RL is beautiful, it does not answer this question. This paper has an interesting use of the learned value function distribution, in particular, for efficient exploration based on the confidence interval computed from the distribution. Here is the testing performance of a low-quantile value function driving in CARLA. This learns even much faster than QR-DQN, which motivates "Distributional Reinforcement Learning"! 
 
 <div align="center">
 <img align="center" src="videos/carla_dltv.png" alt="hi" class="inline"/>
@@ -126,6 +115,17 @@ Here is the testing performance of a low-quantile $Q_{0.1}$ driving in CARLA (A 
 - [MaxRank: Discovering and Leveraging the Most Valuable Links for Ranking](papers/maxrank.pdf). Yao, H. 2012.
        
 -  [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). Yao, H., Sutton R. and Rafiei D. accepted by IEEE Transaction on Cybernetics-part B, 2014. 
+
+### Education: 
+* Ph.D, University of Alberta, Computing Science, 2008--2014. 
+* M.E, Tsinghua University, department of computer science and engineering, 2003--2006.
+* B.S, Shandong University of Technology, department of mathematics, 1999--2003.  
+* Zhaoyuan 1st Middle School, 1996--1999. 
+
+
+### Thesis
+- Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, defended in 2015. Thesis supervisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
+
 
 ### Reviewing
 AAAI, ICML, NIPS, UAI, ADPRL, AIStat, CIKM, WWW.
