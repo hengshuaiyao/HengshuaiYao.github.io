@@ -50,7 +50,7 @@ This paper has an interesting observation: The famous PPO algorithm fails to dis
 
 - [Distributional Reinforcement Learning for Efficient Exploration](https://arxiv.org/abs/1905.06125). Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, USA. 2019.
 
-One cool thing about deep RL is the theory of distributional RL. However, why do we need to learn a distribution of value functions at all? While the theory of distributional RL is beautiful, it does not answer this question. This paper has an interesting use of the learned value function distribution, in particular, for efficient exploration based on the confidence interval computed from the distribution. Here is the testing performance of a low-quantile value function driving in CARLA. This learns even much faster than QR-DQN, which motivates "Distributional Reinforcement Learning"! 
+One cool thing about deep RL is the theory of distributional RL. However, why do we need to learn a distribution of value functions at all? While the theory of distributional RL is beautiful, it does not answer this question. This paper has an interesting use of the learned value function distribution, in particular, for efficient exploration based on the confidence interval computed from the distribution. Here is the testing performance of this new exploratio method (DLTV) in CARLA. This learns even much faster than QR-DQN, which motivates "Distributional Reinforcement Learning"! 
 
 <div align="center">
 <img align="center" src="videos/carla_dltv.png" alt="hi" class="inline"/>
