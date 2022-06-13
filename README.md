@@ -148,13 +148,13 @@ I developed a policy iteration algorithm to play a Tetris game. In this game, th
 - Xing Chen, cosupervised with Yi Chang and Hechang Chen, School of Artificial Intelligence, Jilin University. 2020--; Visiting Alberta from August 2022. 
 - Yanqing Wu, cosupervised with Randy Goebel, Department of Computing Science, University of Alberta. 2022--
 - [Shangtong Zhang](http://shangtongzhang.github.io/), Department of Computing Science, University of Alberta. mentored 2018 summer, now an assistant professor at University of Virginia. Shangtong taught me what is productivity, creativity and persistence. 
-- [Mennatullah Siam](https://scholar.google.com/citations?user=AVPds3kAAAAJ&hl=ar), Department of Computing Science, University of Alberta. mentored 2019 to 2020. Now a postdoc at York University. Menna taught me what is real passion for research. 
+- [Mennatullah Siam](https://scholar.google.com/citations?user=AVPds3kAAAAJ&hl=ar), Department of Computing Science, University of Alberta. mentored 2019. Now a postdoc at York University. Menna taught me what is real passion for research. 
 - [Khuram Javed](https://scholar.google.com/citations?user=wG1tGakAAAAJ&hl=en), Department of Computing Science, University of Alberta, mentored in summer 2019, and I was learning meta learning from him.  
 - [Chao Gao](https://cgao3.github.io/), Department of Computing Science, University of Alberta, mentored in summer 2019 to 2020 on MCTS. He taught me how MCTS works (however it appears I didn't learn well at that time; Only in 2022 I had a chance to better grasp it) and the game of Hex for which he won the world Hex Tournament Champion twice. 
-- [Yangchen Pan](https://scholar.google.ca/citations?user=QyAsyYEAAAAJ&hl=en), Department of Computing Science, University of Alberta, mentored in summer 2019 to 2020. He taught me the backward model for model-based RL. 
+- [Yangchen Pan](https://scholar.google.ca/citations?user=QyAsyYEAAAAJ&hl=en), Department of Computing Science, University of Alberta, mentored in summer 2019. He taught me the backward model for model-based RL. 
 - Yi Liu. Department of Mathematical and Statistical Sciences, University of Alberta. mentored in summer 2019. We were working on UCB and I was learning the mathematics behind UCB from him. 
 - Nazmus Sakib, cosupervised with Hong Zhang, Department of Computing Science, University of Alberta. He graduated in 2020. Nazmus taught me what is positively making things possible with magic fingers from hard work. 
-- Arash Pourzarabi, a very talented student I mentored in 2020 summer, always missed by us in [PS752](https://www.cbc.ca/news/canada/edmonton/alberta-victims-plane-crash-iran-1.5418751). Together we were working on deorrelation features for DQN. One month ago before that, he and me we were having lunch at Phobulous near UofA and I always remember his smile and bright eyes. 
+- Arash Pourzarabi, a very talented student I mentored in 2019 summer, always missed by us in [PS752](https://www.cbc.ca/news/canada/edmonton/alberta-victims-plane-crash-iran-1.5418751). Together we were working on deorrelation features for DQN. One month ago before that, he and me we were having lunch at Phobulous near UofA and I always remember his smile and bright eyes. 
 
 <!-- 
 ## Openprice
@@ -171,7 +171,6 @@ Store search and catalog search (the girl on skype is Reka our App and UI design
 
 Catalog we built (shown is Json format. The json files was injected to a MySQL database)
 <video src="videos/catalogDemo2.mp4" width="640" height="400" autoplay controls preload></video>
-
 
 -->
 
