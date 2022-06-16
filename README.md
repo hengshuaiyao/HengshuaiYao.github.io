@@ -55,6 +55,8 @@ This paper has an interesting observation: The famous PPO algorithm fails to dis
 
 - [Hill-climbing on Value Estimates for Search-control in Dyna](https://webdocs.cs.ualberta.ca/~whitem/publications/pan2019hill.pdf). Yangchen Pan, Hengshuai Yao, Amir Masoud Farahmand, and Martha White. IJCAI. Macau, China, 2019.  
 
+---
+
 - [Distributional Reinforcement Learning for Efficient Exploration](https://arxiv.org/abs/1905.06125). Borislav Mavrin, Shangtong Zhang, Hengshuai Yao, Linglong Kong, Kaiwen Wu and Yaoliang Yu. ICML, Long Beach, USA. 2019.
 
 One cool thing about deep RL is the theory of distributional RL. However, why do we need to learn a distribution of value functions at all? While the theory of distributional RL is beautiful, it does not answer this question. This paper has an interesting use of the learned value function distribution, in particular, for efficient exploration based on the confidence interval computed from the distribution. Here is the testing performance of this new exploratio method (DLTV) in CARLA. This learns even much faster than QR-DQN, which motivates "Distributional Reinforcement Learning"! 
@@ -62,6 +64,8 @@ One cool thing about deep RL is the theory of distributional RL. However, why do
 <div align="center">
 <img align="center" src="videos/carla_dltv.png" alt="hi" class="inline"/>
 </div>
+
+---
 
 - [Deep Reinforcement Learning with Decorrelation](https://arxiv.org/abs/1903.07765). Borislav Mavrin, Hengshuai Yao, and Linglong Kong, 2019. 
 
