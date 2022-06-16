@@ -6,6 +6,7 @@ My research interest is model-based reinforcement learning and step-size adaptat
 
  I'm an adjunct professor at Department of Computing Science, University of Alberta, where I studied reinforcement learning at the RLAI lab. I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, a novel reinforcement learning perspective for PageRank, and Webpage ranking. I did an internship with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" (check yahoo.com at the top right corner) that detects trending topics in Yahoo search engine. I joined NCSoft game studio in San Francisco in 2016 working on reinforcement learning for mobile games. I was the founding PMs of a few joint lab projects between University of Alberta and Huawei Technologies Canada. 
 
+---
 
 ### Publication
 
@@ -24,6 +25,8 @@ All the above four ideas can be understood from this figure in the paper.
 <img align="center" src="videos/csawg_illustration.png" alt="hi" class="inline"/>
 </div>
 
+---
+
 - [The Sufficiency of Off-policyness: PPO is insufficient according to an Off-policy Measure](https://arxiv.org/pdf/2205.10047.pdf). Xing Chen, Dongcui Diao, Hechang Chen, Hengshuai Yao, Jielong Yang, Haiyin Piao, Zhixiao Sun, Bei Jiang, Yi Chang. arXiv:2205.10047. 2022.
 
 This paper has an interesting observation: The famous PPO algorithm fails to discover better policies that is beyond the clip range of the importance sampling ratio. In particular, the figure below shows better policies can deviate as much as 20 to 60 times from the policy in last iteration! The [1-epsilon, 1+epsilon] clipping for the importance sampling ratio by PPO is way too small. If one increases epsilon for PPO, it becomes worse and unstable in performance because of the gradient variances. Our P3O is a solution to tame the importance sampling ratio in an interesting way.  
@@ -31,6 +34,8 @@ This paper has an interesting observation: The famous PPO algorithm fails to dis
 <div align="center">
 <img align="center" src="videos/deon_ppo_p3o.png" alt="hi" class="inline"/>
 </div>
+
+---
 
 - [Understanding and Mitigating the Limitations of Prioritized Replay](https://openreview.net/pdf?id=HBlNGvIicg9). Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani and Jun Luo. UAI, 2022. 
 
