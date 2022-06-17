@@ -163,6 +163,7 @@ I developed a policy iteration algorithm to play a Tetris game. In this game, th
 
 ### Students 
 - Xing Chen, cosupervised with Yi Chang and Hechang Chen, School of Artificial Intelligence, Jilin University. 2020--; Visiting Alberta from August 2022. 
+- Zhaogeng Liu, cosupervised with Yi Chang, School of Artificial Intelligence, Jilin University. 2021- 
 - Yanqing Wu, cosupervised with Randy Goebel, Department of Computing Science, University of Alberta. September 2022--
 - [Shangtong Zhang](http://shangtongzhang.github.io/), Department of Computing Science, University of Alberta. mentored 2018 summer, now an assistant professor at University of Virginia. Shangtong taught me what is productivity, creativity and persistence. 
 - [Mennatullah Siam](https://scholar.google.com/citations?user=AVPds3kAAAAJ&hl=ar), Department of Computing Science, University of Alberta. mentored 2019. Now a postdoc at York University. Menna taught me what is real passion for research. 
