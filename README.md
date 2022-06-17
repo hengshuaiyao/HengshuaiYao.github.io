@@ -132,6 +132,7 @@ One cool thing about deep RL is the theory of distributional RL. However, why do
 
 - [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). Yao, H., and Liu, Z-Q. The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
 
+---
     
 ### Education: 
 * Ph.D, University of Alberta, Computing Science, 2008--2014. 
@@ -160,6 +161,7 @@ I developed a policy iteration algorithm to play a Tetris game. In this game, th
 <video src="videos/SZ tetris game short.mp4" width="640" height="400" autoplay controls preload></video>
 </div>
 
+---
 
 ### Students 
 - Xing Chen, Ph.D student, cosupervised with Yi Chang and Hechang Chen, School of Artificial Intelligence, Jilin University. 2020--; Visiting Alberta from August 2022. 
