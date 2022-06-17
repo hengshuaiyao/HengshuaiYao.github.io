@@ -196,7 +196,7 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 -->
 
 ## Contact
-hengshu1 "At@" ualberta.ca
+my ccid "At@" ualberta.ca; the ccid is hengshu1
 
  
 
