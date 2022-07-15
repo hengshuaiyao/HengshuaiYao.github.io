@@ -129,7 +129,7 @@ One cool thing about deep RL is the theory of distributional RL. However, why do
 
 - [Preconditioned temporal difference learning](papers/ptd.pdf). Yao, H., and Liu, Z-Q. ICML, Helsinki, Finland. June 2008. 
 
-This paper unfortunately carries too much heavy stuff of my life. When I look at or think of this paper, my thought is a little bit heavy. This paper inspired GTD, and TDC/GTD2 papers, but unfortunately [it was never recognized](papers/gtd_matters.pdf).  
+This paper inspired GTD, and TDC/GTD2 papers, but unfortunately [it was never recognized](papers/gtd_matters.pdf).  
 
 - [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). Yao, H., and Liu, Z-Q. The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
 
