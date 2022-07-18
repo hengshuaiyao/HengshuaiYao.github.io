@@ -129,8 +129,6 @@ One cool thing about deep RL is the theory of distributional RL. However, why do
 
 - [Preconditioned temporal difference learning](papers/ptd.pdf). Yao, H., and Liu, Z-Q. ICML, Helsinki, Finland. June 2008. 
 
-This paper inspired GTD, and TDC/GTD2 papers, but unfortunately [it was never recognized](papers/gtd_matters.pdf).  
-
 - [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). Yao, H., and Liu, Z-Q. The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
 
 ---
@@ -179,6 +177,10 @@ I developed a policy iteration algorithm to play a Tetris game. In this game, th
 - Arash Pourzarabi, a very talented student I mentored in 2019 summer, always missed by us in [PS752](https://www.cbc.ca/news/canada/edmonton/alberta-victims-plane-crash-iran-1.5418751). Together we were working on deorrelation features for DQN. One month ago before that, he and me we were having lunch at Phobulous near UofA and I always remember his smile and bright eyes. I sent him flowers on the memorial day held by UofA for this flight that carried a few students and professors. We need to make peace for the world. I should cherish life and do good things, including research. I will only work on and publish good things that I feel (very) confident that it can advance the state of the art of our science. If still not serious enough, I will add that the advancement has to be fundamental.     
 
 <!-- 
+
+
+This paper inspired GTD, and TDC/GTD2 papers, but unfortunately [it was never recognized](papers/gtd_matters.pdf).  
+
 ## Openprice
 The mobile App is the product of our startup Openprice which I cofounded in 2016. The app helps users manage their receipts and manage shopping.  
 
