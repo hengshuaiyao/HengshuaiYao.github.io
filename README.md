@@ -127,7 +127,9 @@ One cool thing about deep RL is the theory of distributional RL. However, why do
 - Temporal difference learning by direct preconditioning. Yao, H., Bhatnagar, S., and Szepesvari, Cs. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. 
 
 
-- [Preconditioned temporal difference learning](papers/ptd.pdf). Yao, H., and Liu, Z-Q. ICML, Helsinki, Finland. June 2008. This was submitted to NIPS 2007. The paper received a score/confidence from three reviewers (both out of ten): 8/10, 7/10, 5/2, and an average score of 7.27. However, finally the paper was rejected. A reviewer said: "I was really hoping for a paper like this which applies well-known concepts from linear algebra to recent RL algorithms that end up solving linear systems. It is really interesting to see the connection between LSTD and LSPE, both of them being variants of a general preconditioning method". The third reviewer indeed said "However, if I am a minority and other reviewers find this paper clear and understandable, my review should be wholly ignored." There was just no discussion and my paper got a silent rejection. [nips 2007 review](papers/ptd_nips.htm). 
+- [Preconditioned temporal difference learning](papers/ptd.pdf). Yao, H., and Liu, Z-Q. ICML, Helsinki, Finland. June 2008. I appreciate the three reviewers and all the reviewers who had spent their time reading this paper and given valuable feedbacks. 
+ 
+This was submitted to NIPS 2007. The paper received a score/confidence from three reviewers (both out of ten): 8/10, 7/10, 5/2, and an average score of 7.27. However, finally the paper was rejected. A reviewer said: "I was really hoping for a paper like this which applies well-known concepts from linear algebra to recent RL algorithms that end up solving linear systems. It is really interesting to see the connection between LSTD and LSPE, both of them being variants of a general preconditioning method". The third reviewer indeed said "However, if I am a minority and other reviewers find this paper clear and understandable, my review should be wholly ignored." A bit pity is that there was just no discussion and my paper got a rejection. [nips 2007 review](papers/ptd_nips.htm). For this reason, I take extreme care in reviewing papers especially those that I feel I don't understand well sometimes. 
 
 - [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). Yao, H., and Liu, Z-Q. The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
 
@@ -144,8 +146,8 @@ One cool thing about deep RL is the theory of distributional RL. However, why do
 - Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, defended in 2015. Thesis supervisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
 
 
-### Reviewing
-AAAI, ICML, NIPS, UAI, ADPRL, AIStat, CIKM, WWW.
+### Review service
+AAAI, ICML, NIPS, UAI, AIStat, ADPRL(2014-2015), CIKM (2011-2013), WWW(2011-2013).
 
 ## Robocup Soccer 
 I was a member of TsinghuAeolus (soccer simulation team at Tsinghua University) for World Cup Simulation League. 
@@ -178,8 +180,6 @@ I developed a policy iteration algorithm to play a Tetris game. In this game, th
 
 <!-- 
 
-
-This paper inspired GTD, and TDC/GTD2 papers, but unfortunately [it was never recognized](papers/gtd_matters.pdf).  
 
 ## Openprice
 The mobile App is the product of our startup Openprice which I cofounded in 2016. The app helps users manage their receipts and manage shopping.  
