@@ -4,7 +4,7 @@ Hi, my name is Hengshuai Yao.
 
 My research interest is model-based reinforcement learning and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. Check the "learning to accelerate" paper below.
 
- I'm an adjunct professor at Department of Computing Science, University of Alberta, where I studied reinforcement learning at the RLAI lab. I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, a novel reinforcement learning perspective for PageRank, and Webpage ranking. I did an internship with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" (check yahoo.com at the top right corner) that detects trending topics in Yahoo search engine. I worked on reinforcement learning for mobile games for NCSoft game studio in San Francisco in 2016. I was the founding PMs of a few joint lab projects between University of Alberta and Huawei Technologies Canada. 
+ I'm an adjunct professor at Department of Computing Science, University of Alberta. I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, a novel reinforcement learning perspective for PageRank. I did an internship with Yahoo! Sunnyvale in 2013 and won a championship (CEO award) for "TrendingNow" (yahoo.com at the top right corner) that detects trending topics in Yahoo search engine. I worked on reinforcement learning for mobile games for NCSoft game studio in San Francisco in 2016. I was the founding PMs of a few joint lab projects between University of Alberta and Huawei Technologies Canada. 
 
 ---
 
