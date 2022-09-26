@@ -146,8 +146,10 @@ This paper was a very hard one for me. It is in fact my first paper at a renowne
 - Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, defended in 2015. Thesis supervisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
 
 
-### Review service
-AAAI, ICML, NIPS, UAI, AIStat, ADPRL(2014-2015), CIKM (2011-2013), WWW(2011-2013).
+### Volunteer service
+* AAAI, ICML, NIPS, UAI, AIStat, ADPRL(2014-2015), CIKM (2011-2013), WWW(2011-2013). 
+* Westbrook public school. 
+* Confed Hockey club. 
 
 ## Robocup Soccer 
 I was a member of TsinghuAeolus (soccer simulation team at Tsinghua University) for World Cup Simulation League. 
