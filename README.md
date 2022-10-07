@@ -61,7 +61,15 @@ This paper has an interesting observation: The famous PPO algorithm fails to dis
 
 One cool thing about deep RL is the theory of distributional RL. However, why do we need to learn a distribution of value functions at all? While the theory of distributional RL is beautiful, it does not answer this question. For example, in QR-DQN, the paradox is that Q(s,a) is finally taken as a weighted average of the quantile Q values. This weighted average appears to be according to a distribution of the quantiles (In C51, the quantile locations are fixed and the weights/probabilities are learned, while in QR-DQN the locations are learned and the probabilities are fixed). In either case, the Q(s,a) is an estimation of the mean of the return. Thus ditributional RL (C51 and QR-DQN) still selects actions according to the mean-return based value function. This reduces distributional RL as a special method of estimating the normal value function, back to the standard RL. In my opinion this loses the point of distributional RL. This paper has an interesting use of the learned value function distribution, in particular, for efficient exploration based on the confidence interval computed from the distribution. Here is the testing performance of this new exploration method (DLTV) in CARLA. This learns even much faster than QR-DQN, which motivates "Distributional Reinforcement Learning". 
 
-Relevant papers: [OAC 2019](https://arxiv.org/pdf/1910.12807.pdf), [Quota 2019](https://arxiv.org/pdf/1811.02073.pdf), [Non-crossing quantiles 2020](https://proceedings.neurips.cc/paper/2020/file/b6f8dc086b2d60c5856e4ff517060392-Paper.pdf), [Being Optimistic to Be Conservative 2020](https://arxiv.org/pdf/1911.01546.pdf), [Truncated Quantile Critics 2020](http://proceedings.mlr.press/v119/kuznetsov20a/kuznetsov20a.pdf) [TOP-TD3 2021](https://proceedings.neurips.cc/paper/2021/hash/6abcc8f24321d1eb8c95855eab78ee95-Abstract.html), [QR-SAC 2021](https://www.nature.com/articles/s41586-021-04357-7), [Non-decreasing Quantile 2021](https://arxiv.org/pdf/2105.06696.pdf)
+Relevant papers: 
+# [Optimistic Actor-Critic 2019](https://arxiv.org/pdf/1910.12807.pdf), 
+# [Quota 2019](https://arxiv.org/pdf/1811.02073.pdf), 
+# [Non-crossing quantiles 2020](https://proceedings.neurips.cc/paper/2020/file/b6f8dc086b2d60c5856e4ff517060392-Paper.pdf), 
+# [Being Optimistic to Be Conservative 2020](https://arxiv.org/pdf/1911.01546.pdf), 
+# [Truncated Quantile Critics 2020](http://proceedings.mlr.press/v119/kuznetsov20a/kuznetsov20a.pdf), 
+# [TOP-TD3 2021](https://proceedings.neurips.cc/paper/2021/hash/6abcc8f24321d1eb8c95855eab78ee95-Abstract.html), 
+# [QR-Soft-actor-critic 2021](https://www.nature.com/articles/s41586-021-04357-7), 
+# [Non-decreasing Quantile 2021](https://arxiv.org/pdf/2105.06696.pdf)
 
 <div align="center">
 <img align="center" src="videos/carla_dltv.png" alt="hi" class="inline"/>
