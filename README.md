@@ -25,8 +25,7 @@ All the above four ideas can be understood from this figure in the paper.
 <img align="center" src="videos/csawg_illustration.png" alt="hi" class="inline"/>
 </div>
 
-Beneficial readings: [GD for high-d problems and step-size halving (1944)](papers/step_size_curry1944.pdf), [Line search (1966)](https://msp.org/pjm/1966/16-1/pjm-v16-n1-p01-p.pdf), [vectorized step-size and meta-gradient by IDBD (1992)](https://www.aaai.org/Papers/AAAI/1992/AAAI92-027.pdf), [Linear Dyna (2008)](https://arxiv.org/pdf/1206.3285.pdf), [Multi-step Dyna (2009)](https://proceedings.neurips.cc/paper/2009/file/c52f1bd66cc19d05628bd8bf27af3ad6-Paper.pdf), [Hyper-gradient descent (2017)]( Online
-learning rate adaptation with hypergradient descent), [stochastic Polyak step-size (2021)](https://arxiv.org/pdf/2002.10542.pdf)
+Beneficial readings: [GD for high-d problems and step-size halving (1944)](papers/step_size_curry1944.pdf), [Line search (1966)](https://msp.org/pjm/1966/16-1/pjm-v16-n1-p01-p.pdf), [vectorized step-size and meta-gradient by IDBD (1992)](https://www.aaai.org/Papers/AAAI/1992/AAAI92-027.pdf), [Linear Dyna (2008)](https://arxiv.org/pdf/1206.3285.pdf), [Multi-step Dyna (2009)](https://proceedings.neurips.cc/paper/2009/file/c52f1bd66cc19d05628bd8bf27af3ad6-Paper.pdf), [Hyper-gradient descent (2017)](https://arxiv.org/pdf/1703.04782v1.pdf?source=post_page---------------------------), [Stochastic Polyak step-size (2021)](https://arxiv.org/pdf/2002.10542.pdf)
 
 ---
 
