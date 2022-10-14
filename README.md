@@ -143,7 +143,7 @@ Gradient TD stands for a unique way of conducting off-policy with linear functio
 This figure from the preconditioning paper shows that GTD is slow (before GTD was even submitted? Well, YES).
 
 <div align="center">
-<img align="center" src="papers/my_rates.png" style='height: 160%; object-fit: contain' class="inline"/>
+<img align="center" src="papers/my_rates.png" style='height: 200%; object-fit: contain' class="inline"/>
 </div>
 
 
