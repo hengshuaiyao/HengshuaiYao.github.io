@@ -143,9 +143,7 @@ Gradient TD stands for a unique way of conducting off-policy with linear functio
 <img align="center" src="papers/gtd_side_by_side.png" alt="hi" class="inline"/>
 </div>
 
-This figure from the preconditioning paper in fact shows that GTD is slow (before GTD was even submitted). MR is the faster
-version of iLSTD. iLSTD is the steady-state version of TD (TD cannot be faster than iLSTD). Check
-the abstract of the TDC paper on what was found.
+This figure from the preconditioning paper in fact shows that GTD is slow (before GTD was even submitted).
 
 <div align="center">
 <img align="center" src="papers/my_rates.png" alt="hi" class="inline"/>
