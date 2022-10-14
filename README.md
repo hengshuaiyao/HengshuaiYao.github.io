@@ -140,7 +140,7 @@ This paper was a very hard one for me. It is in fact my first paper at a renowne
 
 For decades (1992-), off-policy learning with linear function approximation is problematic. Importance sampling gives an unbiased estimate of the target value function using the data collected from the behavior policy. However, importance sampling methods suffer from high variances due to that the importance sampling ratios are high. Is there another way of conducting off-policy learning? Gradient TD stands for a unique off-policy learning paradigm with linear function approximation, forming an important class of modern reinforcement learning algorithms. If you have worked on, read or cited GTD, TDC, GTD2, GQ, and Horde, perhaps you should read this paper. I bet you will be surprised to find where the NEU objective function (defined in the TDC paper) and the idea of GTD was from. This paper is also the first to use "Grad TD" (shorthand in the figure). 
 
-This figure from the preconditioning paper shows that GTD is slow (before GTD was even submitted? Well, YES).
+This figure from the preconditioning paper shows that GTD is slow. Wait. This was before the GTD was even submitted? Well, YES.
 
 <div align="center">
 <img align="center" src="papers/rates_gtd.png" style='height: 100%; object-fit: contain' class="inline"/>
