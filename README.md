@@ -143,8 +143,12 @@ Gradient TD stands for a unique way of conducting off-policy with linear functio
 This figure from the preconditioning paper shows that GTD is slow (before GTD was even submitted? Well, YES).
 
 <div align="center">
-<img align="center" src="papers/my_rates.png" style='height: 200%; object-fit: contain' class="inline"/>
+<img align="center" src="papers/rates_gtd.png" style='height: 100%; object-fit: contain' class="inline"/>
 </div>
+
+This figure in fact shows that GTD is slow (in the steady-state sense). MR is the faster
+version of iLSTD. iLSTD is the steady-state version of TD (TD cannot be faster than iLSTD). Check
+the abstract of the TDC paper on what was found.
 
 
 - [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). Yao, H., and Liu, Z-Q. The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
