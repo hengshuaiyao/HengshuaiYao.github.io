@@ -169,7 +169,7 @@ I was also on the author list of the GTD2/TDC paper. You may wonder then why isn
 
 
 ### Thesis
-- Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, defended in 2015. Thesis advisor: [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/index.html). 
+- Model-based Reinforcement Learning with State and Action Abstractions. [Ph.D thesis](papers/yao_hengshuai_PhD.pdf), Hengshuai Yao, defended in 2015. 
 
 
 ### Volunteer service
