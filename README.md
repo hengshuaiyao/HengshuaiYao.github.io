@@ -176,6 +176,12 @@ I was also on the author list of the GTD2/TDC paper. You may wonder then why isn
 * reviewing for AAAI, ICML, NIPS, UAI, AIStat, ADPRL(2014-2015), CIKM (2011-2013), WWW(2011-2013). ICML'22 Outstanding reviewer. 
 * parent volunteering for Westbrook public school and Confed Hockey club. I like to watch these kids growing and interacting with their amazing smiles and passion of life. Recently I helped with the yearly Terry Fox run preparation. The roads on the windows were designed by me!
 
+A fine Friday morning Alex doing a school patrol. Sis and Bro wanted to visit. 
+<div align="center">
+<img align="center" src="3hearts.jpeg" style='height: 100%; object-fit: contain' class="inline"/>
+</div>
+
+
 ## Robocup Soccer 
 I was a member of TsinghuAeolus (soccer simulation team at Tsinghua University) for World Cup Simulation League. 
 Here shows a game of our team TsinghuAeolus playing against Everest in the final match at Robocup 2003. Our TsinghuAeolus was based on hierarchical reinforcement learning. Decisions the player has to make include: dribbling, passing, running, shooting, goal keeping, positioning (team position), resting, defending, etc. A high-level policy learns how to select a decision, and a low-level controller executes the selected decision. Both the high-level and low-level controller were learned using reinforcement learning.  
