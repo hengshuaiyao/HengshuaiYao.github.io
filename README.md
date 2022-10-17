@@ -176,9 +176,9 @@ I was also on the author list of the GTD2/TDC paper. You may wonder then why isn
 * reviewing for AAAI, ICML, NIPS, UAI, AIStat, ADPRL(2014-2015), CIKM (2011-2013), WWW(2011-2013). ICML'22 Outstanding reviewer. 
 * parent volunteering for Westbrook public school and Confed Hockey club. I like to watch these kids growing and interacting with their amazing smiles and passion of life. Recently I helped with the yearly Terry Fox run preparation. The roads on the windows were designed by me!
 
-A fine Friday morning Alex doing a school patrol. Sis and Bro wanted to visit. 
+A fine Friday morning Alex doing a school patrol. Sis and Bro wanted to visit. They together with my wife taught me a lot things which I didn't imagine before having them.
 <div align="center">
-<img align="center" src="3hearts.jpeg" width="33%" height="33%" style='object-fit: contain' class="inline"/>
+<img align="center" src="3hearts.jpeg" width="50%" height="50%" style='object-fit: contain' class="inline"/>
 </div>
 
 
