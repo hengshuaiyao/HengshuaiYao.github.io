@@ -178,7 +178,7 @@ I was also on the author list of the GTD2/TDC paper. You may wonder then why isn
 
 A fine Friday morning Alex doing a school patrol. Sis and Bro wanted to visit. They together with my wife taught me a lot things which I didn't imagine before having them.
 <div align="center">
-<img align="center" src="3hearts.jpeg" width="50%" height="50%" style='object-fit: contain' class="inline"/>
+<img align="center" src="3hearts.jpeg" width="60%" height="60%" style='object-fit: contain' class="inline"/>
 </div>
 
 
