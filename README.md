@@ -148,7 +148,9 @@ This figure from the preconditioning paper shows that GTD is slow. Wait. What? T
 
 This figure in fact shows that GTD is slow (in the steady-state sense). MR is the faster
 version of iLSTD. iLSTD is the steady-state version of TD (TD cannot be faster than iLSTD). Check
-the abstract of the TDC paper on what was found.
+the abstract of the TDC paper on what was found. I was also on the author list of the GTD2/TDC paper. One email sent by a coauthor of TDC said "** (another coauthor of TDC) had an idea of combining Hengshuai's PTD (preconditioning) with GTD". I even organized the weekly off-policy meeting that lead to the GTD2/TDC paper. 
+
+<--
 
 I added this on my homepage on Oct. 14, 2022. I never talked to anybody on this including the students who work and worked with me. Only in the past half year, I talked to two persons whom I hoped can help solve this issue privately. However, the person in question never give me a word even though eventually the issue was clearly conveyed by one of the two persons (in the beginning I just hinted, to be considerate). As a past collaborator, alumni, and colleague, I've shown genuine sincereness and kindness in this matter. I waited another half year for the best hope. 
 
@@ -156,6 +158,7 @@ You may wonder why do I bring it up now? Well, is 14 years still not long enough
 
 I was also on the author list of the GTD2/TDC paper. You may wonder then why isn't your name there? Well, again, I don't know. One day I just found in my email box tons of emails on GTD and TDC. Some were during my interview for Ph.D candidacy at UofA, which is before the NIPS 2008 deadline. One email sent by a coauthor of TDC said "** (another coauthor of TDC) had an idea of combining Hengshuai's PTD (preconditioning) with GTD". I even organized the weekly off-policy meeting that lead to the GTD2/TDC paper. It's been disturbing to think about this. Aren't professors, supervisors and farthers leading us and setting good standards for doing research? What have gone wrong here? I always lost my words on this. I tried to ignore over the years. However, as I face it upfront, think and talk to myself, I think the journey of science is like our evolution process. It's not smooth. This issue is tiny if we zoom it to what's happening in the world. People in Ukraine are suffering. Many youngs from Ukraine and Russia died and some are still dying in this widely considered peace time. I found the big picture thoughts are the only way for me to ignore this disturbance and keep focused on the things on my mind.     
 
+-->
 
 - [Minimal residual approaches for policy evaluation in large sparse Markov chains](papers/mr.pdf). Yao, H., and Liu, Z-Q. The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM), Fort Lauderdale, USA. January 2008. 
 
