@@ -150,7 +150,7 @@ This figure in fact shows that GTD is slow (in the steady-state sense). MR is th
 version of iLSTD. iLSTD is the steady-state version of TD (TD cannot be faster than iLSTD). Check
 the abstract of the TDC paper on what was found. I was also on the author list of the GTD2/TDC paper. One email sent by a coauthor of TDC said "** (another coauthor of TDC) had an idea of combining Hengshuai's PTD (preconditioning) with GTD". I even organized the weekly off-policy meeting that lead to the GTD2/TDC paper. 
 
-<--
+<!--
 
 I added this on my homepage on Oct. 14, 2022. I never talked to anybody on this including the students who work and worked with me. Only in the past half year, I talked to two persons whom I hoped can help solve this issue privately. However, the person in question never give me a word even though eventually the issue was clearly conveyed by one of the two persons (in the beginning I just hinted, to be considerate). As a past collaborator, alumni, and colleague, I've shown genuine sincereness and kindness in this matter. I waited another half year for the best hope. 
 
