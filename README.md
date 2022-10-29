@@ -40,7 +40,7 @@ This paper has an interesting observation: The famous PPO algorithm fails to dis
 
 
 There is a recent interesting paper [You May Not Need Ratio Clipping in PPO, 2022](https://arxiv.org/pdf/2202.00079.pdf) by Sun et. al. that also challenges the clipping operation of PPO, which is inherited by many literature improvements of PPO. The "May Not Need" paper has an observation that the ratio clipping may not be a good option as it can fail to effectively bound the ratios. Their empirical results show that the ratios can easily depart from the range
-[0.5, 2.0]. Our paper is more focused on understanding the benefits of allowing the ratios to be very large and why it makes sense to do so. Their paper explores directly optimizing the CPI objective but for stability consideration, they apply early stopping for the optimization process once the ratio goes beyond a threshold. My interpretation of their method is that it is a dynamic clipping method. Both their method and ours show that removing the ad-hoc clipping can greatly improve the performance of policy gradient methods.  
+[0.5, 2.0]. Our paper is more focused on understanding the benefits of allowing the ratios to be very large and why it makes sense to do so. Their paper explores directly optimizing the CPI objective but for stability consideration, they apply early stopping for the optimization process once the ratio goes beyond a threshold. My interpretation of their method is that it is a dynamic clipping method (need to read in more details). Both their method and ours show that removing the ad-hoc clipping can greatly improve the performance of policy gradient methods.  
 
 ---
 
