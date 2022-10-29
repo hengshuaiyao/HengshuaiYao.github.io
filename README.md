@@ -5,7 +5,7 @@ Hi, my name is Hengshuai Yao.
 My research interest is model-based reinforcement learning and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
 
 I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. 
-I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I'm an adjunct professor at Department of Computing Science, University of Alberta. I kinda of miss my internship with Yahoo! Sunnyvale in 2013, when I learned Hadoop HDFs and MapReduce, processed lots of real data and worked with a group of friends Chi-Hoon, Martin, Sue, Xu, Kun, Haibo, and many others. Our project won a championship (CEO award) for "TrendingNow" (yahoo.com at the top right corner) that detects trending topics in Yahoo search engine. 
+I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I'm an adjunct professor at Department of Computing Science, University of Alberta. 
 
 ---
 
@@ -112,6 +112,7 @@ Relevant papers: [Optimistic Actor-Critic (2019)](https://arxiv.org/pdf/1910.128
 - [Universal Option Models](papers/uom.pdf). Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. NIPS. Montreal, Quebec, Canada. 
 
 - [A System to Predict Future Popularity: Learning to Classify](papers/trending.pdf). Lee, C., Yao, H., He, X., Su, C., and Chang, J-Y. WWW (poster), Seol,Korea, 2014. 
+This is the paper out of our internship project. I kinda of miss my internship with Yahoo! Sunnyvale in 2013, when I learned Hadoop HDFs and MapReduce, processed lots of real data and worked with a group of friends Chi-Hoon, Martin, Sue, Xu, Kun, Haibo, and many others. Our project won a championship (CEO award) for "TrendingNow" (yahoo.com at the top right corner) that detects trending topics in Yahoo search engine. This paper learns to extract some growth pattern of query counts in search engines. One surprise we found at the time is that the query "Tom Clancy died" was already getting some hits in the query logs just a few minutes before his death news was released by news. 
        
 - [A Study of Temporal Citation Count Prediction using Reinforcement Learning](papers/citation.pdf). Yao, H., Sutton R. and Rafiei D. 2014.
 
@@ -143,15 +144,14 @@ This paper was a very hard one for me. It is in fact my first paper at a renowne
 
 For decades (1992-), off-policy learning with linear function approximation is problematic. Importance sampling gives an unbiased estimate of the target value function using the data collected from the behavior policy. However, importance sampling methods suffer from high variances due to that the importance sampling ratios are high. Is there another way of conducting off-policy learning? Gradient TD stands for a unique off-policy learning paradigm with linear function approximation, forming an important class of modern reinforcement learning algorithms. If you have worked on, read or cited GTD, TDC, GTD2, GQ, and Horde, perhaps you should read this paper. I bet you will be surprised to find where the NEU objective function (the GTD objective function, defined in the TDC paper), and the "MSPBE" objective that derives TDC and GTD2 were from. This paper is also the first to proppose "Gradient Descent" for temporal difference learning. The TDC paper shows MSPBE in a number of equations. At the time, I simply derived from, C^{-1} A^T A --> ? Recall we need symmetry according to what we did for TD, A-->A^T A; so simply A^T C^{-1} A for the question mark. Read the start of Section 2 of the GTD paper and the "NEU" objective function in the TDC paper. Also read equation 4, around equation 13 and their contexts in the preconditioning paper. In short, GTD uses a symmetry idea for TD, and GTD2/TDC use both symmetry and preconditioning, which are both in the preconditioning paper. 
 
-This figure from the preconditioning paper shows that GTD is slow. Wait. What? This was before the GTD was even submitted? Well, YES.
+This figure from the preconditioning paper shows that GTD is slow. 
 
 <div align="center">
 <img align="center" src="papers/rates_gtd.png" style='height: 100%; object-fit: contain' class="inline"/>
 </div>
 
 This figure in fact shows that GTD is slow (in the steady-state sense). MR is the faster
-version of iLSTD. iLSTD is the steady-state version of TD (TD cannot be faster than iLSTD). Check
-the abstract of the TDC paper on what was found. 
+version of iLSTD. iLSTD is the steady-state version of TD (TD cannot be faster than iLSTD). So the message is that we should improve GTD and TDC for the goals set in the Horde paper. 
 
 <!--
 
