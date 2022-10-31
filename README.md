@@ -176,7 +176,7 @@ version of iLSTD. iLSTD is the steady-state version of TD (TD cannot be faster t
 
 A fine Friday morning Alex doing a school patrol. Sis and Bro wanted to visit. They together with my wife taught me a lot things which I didn't imagine before having them.
 <div align="center">
-<img align="center" src="3hearts.jpeg" width="60%" height="60%" style='object-fit: contain' class="inline"/>
+<img align="center" src="3hearts.jpeg" width="75%" height="75%" style='object-fit: contain' class="inline"/>
 </div>
 
 
