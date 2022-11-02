@@ -1,6 +1,6 @@
 <img align="left" src="videos/head_picture1.jpeg" width="33%" height="33%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/).
+Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)
 
 My research interest is model-based reinforcement learning and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
 
