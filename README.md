@@ -1,11 +1,13 @@
 <img align="left" src="videos/head_picture1.jpeg" width="33%" height="33%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)
+Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). 
 
 My research interest is model-based reinforcement learning and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
 
 I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. 
 I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I'm an adjunct professor at Department of Computing Science, University of Alberta. 
+
+[My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)
 
 ---
 
