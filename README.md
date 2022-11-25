@@ -13,6 +13,8 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 ### Publication
 
+-[The Vanishing Decision Boundary Complexity and the Strong First Component]. Hengshuai Yao. arXiv:. 2022. 
+
 
 - [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
 
