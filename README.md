@@ -28,7 +28,7 @@ This simply shows that CAT and DOG have much bigger generalization errors than t
 
 The CCTM above also shows there is a **symmetry**: interference from CAT to DOG is similar to the other way around. 
 
-Interestingly, the next plot (using the training set) shows that this is not incidental: the two errors are related! The cats in the training set are frequently predicted as DOG; verse versa. This means these two classes interefere with each other. 
+Interestingly, the next plot (using the training set) shows that this is not incidental: the two errors are related! The cats in the training set are frequently predicted as DOG; vice versa. This means these two classes interefere with each other. 
 
 <div align="center">
 <img align="center" src="videos/cat_dog_dance.png" alt="hi" class="inline"/>
