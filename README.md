@@ -13,6 +13,11 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 ### Publication
 
+
+- [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
+
+---
+
 - [The Sufficiency of Off-policyness: PPO is still insufficient according to an Off-policy Measure](https://arxiv.org/pdf/2205.10047.pdf). Xing Chen, Dongcui Diao, Hechang Chen, Hengshuai Yao, Jielong Yang, Haiyin Piao, Zhixiao Sun, Bei Jiang, Randy Goebel, and Yi Chang. AAAI, 2023. 
 
 This year AAAI has 8777 submissions. The number of *accepted papers* is 1721, similar to the number of *submissions* around 2008. AI is insanely growing. 
@@ -28,8 +33,6 @@ There is a recent interesting paper [You May Not Need Ratio Clipping in PPO, 202
 [0.5, 2.0]. Our paper is more focused on understanding the benefits of allowing the ratios to be very large and why it makes sense to do so. Their paper explores directly optimizing the CPI objective but for stability consideration, they apply early stopping for the optimization process once the ratio goes beyond a threshold. My interpretation of their method is that it is a dynamic clipping method (need to read in more details). Both their method and ours show that removing the ad-hoc clipping can greatly improve the performance of policy gradient methods.  
 
 ---
-
-- [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
 
 - [Learning to Accelerate by the Methods of Step-size Planning](https://arxiv.org/abs/2204.01705). Hengshuai Yao. arXiv:2204.01705. 2022. 
 
@@ -151,13 +154,12 @@ This paper was a very hard one for me. It is in fact my first paper at a renowne
 
 For decades (1992-), off-policy learning with linear function approximation is problematic. Importance sampling gives an unbiased estimate of the target value function using the data collected from the behavior policy. However, importance sampling methods suffer from high variances due to that the importance sampling ratios are high. Is there another way of conducting off-policy learning? Gradient TD stands for a unique off-policy learning paradigm with linear function approximation, forming an important class of modern reinforcement learning algorithms. 
 
-This figure from the preconditioning paper shows that GTD is slow. 
 
 <div align="center">
 <img align="center" src="papers/rates_gtd.png" style='height: 100%; object-fit: contain' class="inline"/>
 </div>
 
-This figure in fact shows that GTD is slow (in the steady-state sense). MR is the faster
+This figure from the paper in fact shows that GTD is slow (in the steady-state sense). MR is the faster
 version of iLSTD. iLSTD is the steady-state version of TD (TD cannot be faster than iLSTD). So the message is that we should improve GTD and TDC for the goals set in the Horde paper. 
 
 
