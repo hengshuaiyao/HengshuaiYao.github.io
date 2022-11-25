@@ -16,7 +16,7 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 - [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
 
-Where is the bottleneck for deep learning? For example, on CIFAR-10, VGG19 achieves about 93.5% test accuracy, and ResNet18 achieves about 95.2%. Why is that and what can we learn about their generaliation performance? Why does ResNet18 does better? This paper starts with a metric called *CCTM* (cross-class test map) that combines the true positve rates and false positive rates into a single matrix. This figure and table compare the two models using the CCTM heatmap plots for intuitive visualization:
+*What is the bottleneck for deep learning*? For example, on CIFAR-10, VGG19 achieves about 93.5% test accuracy, and ResNet18 achieves about 95.2%. Why is that and what can we learn about their generaliation performance? Why does ResNet18 does better? This paper starts with a metric called *CCTM* (cross-class test map) that combines the true positve rates and false positive rates into a single matrix. This figure and table compare the two models using the CCTM heatmap plots for intuitive visualization:
 
 <div align="center">
 <img align="center" src="videos/cctm.png" alt="hi" class="inline"/>
