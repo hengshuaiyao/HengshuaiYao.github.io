@@ -34,7 +34,7 @@ Interestingly, the next plot (using the training set) shows that this is not inc
 <img align="center" src="videos/cat_dog_dance.png" alt="hi" class="inline"/>
 </div>
 
-We call this phenomenon **class interference**. It is the biggest source of generalization errors in deep learning. ResNet18 does better than VGG19, especially for handling CAT and DOG interference. Read the papers for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for SGD with small learning rates/step-sizes, and the extremely flat minima located in large terrains for SGD with annealled learning rates. 
+We call this phenomenon **class interference**. It is the biggest source of generalization errors in deep learning. ResNet18 handles intereference better than VGG19, especially for class pairs like CAT-DOG, CAR-TRUCK, PLANE-SHIP and CAT-FROG. Read the papers for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for SGD with small learning rates/step-sizes, and the extremely flat minima located in large terrains for SGD with annealled learning rates. 
 
 
 ---
