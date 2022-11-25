@@ -26,6 +26,8 @@ This paper starts with a metric called **CCTM** (cross-class test map) that comb
 
 This simply shows that CAT and DOG have much bigger generalization errors than the other classes. This phenomenon is observed for all the models and all the optimizers we tried. For example, ResNet50 has a similar test accuracy to ResNet18 with SGD+learning rate annealling. 
 
+We call this phenomenon **class interference**. It is the biggest source of generalization errors in deep learning. ResNet18 handles intereference better than VGG19, especially for class pairs like CAT-DOG, CAR-TRUCK, PLANE-SHIP and CAT-FROG. 
+
 The CCTM above also shows there is a **symmetry**: interference from CAT to DOG is similar to the other way around. 
 
 Interestingly, the next plot (using the training set) shows that this is not incidental: the two errors are related! The cats in the training set are frequently predicted as DOG; vice versa. This means these two classes interefere with each other. 
@@ -34,7 +36,6 @@ Interestingly, the next plot (using the training set) shows that this is not inc
 <img align="center" src="videos/cat_dog_dance.png" alt="hi" class="inline"/>
 </div>
 
-We call this phenomenon **class interference**. It is the biggest source of generalization errors in deep learning. ResNet18 handles intereference better than VGG19, especially for class pairs like CAT-DOG, CAR-TRUCK, PLANE-SHIP and CAT-FROG. 
 
 Read the papers for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for SGD with small learning rates/step-sizes, and the extremely flat minima located in large terrains for SGD with annealled learning rates. 
 
