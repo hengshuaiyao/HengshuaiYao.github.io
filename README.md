@@ -24,13 +24,16 @@ This paper starts with a metric called **CCTM** (cross-class test map) that comb
 <img align="center" src="videos/cctm.png" alt="hi" class="inline"/>
 </div>
 
-This simply shows that CAT and DOG have much bigger generalization errors than the other classes. Interestingly, the next plot (using the training set) shows that this is not incidental: the two errors are related! The cats in the training set are frequently predicted as DOG; verse versa. This means these two classes interefere with each other. The CCTM above also shows there is a **symmetry**: interference from CAT to DOG is similar to the other way around. 
+This simply shows that CAT and DOG have much bigger generalization errors than the other classes. The CCTM above also shows there is a **symmetry**: interference from CAT to DOG is similar to the other way around. 
 
-We call this phenomenon **class interference**. It is the biggest source of generalization errors in deep learning. ResNet18 does better than VGG19, especially for handling CAT and DOG interference. Read the papers for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for small learning rates/step-sizes and extremely flat minima located in large terrains. 
+
+Interestingly, the next plot (using the training set) shows that this is not incidental: the two errors are related! The cats in the training set are frequently predicted as DOG; verse versa. This means these two classes interefere with each other. 
 
 <div align="center">
 <img align="center" src="videos/cat_dog_dance.png" alt="hi" class="inline"/>
 </div>
+
+We call this phenomenon **class interference**. It is the biggest source of generalization errors in deep learning. ResNet18 does better than VGG19, especially for handling CAT and DOG interference. Read the papers for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for small learning rates/step-sizes and extremely flat minima located in large terrains. 
 
 
 
