@@ -20,6 +20,19 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 <img align="center" src="videos/cctm.png" alt="hi" class="inline"/>
 </div>
 
+<div align="center">
+<img align="center" src="videos/loss_ego_small_lr.png" alt="hi" class="inline"/>
+</div>
+
+<div align="center">
+<img align="center" src="videos/loss_ego_anneal_lr.png" alt="hi" class="inline"/>
+</div>
+
+<div align="center">
+<img align="center" src="videos/cat_dog_dance.png" alt="hi" class="inline"/>
+</div>
+
+
 ---
 
 - [The Sufficiency of Off-policyness: PPO is still insufficient according to an Off-policy Measure](https://arxiv.org/pdf/2205.10047.pdf). Xing Chen, Dongcui Diao, Hechang Chen, Hengshuai Yao, Jielong Yang, Haiyin Piao, Zhixiao Sun, Bei Jiang, Randy Goebel, and Yi Chang. AAAI, 2023. 
