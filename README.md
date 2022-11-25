@@ -28,7 +28,7 @@ This simply shows that CAT and DOG have much bigger generalization errors than t
 
 We call this phenomenon **class interference**. It is the biggest source of generalization errors in deep learning. ResNet18 handles intereference better than VGG19, especially for class pairs like CAT-DOG, CAR-TRUCK, PLANE-SHIP and CAT-FROG. 
 
-The CCTM above also shows there is a **symmetry**. For example, the interference from CAT to DOG is similar to the other way around. 
+The CCTM above also shows there is a **symmetry** in class interference. For example, the interference from CAT to DOG is similar to the other way around. 
 
 Interestingly, the next plot (using the training set) shows that this is not incidental: the two errors are related! The cats in the training set are frequently predicted as DOG; vice versa. This means these two classes interefere with each other. 
 
