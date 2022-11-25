@@ -33,7 +33,7 @@ The CCTM above also shows there is a **symmetry** in class interference. For exa
 Interestingly, the next plot (using the training set) shows that this is not incidental: the two errors are related! The cats in the training set are frequently predicted as DOG; vice versa. This means these two classes interefere with each other. 
 
 <div align="center">
-<img align="center" src="videos/cat_dog_dance.png" width="110%" height="110%"  alt="hi" class="inline"/>
+<img align="center" src="videos/cat_dog_dance.png" width="120%" height="120%"  alt="hi" class="inline"/>
 </div>
 
 Read the papers for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for SGD with small learning rates/step-sizes, and the extremely flat minima located in large terrains for SGD with annealled learning rates. 
