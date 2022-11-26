@@ -15,21 +15,21 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 - [The Vanishing Decision Boundary Complexity and the Strong First Component]. Hengshuai Yao. arXiv:. 2022. 
 
-Why do we study the decision boundary? It is an important concept widely used to understand the generalization of machine learing classifiers. For example, it is well known that overfitting leads to complex decision boundaries, e.g., see [this illustration](https://en.wikipedia.org/wiki/Overfitting#/media/File:Overfitting.svg). Is that also true for deep learning? This is the motivation of the paper. 
+Why do we study the decision boundary? It is an important concept widely used to understand the generalization of machine learning classifiers. For example, it is well known that overfitting leads to complex decision boundaries, e.g., see [this illustration](https://en.wikipedia.org/wiki/Overfitting#/media/File:Overfitting.svg). Is that also true for deep learning? This is the motivation of the paper. 
 
-We show that for deep learning, this different level of complexity in the decision boundary does even exist for well trained deep models. For example, models trained by SGD with learning rate annealing achieves 100% training accuracy in the end (overfitting). However, for all class pairs, the decision boundary is linear --- it is not complex at all. Imagine in a polynomial based machine learning classifier, how much high order of the polynomial needs to be for 100% training accuracy, and how skewed will the boundary be.  See the first plot in the folowing figure, in which the two clases can be splitted by a straight line in the PCA space:  
+We show that for deep learning, this different level of complexity in the decision boundary does NOT even exist for well trained deep models. For example, models trained by SGD with learning rate annealing achieves 100% training accuracy in the end (overfitting). However, for all class pairs, the decision boundary is linear --- it is not complex at all. Imagine in a polynomial based machine learning classifier, how much high order of the polynomial needs to be for 100% training accuracy, and how skewed will the boundary be. However, **the well trained overfitting deep models have a linear decision boundary**.  See the first plot in the folowing figure, in which the two clases can be splitted by a straight line in the PCA space:  
 
 <div align="center">
 <img align="center" src="videos/pca2_cat_dog.png" alt="hi" class="inline"/>
 </div>
 
-Clearly, deep learning shows difference from machine learning: the knowledge that we transfer from machine learning about the decision boundary complexity vs. generalization does not work. However, we found that the decision boundaries of the predecessor models (immature models that are close to the final) are indicative of the generalization of the final model. See the above picture for the remaining plots. 
+Clearly, deep learning shows difference from machine learning in this regard. The knowledge that we transfer from machine learning about the decision boundary complexity vs. generalization does not work for deep learning. However, we found that the decision boundaries of the predecessor models (immature models that are close to the final) are indicative of the final model's generalization. See the remaining plots in the above picture. 
 
 Now using the 99.87% model, the boundaries of all class pairs can be plotted:
 <div align="center">
 <img align="center" src="videos/pca2_cat_vs_others.png" alt="hi" class="inline"/>
 </div>
-The complexity of the boundaries are largely consistent with the generalization errors between the class pairs (see our Class Interference paper below). 
+The complexity of the boundaries is largely consistent with the generalization errors between the class pairs (see our Class Interference paper below). 
 
 We make a few videos for the decision boundary evolution, and study the effects of architectures and optimizers. 
 
