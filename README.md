@@ -61,7 +61,7 @@ CAT-DOG:
 
 Do you notice the shapes of the class clusters are different from VGG19? For ResNet18, the CAT and DOG clusters are much more round, and more self-compact in the end. 
 
-The above is for the SGD optimizer (with learning rate annealing). What about the Adam optimizer? First of all, we found that SGD with learning rate annealing generalizes better than Adam. We wanted to understand via the decision boundary. 
+The above is for the SGD optimizer (with learning rate annealing). What about the Adam optimizer? First of all, we found that SGD with learning rate annealing generalizes better than Adam. We wanted to understand this via the decision boundary. 
 
 CAT-DOG, Adam(for VGG19):
 
