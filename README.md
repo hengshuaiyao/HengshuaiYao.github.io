@@ -13,17 +13,18 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 ### Publication
 
--[The Vanishing Decision Boundary Complexity and the Strong First Component]. Hengshuai Yao. arXiv:. 2022. 
+- [The Vanishing Decision Boundary Complexity and the Strong First Component]. Hengshuai Yao. arXiv:. 2022. 
 
-CAT-PLANE decision boundary evolution in training:
+CAT(blue)-PLANE decision boundary evolution in training:
 <div align="center">
-<iframe align= "middle" width="750" height="400" src="https://youtu.be/-jnh5Bo9sTQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="678" height="381" src="https://youtu.be/-jnh5Bo9sTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 CAT(blue)-DOG decision boundary evolution in training:
 <div align="center">
-<iframe align= "middle" width="750" height="400" src="https://youtu.be/OA7fCDpL5Rc" frameborder="0" allowfullscreen></iframe>
+<iframe width="678" height="381" src="https://youtu.be/OA7fCDpL5Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 - [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
 
