@@ -61,6 +61,12 @@ CAT-DOG:
 
 Do you notice the shapes of the class clusters are different from VGG19? For ResNet18, the CAT and DOG clusters are much more round, and more self-compact in the end. 
 
+Why in the above videso, splitting behaviors most happen along the x-axis (1st principle component)? The following picture shows that the strength of the first principle component grows stronger and stronger in training, so much so that in the end it supports 100% training accuracy all by itself. 
+
+<div align="center">
+<img align="center" src="videos/strength_1st_component.png" alt="hi" class="inline"/>
+</div>
+
 ---
 
 - [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
