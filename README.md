@@ -15,6 +15,11 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 -[The Vanishing Decision Boundary Complexity and the Strong First Component]. Hengshuai Yao. arXiv:. 2022. 
 
+CAT-PLANE decision boundary evolution in training:
+<div align="center">
+<iframe align= "middle" width="750" height="400" src="[https://www.youtube.com/embed/9BFYX1WRjtA](https://youtu.be/-jnh5Bo9sTQ)" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 - [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
 
@@ -41,8 +46,6 @@ Interestingly, the next plot (using the training set) shows that this is not inc
 Read the papers for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for SGD with small learning rates/step-sizes, and the extremely flat minima located in large terrains for SGD with annealled learning rates. 
 
 Thus our conclusion is, **the class interference is the bottleneck of deep learning**. It represents the learning difficulty regarding similar classes in the data. This is a challenging task for human beings as well. Eyeing cross images samples in CIFAR-10, we found some cats are even hard to tell apart from DOG. 
-
-
 
 
 ---
