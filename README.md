@@ -77,7 +77,7 @@ CAT-DOG, Adam(for ResNet18):
 
 Comparing with the SGD case, you can find that Adam's decision boundaries are very different: it spans in a wider range (the class clusters are more loose), and the classes are not well split in the PCA space. 
 
-Why in the above videos, the splitting behaviors most happen along the x-axis (1st principle component)? The following picture shows that the strength of the first principle component grows stronger and stronger in training, so much so that in the end it supports 100% training accuracy all by itself (this is shown by all the videos). 
+Why in the above videos, the splitting behaviors most happen along the x-axis (1st principle component)? The following picture shows that the strength of the first principle component grows stronger and stronger in training, so much so that in the end it supports 100% training accuracy all by itself (this is shown by all the SGD videos). 
 
 <div align="center">
 <img align="center" src="videos/strength_1st_component.png" alt="hi" class="inline"/>
