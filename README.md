@@ -23,6 +23,15 @@ We show that for deep learning, this different level of complexity in the decisi
 <img align="center" src="videos/pca2_cat_dog.png" alt="hi" class="inline"/>
 </div>
 
+Clearly, deep learning shows difference from machine learning: the knowledge that we transfer from machine learning about the decision boundary complexity vs. generalization does not work. However, we found that the decision boundaries of the predecessor models (immature models that are close to the final) are indicative of the generalization of the final model. See the above picture for the remaining plots. 
+
+Now using the 99.87% model, the boundaries of all class pairs can be plotted:
+<div align="center">
+<img align="center" src="videos/pca2_cat_vs_others.png" alt="hi" class="inline"/>
+</div>
+The complexity of the boundaries are largely consistent with the generalization errors between the class pairs (see our Class Interference paper below). 
+
+We make a few videos for the decision boundary evolution, and study the effects of architectures and optimizers. 
 
 CAT(always blue)-PLANE decision boundary evolution in training:
 <div align="center">
