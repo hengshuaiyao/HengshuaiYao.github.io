@@ -15,17 +15,17 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 - [The Vanishing Decision Boundary Complexity and the Strong First Component]. Hengshuai Yao. arXiv:. 2022. 
 
-Why do we study the decision boundary? It is an important concept widely used to understand the generalization of machine learning classifiers. For example, it is well known that overfitting leads to complex decision boundaries, e.g., see [this illustration](https://en.wikipedia.org/wiki/Overfitting#/media/File:Overfitting.svg). Usually in machine learning, by comparing the complexity of the decision boundaries of classifiers (on training set), we can predict their generalization (on test set) performance orders. Is that also true for deep learning? This is the motivation of the paper. 
+Why do we study the decision boundary? It is an important concept widely used to understand the generalization of machine learning classifiers. For example, it is well known that overfitting leads to complex decision boundaries, e.g., see [this illustration](https://en.wikipedia.org/wiki/Overfitting#/media/File:Overfitting.svg). Usually in machine learning, by comparing the complexity of the decision boundaries of classifiers (on training set), we can predict the order of their generalization performance (on test set). Is that also true for deep learning? This is the motivation of the paper. 
 
-We show that for deep learning, this different level of complexity in the decision boundary does NOT even exist for well trained deep models. For example, models trained by SGD with learning rate annealing achieves 100% training accuracy in the end (overfitting). However, for all class pairs, the decision boundary is linear --- it is not complex at all. Imagine a polynomial based machine learning classifier: how much high order of the polynomial needs to be for 100% training accuracy, and how skewed the boundary will be. However, **the well trained overfitting deep models have a linear decision boundary**.  See the first plot in the following figure, in which the two classes can be split by a straight line in the PCA space:  
+We show that for deep learning, this level of complexity in the decision boundary does NOT even exist for well trained deep models. For example, models trained by SGD with learning rate annealing achieves 100% training accuracy in the end (overfitting). However, for all class pairs, the decision boundary is linear --- it is not complex at all. Imagine a polynomial based machine learning classifier: how much high order of the polynomial needs to be for 100% training accuracy, and how skewed the boundary will be. However, **the well trained overfitting deep models have a linear decision boundary**.  See the first plot in the following figure, in which the two classes can be split by a straight line in the PCA space:  
 
 <div align="center">
 <img align="center" src="videos/pca2_cat_dog.png" alt="hi" class="inline"/>
 </div>
 
-Clearly, deep learning shows difference from machine learning in this regard. **The knowledge that we transfer from machine learning about the decision boundary complexity vs. generalization does not work for deep learning**. 
+Clearly, this shows that deep learning is different from machine learning in this regard. **The knowledge that we transfer from machine learning about the decision boundary complexity vs. generalization does not work for deep learning**. 
 
-However, we found that the **decision boundaries of the predecessor models** (immature models in training that are close to the final) are indicative of the final model's generalization. For example, using the 99.87% model, the boundaries of all class pairs can be plotted:
+Nonetheless, we found that the **decision boundaries of the predecessor models** (immature models in training that are close to the final) are indicative of the final model's generalization. For example, using the 99.87% model, the boundaries of class pairs can be plotted:
 <div align="center">
 <img align="center" src="videos/pca2_cat_vs_others.png" alt="hi" class="inline"/>
 </div>
@@ -75,14 +75,14 @@ CAT-DOG, Adam(for ResNet18):
 <iframe width="678" height="381" src="https://www.youtube.com/embed/21MpKOnlF98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Comparing with the SGD case, you can find that Adam's decision boundaries are very different: it spans in a wider range (the class clusters are more loose), and the classes are not well split in the PCA space. 
+Comparing with the SGD case, you can find that Adam's decision boundaries are very different: the clusters has a long and thin shape, spanning in a wider range (this means the clusters are more loose). Also, the classes are not well split in the PCA space. 
 
 Why in the above videos, the splitting behaviors most happen along the x-axis (1st principle component)? The following picture shows that the strength of the first principle component grows stronger and stronger in training, so much so that in the end it supports 100% training accuracy all by itself (this is shown by all the SGD videos). 
 
 <div align="center">
 <img align="center" src="videos/strength_1st_component.png" alt="hi" class="inline"/>
 </div>
-Our results show that **the strength of the first component is strongly correlated with generalization**. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalizing ResNet18 and DLA. 
+Our results show that **the strength of the first component is strongly correlated with generalization**. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalizing ResNet18 and DLA. The paper has a detailed studies on the spectral profiling of the auto-correlation vs. the generalization performance for ten deep learning optimizers as well as the effects of the skip connections. 
 
 ---
 
