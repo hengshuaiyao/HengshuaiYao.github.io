@@ -108,7 +108,7 @@ Interestingly, the next plot (using the training set) shows that this is not inc
 <img align="center" src="videos/cat_dog_dance.png" width="100%" height="100%"  alt="hi" class="inline"/>
 </div>
 
-Read the papers for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for SGD with small learning rates/step-sizes, and the extremely flat minima located in large terrains for SGD with annealled learning rates. 
+Read the paper for details and see the interference between CAR and TRUCK, and CAT and FROG, and our finding for the extremely sharp minima for SGD with small learning rates/step-sizes, and the extremely flat minima located in large terrains for SGD with annealled learning rates. 
 
 Thus our conclusion is, **the class interference is the bottleneck of deep learning**. It represents the learning difficulty regarding similar classes in the data. This is a challenging task for human beings as well. Eyeing cross images samples in CIFAR-10, we found some cats are even hard to tell apart from DOG. 
 
