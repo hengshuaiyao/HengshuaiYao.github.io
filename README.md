@@ -29,6 +29,12 @@ You can see that the CAT-DOG boundary clears around 191st epoch, which is slower
 
 The above is VGG19. Let's see ResNet18 now. 
 
+CAT-PLANE:
+
+<div align="center">
+<iframe width="678" height="381" src="https://www.youtube.com/embed/Ks93drvvEDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 CAT-DOG:
 <div align="center">
 <iframe width="678" height="381" src="https://www.youtube.com/embed/jH3EGZM2mWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
