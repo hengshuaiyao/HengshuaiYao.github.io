@@ -15,6 +15,15 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 - [The Vanishing Decision Boundary Complexity and the Strong First Component]. Hengshuai Yao. arXiv:. 2022. 
 
+Why do we study the decision boundary? It is an important concept widely used to understand the generalization of machine learing classifiers. For example, it is well known that overfitting leads to complex decision boundaries, e.g., see [this illustration](https://en.wikipedia.org/wiki/Overfitting#/media/File:Overfitting.svg). Is that also true for deep learning? This is the motivation of the paper. 
+
+We show that for deep learning, this different level of complexity in the decision boundary does even exist for well trained deep models. For example, models trained by SGD with learning rate annealing achieves 100% training accuracy in the end (overfitting). However, for all class pairs, the decision boundary is linear --- it is not complex at all. Imagine in a polynomial based machine learning classifier, how much high order of the polynomial needs to be for 100% training accuracy, and how skewed will the boundary be.  See the first plot in the folowing figure, in which the two clases can be splitted by a straight line in the PCA space:  
+
+<div align="center">
+<img align="center" src="videos/pca2_cat_dog.png" alt="hi" class="inline"/>
+</div>
+
+
 CAT(always blue)-PLANE decision boundary evolution in training:
 <div align="center">
 <iframe width="678" height="381" src="https://www.youtube.com/embed/-jnh5Bo9sTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
