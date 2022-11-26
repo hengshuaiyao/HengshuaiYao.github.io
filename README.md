@@ -17,12 +17,12 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 CAT(blue)-PLANE decision boundary evolution in training:
 <div align="center">
-<iframe width="678" height="381" src="https://youtu.be/-jnh5Bo9sTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="678" height="381" src="https://www.youtube.com/embed/-jnh5Bo9sTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 CAT(blue)-DOG decision boundary evolution in training:
 <div align="center">
-<iframe width="678" height="381" src="https://youtu.be/OA7fCDpL5Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="678" height="381" src="https://www.youtube.com/embed/OA7fCDpL5Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
