@@ -15,15 +15,17 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 - [The Vanishing Decision Boundary Complexity and the Strong First Component]. Hengshuai Yao. arXiv:. 2022. 
 
-CAT(blue)-PLANE decision boundary evolution in training:
+CAT(always blue)-PLANE decision boundary evolution in training:
 <div align="center">
 <iframe width="678" height="381" src="https://www.youtube.com/embed/-jnh5Bo9sTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-CAT(blue)-DOG decision boundary evolution in training:
+CAT-DOG:
 <div align="center">
 <iframe width="678" height="381" src="https://www.youtube.com/embed/OA7fCDpL5Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+You can see that the CAT-DOG boundary clears slower than CAT-PLANE, because they are more similar classes and they interfere in training. Also note that the splitting of the two classes in the videos happends mainly in the x-axis, which is the first principle component.   
 
 
 - [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
