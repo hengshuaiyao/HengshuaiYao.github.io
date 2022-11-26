@@ -27,6 +27,7 @@ CAT-DOG:
 
 You can see that the CAT-DOG boundary clears slower than CAT-PLANE, because they are more similar classes and they interfere in training. Also note that the splitting of the two classes in the videos happends mainly in the x-axis, which is the first principle component.   
 
+---
 
 - [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
 
