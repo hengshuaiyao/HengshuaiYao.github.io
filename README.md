@@ -31,6 +31,7 @@ Now using the 99.87% model, the boundaries of all class pairs can be plotted:
 </div>
 The complexity of the boundaries is largely consistent with the generalization errors between the class pairs (see our Class Interference paper below). 
 
+
 We make a few videos for the decision boundary evolution, and study the effects of architectures and optimizers. 
 
 CAT(always blue)-PLANE decision boundary evolution in training:
