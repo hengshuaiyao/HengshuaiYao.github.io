@@ -61,11 +61,12 @@ CAT-DOG:
 
 Do you notice the shapes of the class clusters are different from VGG19? For ResNet18, the CAT and DOG clusters are much more round, and more self-compact in the end. 
 
-Why in the above videso, splitting behaviors most happen along the x-axis (1st principle component)? The following picture shows that the strength of the first principle component grows stronger and stronger in training, so much so that in the end it supports 100% training accuracy all by itself. 
+Why in the above videos, splitting behaviors most happen along the x-axis (1st principle component)? The following picture shows that the strength of the first principle component grows stronger and stronger in training, so much so that in the end it supports 100% training accuracy all by itself. 
 
 <div align="center">
 <img align="center" src="videos/strength_1st_component.png" alt="hi" class="inline"/>
 </div>
+Our results show that the strength of the first component is strongly correlated with generalization. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalization ResNet18. 
 
 ---
 
