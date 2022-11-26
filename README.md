@@ -82,7 +82,7 @@ Why in the above videos, the splitting behaviors most happen along the x-axis (1
 <div align="center">
 <img align="center" src="videos/strength_1st_component.png" alt="hi" class="inline"/>
 </div>
-Our results show that **the strength of the first component is strongly correlated with generalization**. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalization ResNet18 and DLA. 
+Our results show that **the strength of the first component is strongly correlated with generalization**. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalizing ResNet18 and DLA. 
 
 ---
 
