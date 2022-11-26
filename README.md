@@ -17,12 +17,12 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 CAT-PLANE decision boundary evolution in training:
 <div align="center">
-<iframe align= "middle" width="750" height="400" src="[https://www.youtube.com/embed/9BFYX1WRjtA](https://youtu.be/-jnh5Bo9sTQ)" frameborder="0" allowfullscreen></iframe>
+<iframe align= "middle" width="750" height="400" src="https://youtu.be/-jnh5Bo9sTQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 CAT(blue)-DOG decision boundary evolution in training:
 <div align="center">
-<iframe align= "middle" width="750" height="400" src="[https://youtu.be/OA7fCDpL5Rc](https://youtu.be/-jnh5Bo9sTQ)" frameborder="0" allowfullscreen></iframe>
+<iframe align= "middle" width="750" height="400" src="https://youtu.be/OA7fCDpL5Rc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 - [Class Interference of Deep Neural Networks](https://arxiv.org/abs/2211.01370). Dongcui Diao, Hengshuai Yao, Bei Jiang, arXiv:2211.01370. 2022. 
