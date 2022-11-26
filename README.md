@@ -23,9 +23,9 @@ We show that for deep learning, this different level of complexity in the decisi
 <img align="center" src="videos/pca2_cat_dog.png" alt="hi" class="inline"/>
 </div>
 
-Clearly, deep learning shows difference from machine learning in this regard. The knowledge that we transfer from machine learning about the decision boundary complexity vs. generalization does not work for deep learning. 
+Clearly, deep learning shows difference from machine learning in this regard. **The knowledge that we transfer from machine learning about the decision boundary complexity vs. generalization does not work for deep learning**. 
 
-However, we found that the decision boundaries of the predecessor models (immature models in training that are close to the final) are indicative of the final model's generalization. For example, using the 99.87% model, the boundaries of all class pairs can be plotted:
+However, we found that the **decision boundaries of the predecessor models** (immature models in training that are close to the final) are indicative of the final model's generalization. For example, using the 99.87% model, the boundaries of all class pairs can be plotted:
 <div align="center">
 <img align="center" src="videos/pca2_cat_vs_others.png" alt="hi" class="inline"/>
 </div>
@@ -82,7 +82,7 @@ Why in the above videos, the splitting behaviors most happen along the x-axis (1
 <div align="center">
 <img align="center" src="videos/strength_1st_component.png" alt="hi" class="inline"/>
 </div>
-Our results show that the strength of the first component is strongly correlated with generalization. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalization ResNet18 and DLA. 
+Our results show that **the strength of the first component is strongly correlated with generalization**. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalization ResNet18 and DLA. 
 
 ---
 
