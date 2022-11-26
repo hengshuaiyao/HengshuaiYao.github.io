@@ -61,13 +61,6 @@ CAT-DOG:
 
 Do you notice the shapes of the class clusters are different from VGG19? For ResNet18, the CAT and DOG clusters are much more round, and more self-compact in the end. 
 
-Why in the above videos, the splitting behaviors most happen along the x-axis (1st principle component)? The following picture shows that the strength of the first principle component grows stronger and stronger in training, so much so that in the end it supports 100% training accuracy all by itself (this is shown by all the videos). 
-
-<div align="center">
-<img align="center" src="videos/strength_1st_component.png" alt="hi" class="inline"/>
-</div>
-Our results show that the strength of the first component is strongly correlated with generalization. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalization ResNet18 and DLA. 
-
 The above is for the SGD optimizer (with learning rate annealing). What about the Adam optimizer? First of all, we found that SGD with learning rate annealing generalizes better than Adam. We wanted to understand via the decision boundary. 
 
 CAT-DOG, Adam(for VGG19):
@@ -84,6 +77,12 @@ CAT-DOG, Adam(for ResNet18):
 
 Comparing with the SGD case, you can find that Adam's decision boundaries are very different: it spans in a wider range (more loose), and the classes are not well split in the PCA space. 
 
+Why in the above videos, the splitting behaviors most happen along the x-axis (1st principle component)? The following picture shows that the strength of the first principle component grows stronger and stronger in training, so much so that in the end it supports 100% training accuracy all by itself (this is shown by all the videos). 
+
+<div align="center">
+<img align="center" src="videos/strength_1st_component.png" alt="hi" class="inline"/>
+</div>
+Our results show that the strength of the first component is strongly correlated with generalization. For example, the above plot shows that VGG19's first singular value is much larger than the better-generalization ResNet18 and DLA. 
 
 ---
 
