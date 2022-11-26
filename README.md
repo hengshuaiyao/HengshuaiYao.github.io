@@ -25,7 +25,7 @@ CAT-DOG:
 <iframe width="678" height="381" src="https://www.youtube.com/embed/OA7fCDpL5Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-You can see that the CAT-DOG boundary clears slower than CAT-PLANE, because they are more similar classes and they interfere in training. Also note that the splitting of the two classes in the videos happends mainly in the x-axis, which is the first principle component.   
+You can see that the CAT-DOG boundary clears around 191st epoch, which is slower than CAT-PLANE (around 180th epoch). This is because CAT and DOG are more similar classes and they interfere in training. Also note that the splitting of the two classes in the videos happends mainly in the x-axis, which is the first principle component.   
 
 ---
 
