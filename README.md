@@ -115,7 +115,7 @@ Thus our conclusion is, **the class interference is the bottleneck of deep learn
 
 ---
 
-- [The Sufficiency of Off-policyness: PPO is still insufficient according to an Off-policy Measure](https://arxiv.org/pdf/2205.10047.pdf). Xing Chen, Dongcui Diao, Hechang Chen, Hengshuai Yao, Jielong Yang, Haiyin Piao, Zhixiao Sun, Bei Jiang, Randy Goebel, and Yi Chang. AAAI, 2023. 
+- [The Sufficiency of Off-policyness: PPO is still insufficient according to an Off-policy Measure](https://arxiv.org/pdf/2205.10047.pdf). Xing Chen, Dongcui Diao, Hechang Chen, Hengshuai Yao, Jielong Yang, Haiyin Piao, Zhixiao Sun, Randy Goebel, Bei Jiang and Yi Chang. AAAI, 2023. 
 
 This year AAAI has 8777 submissions. The number of *accepted papers* is 1721, similar to the number of *submissions* around 2008. AI is insanely growing. 
 
