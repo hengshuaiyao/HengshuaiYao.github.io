@@ -13,7 +13,7 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 ### Publication
 
-- [The Vanishing Decision Boundary Complexity and the Strong First Component](http://arxiv.org/abs/2211.16209). Hengshuai Yao. arXiv:. 2022. 
+- [The Vanishing Decision Boundary Complexity and the Strong First Component](http://arxiv.org/abs/2211.16209). Hengshuai Yao. arXiv:2211.16209. 2022. 
 
 Why do we study the decision boundary? It is an important concept widely used to understand the generalization of machine learning classifiers. For example, it is well known that overfitting leads to complex decision boundaries, e.g., see [this illustration](https://en.wikipedia.org/wiki/Overfitting#/media/File:Overfitting.svg). Usually in machine learning, by comparing the complexity of the decision boundaries of classifiers (on training set), we can predict the order of their generalization performance (on test set). Is that also true for deep learning? This is the motivation of the paper. 
 
