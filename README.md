@@ -217,6 +217,12 @@ Relevant papers: [Optimistic Actor-Critic (2019)](https://arxiv.org/pdf/1910.128
 
 - [Universal Option Models](papers/uom.pdf). Yao, H., Szepesvari, Cs., Sutton, R., and Bhatnagar,S. 2014. NIPS. Montreal, Quebec, Canada. 
 
+Recent communication from Csaba: I thought you may be interested in [this paper](https://proceedings.neurips.cc/paper/2021/file/003dd617c12d444ff9c80f717c3fa982-Paper.pdf): Touati, A., and Y. Ollivier. 2021. “Learning One Representation to Optimize All Rewards.” Advances in Neural Information Processing Systems. (similar to LAM (linear action models), but different in interesting ways).
+
+This paper actually applied low-rank approximation to our UOMs (universal option models) paper, and the motivation is similar. (they didn't cite our paper but instead motivated from Dayan's successor representation, which is also valid). 
+
+The DRL literature seems to be very brave, seeking a universal representation to handle "all kinds of reward signals". Is that possible? I don't know but maybe some sort of approximation is possible. However, forcing a representation to handle all kinds of rewards will likely induce a representation that is overly over-parameterized (which seems not a problem for deep nets), which is needed to represent and approximate an infinite number of policies. I'm still comprehending this. 
+
 - [A System to Predict Future Popularity: Learning to Classify](papers/trending.pdf). Lee, C., Yao, H., He, X., Su, C., and Chang, J-Y. WWW (poster), Seol,Korea, 2014. 
 
 This is the paper out of our internship project. I kinda of miss my internship with Yahoo! Sunnyvale in 2013, when I learned Hadoop HDFs and MapReduce, processed lots of real data and worked with a group of friends Chi-Hoon, Martin, Sue, Xu, Kun, Haibo, and many others. Our project won a championship (CEO award) for "TrendingNow" (yahoo.com at the top right corner) that detects trending topics in Yahoo search engine. This paper learns to extract some growth pattern of query counts in search engines. One surprise we found at the time is that the query "Tom Clancy died" was already getting some hits in the query logs just a few minutes before his death was released by news. 
