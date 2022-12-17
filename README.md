@@ -4,7 +4,9 @@ Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.so
 
 My research has inspired Gradient TD ([GTD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf)), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf). However, my contributions were not recognized or credited by the literature for some reason. I was also part of the TDC paper development.  
 
-My research interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. Understanding deep neural networks is my recent interest. 
+My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
+
+Understanding deep neural networks is my recent interest. 
 
 I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. 
 I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I'm an adjunct professor at Department of Computing Science, University of Alberta. 
