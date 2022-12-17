@@ -2,7 +2,7 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). 
 
-My research has inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009), which stand for and start an important class of off-policy learning algorithms. However, my contributions were not recognized or credited by the literature for some reason. I was also part of the TDC paper development (NoName on this paper; so you haven't seen my name there).  
+My research has inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009), which stand for and start an important class of off-policy learning algorithms. However, my contributions were not recognized or credited by the literature for some reason. I was also part of the TDC paper development (NoName on this paper; so you haven't seen my name there). I wish the authors can have a discussion and reflection (e.g., search  your email boxes) to have a judgement on whether it deserves an authorship here. 
 
 My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
 
