@@ -2,6 +2,8 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). 
 
+My research has inspired Gradient TD (GTD), GTD2 and TDC. However, this was not recognized by the literature for some reason. I was also part of the TDC paper development.  
+
 My research interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. Understanding deep neural networks is my recent interest. 
 
 I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. 
