@@ -6,7 +6,7 @@ My research has inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/paper
 
 However, my contributions were not recognized or credited by the literature for some reason. I was also part of the TDC paper development (for some reason my name was not on this paper though). I wish the GTD and the TDC2 authors can read my preconditioning TD paper and compare with yours, have a discussion and reflection (e.g., search  your email boxes) to have a judgement on, (1) **whether the GTD and TDC papers took advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. I would love to hear from the authors on whether in the above texts, I overclaim or not. 
 
-Motivation of bringing this up now: I have a family. I already had an unusually hard research career. This has confused me for a long time in my career choice. This was my first paper when I was a master student. Perhaps the ultimate reason is that, I don't want to see that one day I die, nobody knows this. 
+Motivation of bringing this up now: I have a family. I already had an unusually hard research career. This has confused me for a long time in my career choice. This was my first paper when I was a master student before I came to UofA. Perhaps the ultimate reason is that, I don't want to see that one day I die, nobody knows this. 
 
 My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
 
