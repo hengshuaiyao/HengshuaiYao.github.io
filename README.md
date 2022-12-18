@@ -30,7 +30,7 @@ I am only annoyed when receiving reviews like "I don't find anything that is goo
 
 **Writing reviews with un-backed up criticism is an insult to the authors** (even if it wasn't meant to). That's against the spirit of science.    
 
-I strongly agree readers have different backgrounds and take in different information. Just please read the paper for more than 10 minutes before starting writing reviews. Please. Thanks. For the dream of our AI.  
+I strongly agree readers have different backgrounds and take in different information. **Just please read the paper for more than 10 minutes before starting writing reviews**. Please. Thanks. For the dream of our AI.  
 
 ---
 
