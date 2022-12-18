@@ -6,7 +6,7 @@ My research has inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/paper
 
 However, my contributions were not recognized or credited by the literature for some reason. I was also part of the TDC paper development (for some reason my name was not on this paper though). 
 
-Finally, after enormous mental struggles, I gave up holding on this. I wish the GTD and the TDC2 authors can read my preconditioning TD paper and compare with yours, have a discussion and reflection (e.g., search  your email boxes) to have a judgement on, (1) **whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. 学生有些恍惚。。。。。。
+Finally, after enormous mental struggles, I gave up holding on this. I wish the GTD and the TDC2 authors can read my preconditioning TD paper and compare with yours, have a discussion and reflection (e.g., search  your email boxes) to have a judgement on, (1) **whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. 学生有些恍惚。
 
 Motivation of bringing this up now: This has been about 15 years. I already had an unusually hard research career. This has confused me for a long time in my Ph.D time and career choice. This was my first paper when I was a master student before I came to UofA. Perhaps the ultimate reason is that, I don't want to see that one day I die, nobody knows this. I have a family, and about just another 15 years for my left career. 
 
