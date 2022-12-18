@@ -30,7 +30,7 @@ I am only annoyed when receiving reviews like "I don't find anything that is goo
 
 **Writing reviews with un-backed up criticism is an insult to the authors** (even if it wasn't meant to). That's against the spirit of science. Science is not polictics. It is based on facts, either mathematics or experiments that can be used as facts. Talking in the mind that "I don't like your paper" with a professional tone however don't give backups in reviewing papers is the biggest challenge of our AI literature. It's Okay that you don't like my paper. **Just please tell me why and your reasoning** because it is your responsibility as a reviewer.    
 
-I strongly agree readers have different backgrounds and take in different information. **Just please read the paper for more than 10 minutes before starting writing reviews**. Please. Thanks. For the dream of our AI.  
+I strongly agree readers have different backgrounds and take in different information. **Just please read the paper for more than 10 minutes before starting writing reviews**. Please. Thanks. For the dream of our AI. For someone who is as serious as you in pusing the goals of AI.   
 
 ---
 
