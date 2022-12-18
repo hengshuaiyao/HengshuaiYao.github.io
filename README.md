@@ -22,6 +22,13 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)
 
 
+## My philosophy of being a reviewer and being reviewed 
+It's Okay to be harsh. **Just please always back up your claims/criticism with evidence** (from where you think there is something wrong with the paper being reviewed, or something that has been done in the literature). Sometimes I am a harsh reviewer too. For example, once I critized one paper having an assumption too strong. I then gave the reason and showed why the main result is trivial under the assumption. 
+
+I am only annoyed when receiving reviews like "I don't find anything that is good in this paper", without any backup. "The motivation of this paper is not clear", without explaining why, which was confusing because the title and abstract only are very clear about this. Recently, I have two papers receiving reviews like this. Had I written a review like this, I will back up with: (1) the first idea in the paper is not good because ... (either it is not sound or it has been done) (2) the algorithm and experiments performed in the paper is not good because ... (either the algorithm is not novel, or experiments were done in a poor manner; e.g., hyper-parameter choices are fishy, or results were not well interpretted; etc. (3) "The motivation is not clear" because it is hard to understand, e.g., I have difficulty in understanding the concept of "ABC" or the mathematics like equations 1 to 3; etc. **Writing reviews with un-backed up criticism is an insult to the authors** (even if it wasn't meant to). That's against the spirit of science.    
+
+I strongly agree readers have different backgrounds and take in different information. Just please read the paper for more than 10 minutes before starting writing reviews. Please. Thanks. For the dream of our AI.  
+
 ---
 
 ### Publication
@@ -356,12 +363,6 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 
 -->
 
-## My philosophy of being a reviewer and being reviewed 
-It's Okay to be harsh. **Just please always back up your claims/criticism with evidence** (from where you think there is something wrong with the paper being reviewed, or something that has been done in the literature). Sometimes I am a harsh reviewer too. For example, once I critized one paper having an assumption too strong. I then gave the reason and showed why the main result is trivial under the assumption. 
-
-I am only annoyed when receiving reviews like "I don't find anything that is good in this paper", without any backup. "The motivation of this paper is not clear", without explaining why, which was confusing because the title and abstract only are very clear about this. Recently, I have two papers receiving reviews like this. Had I written a review like this, I will back up with: (1) the first idea in the paper is not good because ... (either it is not sound or it has been done) (2) the algorithm and experiments performed in the paer is not good because ... (either the algorithm is not novel, or experiments were done in a poor manner; e.g., hyper-parameter choices are fishy, or results were not well interpretted; etc. (3) "The motivation is not clear" because it is hard to understand, e.g., I have difficulty in understanding the concept of "ABC" or the mathematics like equations 1 to 3; etc. **Writing reviews with un-backed up criticism is an insult to the authors** (even if it wasn't meant to). That's against the spirit of science.    
-
-I strongly agree readers have different backgrounds and take in different information. Just please read the paper for more than 10 minutes before starting writing reviews. Please. Thanks. For the dream of our AI.  
 
 ## Contact
 my ccid "At@" ualberta.ca; the ccid is hengshu1
