@@ -2,7 +2,7 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). 
 
-My research has inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are considered to stand for and start an important class of off-policy learning algorithms. 
+My research has inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms. 
 
 However, my contributions were not recognized or credited by the literature for some reason. I was also part of the TDC paper development (for some reason my name was not on this paper though). 
 
