@@ -357,7 +357,9 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 -->
 
 ## My philosophy of being a reviewer and being reviewed 
-It's Okay to be harsh. Just please always back up your claims with evidence (from the paper or the literature). Sometimes I am a harsh reviewer too. For example, once I critized one paper having an assumption too strong. I then gave the reason and showed why the main result is trivial under the assumption. I am only annoyed when receiving reviews like "I don't find anything that is good in this paper", without any backup. "The motivation of this paper is not clear", without explaining why, which was confusing because the title and abstract only are very clear about this. Recently, I've received two reviews like this. I strongly agree readers have different backgrounds and take in different information. Just please read the paper for more than 10 minutes before starting writing reviews. Please. Thanks. For our AI.  
+It's Okay to be harsh. Just please always back up your claims with evidence (from the paper or the literature). Sometimes I am a harsh reviewer too. For example, once I critized one paper having an assumption too strong. I then gave the reason and showed why the main result is trivial under the assumption. 
+
+I am only annoyed when receiving reviews like "I don't find anything that is good in this paper", without any backup. "The motivation of this paper is not clear", without explaining why, which was confusing because the title and abstract only are very clear about this. Recently, I've received two reviews like this. I strongly agree readers have different backgrounds and take in different information. Just please read the paper for more than 10 minutes before starting writing reviews. Please. Thanks. For our AI.  
 
 ## Contact
 my ccid "At@" ualberta.ca; the ccid is hengshu1
