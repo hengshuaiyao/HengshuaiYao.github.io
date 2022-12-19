@@ -21,6 +21,8 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
 
+I deeply appreciate the help from a few professors in my hard time: Csaba, Dale and Randy. Had it not been them, I am not sure where I would be. I'm still struggling with my research career. However, their minds have helped me to think clearly who am I and what I'm best at. They always encourage me to focus on the positiveness of life and research. I also appreciate Rich. His papers (TD, linear Dyna, etc.) stimulated the first interests in a baby student who was following some reference in the world Robocup simulation community.     
+
 ## My philosophy of being a reviewer and being reviewed 
 It's Okay to be harsh. **Just please always back up your claims/criticism with evidence** (from where you think there is something wrong with the paper being reviewed, or something that has been done in the literature). Sometimes I am a harsh reviewer too. 
 
