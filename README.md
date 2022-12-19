@@ -12,7 +12,7 @@ Finally, after enormous mental struggles, I gave up holding on this. I wish the 
 
 **Motivation of bringing this up now**: This has been about 15 years. I already had an unusually hard research career. This has confused me for a long time in my Ph.D time and career choice. This was my first paper when I was a master student before I came to UofA. Perhaps it's human instinct: I don't want to see that one day I die, nobody knows this. I have a family. It's about just another 15 years for my left career. I don't wanna to experience this again: I was afraid to talk about my proud work, when I applied jobs and sometimes was offered a junior position or wasn't even given an interview opportunity for reinforcement learning positions. In a small literature, some people knew my work. Out wild, people just judge your research by looking at your citations.       
 
-My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
+My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. I really like this work. I consider it is the best work out from me in my twenty years of research since I started.  
 
 Understanding deep neural networks is my recent interest. 
 
