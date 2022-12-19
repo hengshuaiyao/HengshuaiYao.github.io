@@ -19,8 +19,7 @@ Understanding deep neural networks is my recent interest. Deep learning was not 
 I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. 
 I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I'm an adjunct professor at Department of Computing Science, University of Alberta. 
 
-[My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)
-
+[My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
 
 ## My philosophy of being a reviewer and being reviewed 
 It's Okay to be harsh. **Just please always back up your claims/criticism with evidence** (from where you think there is something wrong with the paper being reviewed, or something that has been done in the literature). Sometimes I am a harsh reviewer too. 
