@@ -6,7 +6,7 @@ My research has inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/paper
 
 However, my contributions were not recognized or credited by the literature for some reason. I was also part of the TDC paper development (for some reason my name was not on this paper though). 
 
-Finally, after enormous mental struggles, I gave up holding on this. I wish the GTD and the TDC2 authors can read my preconditioning TD paper and compare with yours, have a discussion and reflection (e.g., search  your email boxes) to have a judgement on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. 
+Finally, after enormous mental struggles, I gave up holding on this. I wish the GTD and the GTD2/TDC authors can read my preconditioning TD paper and compare with yours, have a discussion and reflection (e.g., search  your email boxes) to have a judgement on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. 
 
 学生有些恍惚。I always thought I had travelled in another world where time and space collapsed into illusions because [this just couldn't be true](gtd_novelty.html)
 
