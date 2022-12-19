@@ -14,7 +14,7 @@ Finally, after enormous mental struggles, I gave up holding on this. I wish the 
 
 My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. I really like this work. I consider it is the best work out from me in my twenty years of research since I started.  
 
-Understanding deep neural networks is my recent interest. 
+Understanding deep neural networks is my recent interest. Deep learning was not my area. I became interested in it mostly because the deep reinforcement learning. I took a look at the literature for about a year. Some problems, which seem quite fundamental, remain unsolved or poorly understood. This arouses my curiosity. The work on class interference, decision boundary and step-size planning summarize my readings and thinking in this regard.  
 
 I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. 
 I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I'm an adjunct professor at Department of Computing Science, University of Alberta. 
