@@ -35,6 +35,13 @@ This may sound a bit negative, but I really wanna to say this aloud, because I t
 
 I strongly agree readers have different backgrounds and take in different information. **Just please read the paper for more than 10 minutes before starting writing reviews**. Please. Thanks. For the dream of our AI. For someone who is as serious as you in pusing the goals of AI.   
 
+## Could this be a risk for AI literature?
+I don't know if anyone else has the same observation and concern with me. I recently submitted to a conference that I never did. The conference is a top and famous one. By accidents, after submission, I found someone has 20+ papers in this conference, a single year. This guy also serves the important position at this conference and community. Some of this author's paper is also on arxiv. 
+
+You don't see this implicit bias in play. Someone serves as the area chair for your paper and this famous author. Both of your papers receive similar scores (both borderline). The AC of course knows this famous author. The AC buzzes the reviewers: Hey, guys, I read your reviews. R1 said something strong about this paper. Could R2 and R3 take a look? The AC just didn't do anything about your paper. Eventualy, your paper got rejected and the other one was accepted. 
+
+I think people with a 20+ or 30+ paper in a famous conference in a single year should carefully think about whether it is a good thing to do or not. I originally had great esteem for this author after reading one of his papers. After I saw this superhuman productivity, to be honest, my esteem for this research was just gone. 
+
 ---
 
 ### Publication
