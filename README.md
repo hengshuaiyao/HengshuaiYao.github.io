@@ -40,7 +40,7 @@ I don't know if anyone else has the same observation and concern with me. I rece
 
 You don't see this implicit bias in play. Someone serves as the area chair for your paper and this famous author. Both of the papers receive similar scores (both borderline). The AC of course knows this famous author. The AC buzzes the reviewers of this author's paper: Hey, guys, I read your reviews. R1 said something strong about this paper. Could R2 and R3 take a look? R2 and R3 at this stage, are very likely to search and find if the paper is on arxiv. If so, what do you think they will think and what will they do? The AC just didn't do anything about your paper. It is mostly likely a silence even if your rebuttal points out critical problems in the reviewer. I've seen this a few times in my role of being a reviewer (for both kinds of papers). Eventualy, the other one was accepted. Your paper got rejected. This poor "you" are mostly likely a new student/researcher just into this area.  
 
-I think people with a 20+ or 30+ paper in a famous conference in a single year should carefully think about whether it is a good thing to do or not. I originally had great esteem for this author after reading one of his papers. After I saw this superhuman productivity, to be honest, my esteem for this research was just gone. 
+I think people with a 20+ or 30+ paper in a famous conference in a single year should carefully think about whether it is a good thing to do or not. I originally had great esteem for this author after reading one of his papers. After I saw this superhuman productivity, to be honest, my esteem for this researcher was just gone. Seriously, are you doing research, or a paper bag of collecting things using your position and past research? 
 
 ---
 
