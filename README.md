@@ -8,7 +8,7 @@ However, my contributions were not recognized or credited by the literature for 
 
 Finally, after enormous mental struggles, I gave up holding on this. I wish the GTD and the GTD2/TDC authors can read my preconditioning TD paper and compare with yours, have a discussion and reflection (e.g., search  your email boxes) to have a judgement on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. 
 
-学生有些恍惚。I always thought I had travelled in another world where time and space collapsed into illusions because [this just couldn't be true](gtd_novelty.html). Had I?
+学生有些恍惚。I always thought I had travelled in another world where time and space collapsed into illusions because [this just couldn't be true](gtd_novelty.md). Had I?
 
 **Motivation of bringing this up now**: This has been about 15 years. I already had an unusually hard research career. This has confused me for a long time in my Ph.D time and career choice. This was my first paper when I was a master student before I came to UofA. Perhaps it's human instinct: I don't want to see that one day I die, nobody knows this. I have a family. It's about just another 15 years for my left career. I don't wanna to experience this again: I was afraid to talk about my proud work, when I applied jobs and sometimes was offered a junior position or wasn't even given an interview opportunity for reinforcement learning positions. In a small literature, some people knew my work. Out wild, people just judge your research by looking at your citations.       
 
