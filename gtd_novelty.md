@@ -32,6 +32,6 @@ In Theorem 4.1 of the GTD paper, the assumption of a non-singular $A$ is not nec
 
 (ii) In the preconditiong paper, I showed that the iteration with $C^{-1}A^TA$ is faster by improving the spectral properties of $A^TA$. 
 According to (i), $C^{-1}A^TA$ has the same **set** of eigenvalues with $A^TC^{-1}A$. Let's use $A^TC^{-1}A$ as the iteration matrix then. 
-This lead to the so-called MSPBE in the GTD2/TDC paper. In short, the GTD2/TDC paper exploits both **symmetry** and **preconditioning**, both were proposed in the preconditioning paper. The GTD2/TDC paper is a warping of the preconditioned update. 
+This lead to the MSPBE in the GTD2/TDC paper. In short, the GTD2/TDC paper exploits both **symmetry** and **preconditioning**, both were proposed in the preconditioning paper. The GTD2/TDC paper is a warping of the preconditioned update. 
 
 
