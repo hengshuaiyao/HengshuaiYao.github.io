@@ -40,7 +40,9 @@ I don't know if anyone has the same observation and concern with me. I recently 
 
 You don't see this implicit bias in play. Someone serves as the area chair for your paper and this famous author. Both of the papers receive similar scores (both borderline). The AC of course knows this famous author. The AC buzzes the reviewers of this author's paper: Hey, guys, I read your reviews. R1 said something strong about this paper. Could R2 and R3 take a look? R2 and R3 at this stage, are very likely to search and find whether the paper is on arxiv (maybe they have done so before doing reviews). If so, what do you think they will think and what will they do? The AC just didn't do anything about your paper. It is mostly likely a silence even if your rebuttal points out critical problems in the reviewer. I've seen this a few times in my role of being a reviewer (for both kinds of papers). Eventualy, the other one was accepted. Your paper got rejected. This poor "you" are mostly likely a new student/researcher just into this area, who just submits one paper and perhaps all by himself/herself.  
 
-I think people with 20+ or 30+ papers in a single conference (one year!) should carefully think about whether it is a good thing to do or not. You guys are all leaders of our community. We follow you. We cite you. We hope you create and improve our publication and review system. I don't know why. I just feel a bit sick after seeing this. What kind of contributions could one make across 30 submissions, with the same deadline?  
+I think people with 20+ or 30+ papers in a single conference (one year!) should carefully think about whether it is a good thing to do or not. You guys are all leaders of our community. We follow you. We cite you. We hope you create and improve our publication and review system. 
+
+I don't know why. I just feel a bit sick after seeing this. What kind of contributions could one make across 30 submissions, with the same deadline?  
 
 ---
 
