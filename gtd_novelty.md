@@ -1,8 +1,3 @@
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
-
 <div align="center">
 <img align="center" src="papers/gtd_sec2.png" alt="hi" width="80%" class="inline"/>
 </div>
