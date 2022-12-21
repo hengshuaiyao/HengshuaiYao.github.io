@@ -22,7 +22,7 @@ Was "NEU" new in what sense?
 <img align="center" src="papers/tdc_explains.png" alt="hi" width="60%" class="inline"/>
 </div>
 
-GTD2/TDC is faster than GTD because (1) $AB$ and $BA$ have the same eigenvalues. Assume $\lambda-\xi$ is an eigenvalue-eigenvector pair of $AB$, $AB\xi = \lamba \xi$. 
+GTD2/TDC is faster than GTD because (1) $AB$ and $BA$ have the same eigenvalues. Assume $\lambda-\xi$ is an eigenvalue-eigenvector pair of $AB$, $AB\xi = \lambda \xi$. 
 Then we need to show that there exists some vector $\eta$ such that $BA\eta = \lambda \eta$.  Note that $BA(B\xi) = B(AB\xi) = B(\lambda \xi) = \lambda (B\xi)$, 
 which means $\eta=B\xi$ is the eigenvector of $BA$ with the eigenvalue $\lambda$. This also applies when $\lambda=0$. 
 This is important becasue it covers the case when the off-policy TD's $A$ is not necessarily non-singular. 
