@@ -1,3 +1,7 @@
+---
+title: The GTD and GTD2/TDC papers
+---
+
 <div align="center">
 <img align="center" src="papers/gtd_sec2.png" alt="hi" width="80%" class="inline"/>
 </div>
