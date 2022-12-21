@@ -27,5 +27,5 @@ GTD2/TDC derivation (starting from 2-norm): The L2 objective, $(Ax+b)^T (Ax+b)$ 
 
 So the MSPBE is a simple L2 objecitve too (like GTD), because $(Ax+b)^T \cdot C^{-1}(Ax+b)=\||C^{-1/2}(Ax+b)\||^2$. The paper presented it using the D-norm simply because this L2 form can be written equivalently in the D-norm due to that $D^T \Phi(\Phi^T D\Phi)^{-1} \Phi^T D=\Pi^T D \Pi$ (in the paper). $\Pi^T D \Pi$ corresponds to the D-norm, and $D^T \Phi(\Phi^T D\Phi)^{-1} \Phi^T D$ corresponds to the L2 norm. 
 
-In short, let's use $A^TC^{-1}A$ as the iteration matrix. This lead to the MSPBE in the GTD2/TDC paper. GTD2/TDC paper exploited both **symmetry** and **preconditioning**, both of which were proposed in the preconditioning paper. The GTD2/TDC paper is a warping of the preconditioned update. 
+In short, in the preconditioned update, I used $C^{-1}A^TA$ as the iteration matrix. Let's use $A^TC^{-1}A$ as the iteration matrix. This lead to the MSPBE in the GTD2/TDC paper. GTD2/TDC paper exploited both **symmetry** and **preconditioning**, both of which were proposed in the preconditioning paper. The GTD2/TDC paper is a warping of the preconditioned update. 
 
