@@ -1,6 +1,7 @@
 ---
 title: The GTD and GTD2/TDC papers
 layout: template
+usemathjax : true
 ---
 
 <div align="center">
