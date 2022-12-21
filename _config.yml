@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Hengshuai,
 description: 恒帅的渠问之旅
 usemathjax : true
+use_math: true
+kramdown:
+  math_engine: katex
