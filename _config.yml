@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 title: Hengshuai,
 description: 恒帅的渠问之旅
-markdown_extensions: ['extra', 'mathjax']
-extra_javascript: ['https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML','js/mathjaxhelper.js']
+usemathjax: true
