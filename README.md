@@ -42,7 +42,7 @@ You don't see this implicit bias in play. Someone serves as the area chair for y
 
 I think people with 20+ or 30+ papers in a single conference (one year!) should carefully think about whether it is a good thing to do or not. You guys are all leaders of our community. We follow you. We cite you. We hope you create and improve our publication and review system. 
 
-I don't know why. I just feel a bit sick after seeing this. What kind of contributions could one make across 30 submissions, with the same deadline?  
+What kind of contributions could one make across 30 submissions, with the same deadline?  
 
 ---
 
