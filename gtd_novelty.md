@@ -33,7 +33,8 @@ This is important becasue it covers the case when the off-policy TD's $A$ is not
 In Theorem 4.1 of the GTD paper, the assumption of a non-singular $A$ is not necessary. If $A$ is singular, the GTD algorithm still converges to a solution to $Ax+b=0$, which has infinitely many solutions. 
 
 (ii) In the preconditiong paper, I showed that the iteration with $C^{-1}A^TA$ is faster by improving the spectral properties of $A^TA$. 
-$C^{-1}A^TA$ has the same **set** of eigenvalues with $A^TC^{-1}A$. 
+
+Lemma: $C^{-1}A^TA$ has the same **set** of eigenvalues with $A^TC^{-1}A$. 
 
 Proof: $A^TC^{-1}A$ has the same eigenvalues as $A C^{-1}A^T$ due to the derminants are the same for a symmetric matrix: 
 $det(I- \lambda A) = det(I-\lambda A^T)$. So it suffices to examine $A C^{-1}A^T$. According to (i), $A (C^{-1}A^T)$ has the same eigenvalues as $(C^{-1}A^T)A$, which is just $C^{-1}A^TA$, the preconditioned matrix.
