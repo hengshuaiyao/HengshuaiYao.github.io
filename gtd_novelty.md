@@ -1,5 +1,6 @@
 ---
 title: The GTD and GTD2/TDC papers
+layout: template
 ---
 
 <div align="center">
