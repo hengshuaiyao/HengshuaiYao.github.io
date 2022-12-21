@@ -25,7 +25,7 @@ Was "NEU" new in what sense?
 
 
 <div align="center">
-<img align="center" src="papers/tdc_whyfaster.png" alt="hi" width="60%" class="inline"/>
+<img align="center" src="papers/tdc_whyfaster.png" alt="hi" width="80%" class="inline"/>
 </div>
 
 
