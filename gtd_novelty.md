@@ -23,22 +23,9 @@ Was "NEU" new in what sense?
 <img align="center" src="papers/tdc_explains.png" alt="hi" width="60%" class="inline"/>
 </div>
 
+GTD2/TDC derivation (starting from 2-norm): The L2 objective, $(Ax+b)^T (Ax+b)$ leads to slow update (as shown in the preconditioning paper). GTD2 and TDC start from that we want to solve one system faster, just one $(Ax+b)$. So we apply a preconditioner and aim for an iteration like $\delta x = C^{-1}(Ax+b)$. Recall that in the gradient descent for TD idea, the key is to make a symmetric O.D.E. for off-policy learning. So we change the L2 objective into, $(Ax+b)^T \cdot C^{-1}(Ax+b)$, and solve this system with two iterations. Note that $C^{-1}(Ax+b)$ is a simple linear regression problem (LMS). GTD2 and TDC are both based on approximating $C^{-1}(Ax+b)$ with samples. They are slightly different (in whether you use $C^{-1}A$ or the equivalent, $C^{-1}(C+ D)=I+C^{-1}D$, where $D=A-C$. 
 
-GTD2/TDC is faster than GTD because 
+That said, the MSPBE is a simple L2 objecitve too because $(Ax+b)^T \cdot C^{-1}(Ax+b)=$\|C^{-1/2}(Ax+b)\|^2$. The paper presented it using the D-norm simply because this L2 form can be written equivalently in the D-norm due to that $D^T \Phi(\Phi^TD\Phi)^{-1} \Phi^T D=\Pi D \Pi $ (in the paper). $$\Pi D \Pi$ corresponds to the D-norm, and $D^T \Phi(\Phi^TD\Phi)^{-1} \Phi^T D$ corresponds to the L2 norm. 
 
-(i) $AB$ and $BA$ have the same eigenvalues. Assume $(\lambda,\xi)$ is an eigenvalue-eigenvector pair of $AB$, $AB\xi = \lambda \xi$. 
-Then we need to show that there exists some vector $\eta$ such that $BA\eta = \lambda \eta$.  Note that $BA(B\xi) = B(AB\xi) = B(\lambda \xi) = \lambda (B\xi)$, 
-which means $\eta=B\xi$ is the eigenvector of $BA$ with the eigenvalue $\lambda$. This also applies when $\lambda=0$. 
-This is important becasue it covers the case when the off-policy TD's $A$ is not necessarily non-singular. 
-In Theorem 4.1 of the GTD paper, the assumption of a non-singular $A$ is not necessary. If $A$ is singular, the GTD algorithm still converges to a solution to $Ax+b=0$, which has infinitely many solutions. 
-
-(ii) In the preconditiong paper, I showed that the iteration with $C^{-1}A^TA$ is faster by improving the spectral properties of $A^TA$. 
-
-Lemma: $C^{-1}A^TA$ has the same **set** of eigenvalues with $A^TC^{-1}A$. 
-
-Proof: $A^TC^{-1}A$ has the same eigenvalues as $A C^{-1}A^T$ due to the derminants are the same for a symmetric matrix: 
-$det(I- \lambda A) = det(I-\lambda A^T)$. So it suffices to examine $A C^{-1}A^T$. According to (i), $A (C^{-1}A^T)$ has the same eigenvalues as $(C^{-1}A^T)A$, which is just $C^{-1}A^TA$, the preconditioned matrix.
-
-
-Let's use $A^TC^{-1}A$ as the iteration matrix then. This lead to the MSPBE in the GTD2/TDC paper. In short, the GTD2/TDC paper exploited both **symmetry** and **preconditioning**, both of which were proposed in the preconditioning paper. The GTD2/TDC paper is a warping of the preconditioned update. 
+In short, let's use $A^TC^{-1}A$ as the iteration matrix then. This lead to the MSPBE in the GTD2/TDC paper. GTD2/TDC paper exploited both **symmetry** and **preconditioning**, both of which were proposed in the preconditioning paper. The GTD2/TDC paper is a warping of the preconditioned update. 
 
