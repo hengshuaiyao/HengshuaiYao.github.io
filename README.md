@@ -44,7 +44,7 @@ I think people with 20+ or 30+ papers in a single conference (one year!) should 
 
 What kind of contributions could one make across 30 submissions, with the same deadline? 
 
-I'm far from someone who can tell this. However, as a mid aged researcher, I'm really worried about this. I've reviewed so many DRL papers that either reinvent well-known algorithms (sometimes without citing the results in reinforcement learning), or doing empirical works with neural networks without asking interesting questions and not much thinking; etc. If everyone aims to publish **as many papers** like this (hopefully not in whatever ways), without aiming to solve fundamental problems and spending years of invetigation into relevant literature, the **real AI research** is going to be killed by our literature.
+I'm far from someone who can tell this. However, as a middle-aged researcher, I'm really worried about this. I've reviewed so many DRL papers that either reinvent well-known algorithms (sometimes without citing the results in reinforcement learning), or doing empirical works with neural networks without asking interesting questions and not much thinking; etc. If everyone aims to publish **as many papers** like this (hopefully not in whatever ways), without aiming to solve fundamental problems and spending years of invetigation into relevant literature, the **real AI research** is going to be killed by our literature.
 
 ---
 
