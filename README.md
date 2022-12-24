@@ -4,7 +4,7 @@ Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.so
 
 My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms. 
 
-However, my contributions were not recognized or credited by the literature for some reason. These papers received about 1000+ citations at the time of writing this. My paper received 13. None of the GTD and TDC citations refered to my paper for the source of GTD and TDC ideas. 
+However, my contributions were not recognized or credited by the literature for some reason. These papers received about 1000+ citations at the time of writing this. My paper received 13. None of the GTD and TDC citations referred to my paper for the source of GTD and TDC ideas. 
 
 I was also part of the TDC paper development. However, for some reason my name was not on this paper.
 
