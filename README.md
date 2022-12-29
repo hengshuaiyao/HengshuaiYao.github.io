@@ -27,8 +27,8 @@ I think it's Okay to be harsh. **Just please always back up our claims/criticism
 As an author, I am only annoyed when receiving reviews like "I don't find anything that is good in this paper", without any backup. "The motivation of this paper is not clear", without explaining why, which was confusing because the title and abstract only are very clear about this. Recently, I have two papers receiving reviews like this. Had I written a review like this, I will back up with: 
 
 - The first idea in the paper is not good because ... (either it is not sound or it has been done) 
-- the algorithm and experiments performed in the paper are not good because ... (either the algorithm is not novel, or experiments were done in a poor manner; e.g., hyper-parameter choices were not well described, or empirical results were not well interpretted; etc. 
-- The motivation is not clear because it is hard to understand, e.g., I have difficulty in understanding the concept of "ABC" or the mathematics like equations 1 to 3; etc. 
+- The algorithm and experiments performed in the paper are not good because ... (either the algorithm is not novel, or experiments were done in a poor manner; e.g., hyper-parameter choices were not well described, or empirical results were not well interpretted; etc. 
+- The motivation is not clear because it is hard to understand ---Don't forget to explain here--- e.g., I have difficulty in understanding the concept of "ABC" or the mathematics like equations 1 to 3; etc. I'm always willing to show that I'm dumb in understanding things, because the authors will be very happy to teach me things, as long as I'm giving the specifics.  
 
 **This creates opportunities for the authors and the reviewers to communicate ideas, based on specifics**. Without backups, the reviews, even though they can be true, the way they are written, do no good to anybody nor our literature except negative feelings about our research and the community. 
 
