@@ -24,7 +24,7 @@ Yes, sometimes I am a harsh reviewer too. Generally, I am either a friendly (acc
 
 I think it's Okay to be harsh. **Just please always back up our claims/criticism with evidence** (from where we think there is something wrong with the paper being reviewed, or something that has been done in the literature). 
 
-As an author, I am only annoyed when receiving reviews like "I don't find anything that is good in this paper", without any backup. "The motivation of this paper is not clear", without explaining why, which was confusing because the title and abstract only are very clear about this. Recently, I have two papers receiving reviews like this. Had I written a review like this, I will back up with: 
+As an author, I am only annoyed when receiving reviews like "I don't find anything that is good in this paper", without any backup. "The motivation of this paper is not clear", without explaining why, which was confusing because the title and abstract only are very clear about this. One reviewer also asked "why do you study exploration?" (for a reinforcement learning paper), without giving the reason for asking this question. Recently, I have all reviews like this. Had I written a review like the first two, I will back up with: 
 
 - The first idea in the paper is not good because ... (either it is not sound or it has been done) 
 - The algorithm and experiments performed in the paper are not good because ... (either the algorithm is not novel, or experiments were done in a poor manner; e.g., hyper-parameter choices were not well described, or empirical results were not well interpretted; etc. 
