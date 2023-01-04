@@ -26,6 +26,8 @@ I also deeply appreciate Rich at heart. His TD paper stimulated the first intere
 
 I'm greatly thankful to Andy Barto. He is so kind. When I struggled with the interests on TD and had great trouble in publishing the preconditioning idea, he helped me (with his student George Konidaris too) improve the paper greatly. he also recommended me to come to UofA for studies even though he never met me in person before.       
 
+My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my exploration reinforcement learning. He already retired but I always remember during Robocup 2004 in Portugal, I just briefly mentioned there was something not clear to me in Simon Haykin's neural networks: a comprehensive foundamentation book. He told me just to come to his hotel room and he will explain to me. He did.    
+
 ## My philosophy of being a reviewer and being reviewed 
 Yes, sometimes I am a harsh reviewer too. Generally, I am either a friendly (accept or reject) or a harsh (reject) reviewer. I'm in a harsh mode if I found the paper being reviewed overclaims with either insufficient literature review (reinventing things) or poor evidence supports. 
 
