@@ -24,7 +24,7 @@ I deeply appreciate the help from a few professors in my hard time: Csaba, Dale 
 
 I also deeply appreciate Rich at heart. His TD paper stimulated the first interests in a baby student. I was following some reference in the world Robocup simulation community and found TD. His linear Dyna is still influencing my mind today. 
 
-I'm greatly thankful to Andy Barto. He is so kind. When I struggled with the interests on TD and had great trouble in publishing the preconditioning idea, he helped me (with his student George Konidaris too) improve the paper greatly. he also recommended me to come to UofA for studies even though he never met me in person before.       
+I'm greatly thankful to Andy Barto. He is so kind. When I struggled with the interests on TD and had great trouble in publishing the preconditioning idea, he helped me (with his student George Konidaris too) improve the paper greatly. He also recommended me to come to UofA for studies even though he never met me in person before.       
 
 My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my exploration reinforcement learning. He already retired but I always remember during Robocup 2004 in Portugal, I just briefly mentioned there was something not clear to me in Simon Haykin's neural networks: a comprehensive foundamentation book. He told me just to come to his hotel room and he will explain to me. He did.    
 
