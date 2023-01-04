@@ -8,6 +8,8 @@ However, my contributions were not recognized or credited by the literature for 
 
 This has been about 15 years, for which I had somehow waited for some sort of remedy. This has confused me for a long time throughout my Ph.D time and career choice. It's about just another 15 years for my left career. I have a family too. Occasionally, I also wrote on the off-policy learning topic. I refrained to discuss this even though there is relevance of discussion. None of my coauthors knew about it. In a small literature, some people knew my work. Out wild, people just judge your research by looking at your citations.       
 
+## My Interests 
+
 My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. I really like this work. I consider it is the best work out from me in my twenty years of research since I started.  
 
 Understanding deep neural networks is my recent interest. Deep learning was not my area. I became interested in it mostly because the deep reinforcement learning. I took a look at the literature for about three years. Some problems, which seem quite fundamental, remain poorly understood or unsolved. This arouses my curiosity. The work on class interference, decision boundary and step-size planning summarize my readings and thinking in this regard.  
@@ -17,6 +19,7 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 
 [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
 
+## Acknowledgement 
 I deeply appreciate the help from a few professors in my hard time: Csaba, Dale and Randy. Had it not been them, I am not sure where I would be. I'm still struggling with my research career. However, their minds have helped me to think clearly who am I and what I'm best at. They always encourage me to pursue science, and focus on the positiveness of life and research. I also deeply appreciate Rich at heart. His TD paper stimulated the first interests in a baby student. I was following some reference in the world Robocup simulation community and found TD. His linear Dyna is still influencing my mind today.     
 
 ## My philosophy of being a reviewer and being reviewed 
