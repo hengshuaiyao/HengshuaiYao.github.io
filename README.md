@@ -47,7 +47,7 @@ You don't see this implicit bias in play. Someone serves as the area chair for y
 
 I think our literature should rethink whether 20+ or 30+ papers in a single conference (one year!) is a good thing to do or not. Obviously some of these guys are leaders of our community. We follow you. We cite you. We hope you create and improve our publication and review system. 
 
-What kind of contributions could one make across 30 (50?) submissions, with the same deadline? 
+What kind of contributions could one make across 30 (50?) submissions, with the same deadline? How is that possible to make sure the literature review is sufficient and results (theorems and experiments) are all correct to support valid claims?  In the extreme case, how does one make sure, across this many submissions, none of them takes advantage of other people's work (published and unpulished on arxiv)?
 
 I'm far from someone who can tell this. However, as a middle-aged researcher, I'm really worried about this. I've reviewed so many DRL papers that either reinvent well-known algorithms (sometimes without citing the results in reinforcement learning), or doing empirical works with neural networks without asking interesting questions and not much thinking; etc. If everyone aims to publish **as many papers** and maximize one's impact like this (hopefully not in whatever ways), without aiming to solve a core of fundamental problems and spending years of investigation into relevant literature, the **real AI research** is going to be killed by ourselves.
 
