@@ -1,6 +1,6 @@
 <img align="left" src="videos/head_nov23.jpeg" width="33%" height="33%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). The best part of working at Sony AI is meeting with good people every day. Sony AI is one of [most ethical companies in the world in 2022](https://businesschief.asia/sustainability/sony-infosys-among-worlds-most-ethical-firms-ethisphere).  
+Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). The best part of working at Sony AI is meeting with good people every day. Sony AI is one of [most ethical companies in the world](https://businesschief.asia/sustainability/sony-infosys-among-worlds-most-ethical-firms-ethisphere).  
 
 To prospective students: Sorry, I couldn't take any student because I'm just an adjunct prof at the department. I could co-supervise with someone in the department. However, I want to be focused on my work at Sony AI, and there are too many things I need to figure out (research and the meaning of life), which may take an infinite time. 
 
