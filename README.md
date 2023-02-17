@@ -2,7 +2,7 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). The best part of working at Sony AI is meeting with good people every day. Sony AI is one of [most ethical companies in the world in 2022](https://businesschief.asia/sustainability/sony-infosys-among-worlds-most-ethical-firms-ethisphere).  
 
-To prospective students: I'm sorry. I couldn't take any student because I moved to Sony AI. I'm just an adjust prof at the department. I could co-supervise with someone in the department. However, there are too many things I need to figure out (research and the meaning of life), which may take an infinite time.    
+To prospective students: I'm sorry. I couldn't take any student because I'm just an adjust prof at the department. I could co-supervise with someone in the department. However, there are too many things I need to figure out (research and the meaning of life), which may take an infinite time. I also want to be focused on my work at Sony AI.     
 
 My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). GTD and GTD2/TDC are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenTD, GenDice, etc.
 
