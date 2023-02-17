@@ -432,7 +432,7 @@ Catalog we built (shown is Json format. The json files was injected to a MySQL d
 ## Contact
 my ccid "At@" ualberta.ca; the ccid is hengshu1
 
-为人师者,必先正其身
+为人师者, 必先正其身
 
 德之未至，未敢为人师。
 
