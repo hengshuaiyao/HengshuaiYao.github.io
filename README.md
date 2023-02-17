@@ -2,6 +2,15 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). 
 
+My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, emphatic TD, Horde, DualDice, GenDice, etc.
+
+However, my contributions were not recognized or credited by the literature for some reason. These two papers received about 1000+ citations at the time of writing this. My paper received 13. 
+
+Read [my preconditioning TD paper](papers/ptd.pdf)
+
+[Comparison](gtd_novelty.md). Authors of these two papers please kindly have a reflection (e.g., search  your email boxes) on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. Some of the authors agreed to give future credits when they will write on the topic. If you cite GTD and the GTD2/TDC papers in your research, please consider giving the preconditioning paper a kind credit.
+
+
 <!-- 
 My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, emphatic TD, Horde, DualDice, GenDice, etc.
 
@@ -10,8 +19,6 @@ However, my contributions were not recognized or credited by the literature for 
 This has been about 15 years, for which I had somehow waited for some sort of remedy. This has confused me for a long time throughout my Ph.D time and career choice. It's about just another 15 years for my left career. I have a family too. Occasionally, I also wrote on the off-policy learning topic. I refrained to discuss this even though there is relevance of discussion. None of my coauthors knew about it. In a small literature, some people knew my work. Out wild, people just judge your research by looking at your citations.  
 
 -->
-
-## My Interests 
 
 My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. I really like this work. I consider it is the best work out from me in my twenty years of research since I started.  
 
@@ -31,6 +38,7 @@ I'm greatly thankful to Andy Barto. He is so kind. When I struggled with the int
 
 My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my exploration reinforcement learning. He already retired but I always remember during Robocup 2004 in Portugal, I just briefly mentioned there was something not clear to me in Simon Haykin's neural networks: a comprehensive foundamentation book. He told me just to come to his hotel room and he will explain to me. He did.    
 
+<!-- 
 ## My philosophy of being a reviewer and being reviewed 
 Yes, sometimes I am a harsh reviewer too. Generally, I am either a friendly (accept or reject) or a harsh (reject) reviewer. I'm in a harsh mode if I found the paper being reviewed overclaims with either insufficient literature review (reinventing things) or poor evidence supports. 
 
@@ -68,6 +76,8 @@ The review process of an AI paper is like running a deep model. Putting papers o
 If you've played this prisoner dilemma (multiple times of submissions) before, the worst result of not arxiving is your idea being stolen (not by text percentage wise, which is easy to detect, but the key stuff in your paper being taken by someone: experiments and derivation, e.g., are done in a different way, etc.). Instead, by putting on arxiv, the worst result is being rejected and you still have your idea recorded in public. Given the huge number of papers accepted for famous authors, it's a reasonable question what are their acceptance rates, and do they have the same motivation with us in putting on arxiv? Who dares to steal ideas from famous authors? Stealing is not allowed for anyone in research btw. My point is not that "who should dare to steal from what". However, the damage to someone who is plagiarized and not famous is way more bigger. In case a famous author got plagiarized, the damage caused is little: the author's career and position won't perhaps be influenced much. 
 
 Finally, to explain why I ask this question: I've read many good and seminal papers by famous people. However, it is also not uncommon to be diappointed by reading some papers from some famous guys who publish so much.           
+
+-->
 
 ---
 
