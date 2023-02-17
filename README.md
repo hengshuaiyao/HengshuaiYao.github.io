@@ -2,7 +2,7 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). The best part of working at Sony AI is meeting with good people every day. Sony AI is one of [most ethical companies in the world in 2022](https://businesschief.asia/sustainability/sony-infosys-among-worlds-most-ethical-firms-ethisphere).  
 
-To students who want to work with me: I'm sorry. I just couldn't take any student because I moved to Sony AI.  
+To students who want to work with me: I'm sorry. I just couldn't take any student because I moved to Sony AI.   
 
 My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenDice, etc.
 
