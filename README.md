@@ -4,7 +4,9 @@ Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.so
 
 My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenDice, etc.
 
-However, my contributions were not recognized or credited by the literature for some reason. These two papers received about 1000+ citations at the time of writing this. My paper received 13. Here is this [preconditioning TD paper](papers/ptd.pdf) where GTD was derived from. [Comparison](gtd_novelty.md).
+However, my contributions were not recognized or credited by the literature for some reason. These two papers received about 1000+ citations at the time of writing this. My paper received 13. 
+
+Here is this [preconditioning TD paper](papers/ptd.pdf) where GTD was derived from. [Comparison](gtd_novelty.md).
 We also had one phone conversation and lots of email discussions before their NIPS 2008 submssion. I did experiments for GTD and wrote a two-page PDF to point out (1) two time-scale formulation of GTD is slow; (2) the two step-sizes are not easy to use. Someone also asked me to send the Boyan chain example code to his student. Later on, the TDC paper's Boyan chain experiment was based on my code. 
 
 I had wished the authors of the GTD, TDC/GTD2 papers to have a reflection (e.g., search  your email boxes) on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. Some of the authors agreed to give future credits when they will write on the topic. If you cite GTD and the GTD2/TDC papers in your research, please consider giving the preconditioning paper a kind credit.
