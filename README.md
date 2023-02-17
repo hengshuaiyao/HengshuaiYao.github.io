@@ -4,13 +4,15 @@ Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.so
 
 My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenDice, etc.
 
-However, my contributions were not recognized or credited by the literature for some reason. These two papers received about 1000+ citations at the time of writing this. My paper received 13. 
-
-Read [my preconditioning TD paper](papers/ptd.pdf)
+However, my contributions were not recognized or credited by the literature for some reason. These two papers received about 1000+ citations at the time of writing this. My paper received 13. Read [my preconditioning TD paper](papers/ptd.pdf). 
 
 [Comparison](gtd_novelty.md). I had wished the authors of the GTD, TDC/GTD2 papers to have a reflection (e.g., search  your email boxes) on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. Some of the authors agreed to give future credits when they will write on the topic. If you cite GTD and the GTD2/TDC papers in your research, please consider giving the preconditioning paper a kind credit.
 
-Emphatic TD and Horde have shadows in my papers too.  
+Emphatic TD and Horde have shadows in my papers too. 
+
+Horde: I proposed learning many policies from a single stream of data and study it in an offline framework called "[one collection for all](papers/one_collection_for_all.pdf)". Horde was proposed the same year (after my workshop paper) with the main author knowing my work. 
+
+ETD: Equation 13 of the [ETD paper](https://arxiv.org/pdf/1503.04269.pdf) is just the PageRank formulation. Later the ETD authors started using some vector called "user interest" vector. It is just PageRank.  My [reinforcement ranking paper](papers/rr.pdf) is the first paper that pointsm out the connection between reinforcement learning and the PageRank literature. Someone was in my defense committee when I did my candidacy based on this reverse Bellman equation, and he abondoned me as my Ph.D supervisor when I wanted to purse this direction. People in the planning literature started using "backward model" (heard from Yangchen); this is just based on the PageRank model. 
 
 <!-- 
 My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, emphatic TD, Horde, DualDice, GenDice, etc.
