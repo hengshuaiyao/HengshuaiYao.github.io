@@ -16,14 +16,15 @@ I had wished and waited patiently for the authors of the GTD, TDC/GTD2 papers to
 
 Some of the authors agreed to give future credits when they will write on the topic. If you cite GTD and the GTD2/TDC papers in your research, please consider giving the preconditioning paper a kind credit.
 
-Horde and Emphatic TD have shadows in my papers too. 
-
-[Horde](https://www.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/horde1.pdf): I proposed learning many policies from a single stream of data and studied it in an offline framework called "[one collection for all](papers/one_collection_for_all.pdf)". Horde was proposed the same year with the main author knowing my work. My "one collection for all" paper was written and known to some Horde author from beginning because we were in the same lab. I remembered I gave a talk at a tea time talk for this paper at the time.      
+Emphatic TD and Horde have shadows in my papers too.    
 
 ETD: Equation 13 of the [ETD paper](https://arxiv.org/pdf/1503.04269.pdf) (2015) is the key that drives the whole paper. It is just the PageRank formulation. Later some ETD authors started using some vector called "user interest" vector (e.g., see [this paper](https://ewrl.files.wordpress.com/2015/02/ewrl12_2015_submission_28.pdf)). It is actually the personalized PageRank. It was a commonplace form in the PageRank literature, but it was treated a new idea in RL because the ETD paper did not mention anything about this background. The perspective they introduced the concept is that it is a re-weighting of the states. It is the same thing because there is a stationary distribution view of PageRank besides the authority scores. My [reinforcement ranking paper](papers/rr.pdf) (2013) is the first paper that points out and establishes the connection between reinforcement learning and the PageRank literature. Someone was in my defense committee when I did my candidacy based on this reverse Bellman equation, and he abondoned me (an internaltional student at the time) as my Ph.D supervisor because I wanted to pursue this direction in 2011. Unfortunately, the person, who I highly respected for so many years, just said "No" when my new supervisor arranged my defense in 2014 and asked him whether he wanted to be part of it.
 It's Okay in a normal situation. People have different interests. Was it a norm for what I experienced as a Ph.D student? Is it Okay to do this in research, collaboration and supervising students? I don't know. It took me a lot of years and nerve to think about and perceive this. 
 
 People in the planning literature of RL started using "backward model" (heard from Yangchen) a few years ago; this is just based on the PageRank model. 
+
+
+[Horde](https://www.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/horde1.pdf): I proposed learning many policies from a single stream of data and studied it in an offline framework called "[one collection for all](papers/one_collection_for_all.pdf)". Horde was proposed the same year with the main author knowing my work. My "one collection for all" paper was written and known to some Horde author from beginning because we were in the same lab. I remembered I gave a talk at a tea time talk for this paper at the time.   
 
 <!-- 
 My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). These two papers are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, emphatic TD, Horde, DualDice, GenDice, etc.
