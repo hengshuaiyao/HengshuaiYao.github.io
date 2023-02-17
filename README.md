@@ -14,7 +14,7 @@ Unfortunately, these three works were not independent. We had one phone conversa
 
 I had wished and waited patiently for the authors of the GTD, TDC/GTD2 papers to have a reflection (e.g., search  the email boxes?) on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. 
 
-Some of the authors agreed to give future credits when they will write on the topic. If you cite GTD and the GTD2/TDC papers in your research, please consider giving the preconditioning paper a kind credit.
+Some of the authors agreed to give future credits when they will write on the topic. If you cite GTD and the GTD2/TDC papers in your research, I appreciate if you give the preconditioning paper a kind credit.
 
 Emphatic TD and Horde have shadows in my papers too.    
 
