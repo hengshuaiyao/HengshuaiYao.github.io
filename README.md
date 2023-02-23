@@ -41,11 +41,11 @@ I explored reinforcement learning for NCSoft game studio in San Francisco. I was
 [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
 
 ## Lifelong Acknowledgement 
-I deeply appreciate the help from a few professors in my hard time: Csaba, Dale and Randy. Had it not been them, I am not sure where I would be. I'm still struggling with my research career. However, their minds have helped me to think clearly who am I and what I'm best at. They always encourage me to pursue science, and focus on the positiveness of life and research. 
+I deeply appreciate the help from a few professors in my hard time: Csaba, Dale and Randy. Had it not been them, I am not sure where I would be. Their minds have helped me to think clearly who am I and what I'm best at. They always encourage me to pursue science, and focus on the positiveness of life and research. 
 
 I also appreciate the author of Temporal Difference learning, linear Dyna and IDBD, Dr. Richard S. Sutton, at heart. His TD paper stimulated the first interests in a baby student. I was following some reference in the world Robocup simulation community and found TD. His linear Dyna is still influencing my mind today. I didn't get much advice or help from his supervision. However, this doesn't prevent me respecting him as a great thinker and leader for our field. 
 
-I'm greatly thankful to Andy Barto. He is so kind. When I struggled with the interests on TD and had great trouble in publishing the preconditioning idea, he helped me (with his student George Konidaris too) improve the paper greatly. He also recommended me to come to UofA for studies even though he never met me in person before.       
+I'm greatly thankful to Andy Barto. Andy is so kind. When I struggled with the interests on TD and had great trouble in publishing the preconditioning idea, he helped me (with his student George Konidaris too) improve the paper greatly. He also recommended me to come to UofA for studies even though he never met me in person before.       
 
 My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my exploration reinforcement learning. He already retired but I always remember during Robocup 2004 in Portugal, I just briefly mentioned there was something not clear to me in Simon Haykin's neural networks: a comprehensive foundamentation book. He told me just to come to his hotel room and he will explain to me. He did.    
 
