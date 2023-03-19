@@ -22,7 +22,7 @@ ETD: Equation 13 of the [ETD paper](https://arxiv.org/pdf/1503.04269.pdf) (2015)
 
 People in the planning literature of RL started using "backward model" (heard from Yangchen) a few years ago; this is just based on the PageRank view of MDPs. 
 
-[Horde (2011)](https://www.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/horde1.pdf): I proposed learning many policies from a single stream of data and studied it in a framework called "[one collection for all (2011)](papers/one_collection_for_all.pdf)". Horde was proposed the same year with the main author knowing my work. My "one collection for all" paper was written and known to some Horde author from beginning because we were in the same lab.  
+[Horde (2011)](https://www.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/horde1.pdf): I proposed learning many policies from a single stream of data and studied it in a framework called "[one collection for all (2011)](papers/one_collection_for_all.pdf)". Horde was proposed the same year with the main author knowing my work. My "one collection for all" paper was written and known to him from beginning.
 
 Papers mentioned above:
 - [A Convergent O(n) Algorithm for Off-policy Temporal-difference Learning with Linear Function Approximation](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf). Richard S. Sutton, Hamid Maei and Csaba Szepesvári. NeurIPS, 2008. 
