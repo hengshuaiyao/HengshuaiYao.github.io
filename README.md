@@ -30,7 +30,7 @@ Papers mentioned above:
 - [Horde: A Scalable Real-time Architecture for Learning Knowledge from Unsupervised Sensorimotor Interaction](https://aamas.csc.liv.ac.uk/Proceedings/aamas2011/papers/A6_R70.pdf). Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White. AAMAS, 2011. 
 - [An Emphatic Approach to the Problem of Off-policy Temporal-Difference Learning](https://arxiv.org/pdf/1503.04269.pdf). Richard S. Sutton, A. Rupam Mahmood and Martha White. JMLR, 2016. 
 
-The amount of ...pain... is something I've never experienced... It's lengthy and chronic. Look at these familiar names. All of them are my lab mates who used to be my friends. I held back for so many years is because of them. Lots of private communications and efforts with this person was made in the past one year. It did not go well so far. It kept going back and forth in the past, and I still couln't go over this. This heavy feeling about research and my research life has built into my everyday life, which is not fair for the kids and my wife.
+The amount of ...pain... is something I've never experienced... It's lengthy and chronic. Look at these familiar names. All of them are my lab mates who used to be my friends. I held back for so many years is because of them. Lots of private communications and efforts with this person was made in the past one year. It did not go well so far. It kept going back and forth in the past, and I still couln't go over this. This heavy feeling about research and my research life has built into my everyday life, which is not fair for the kids and my wife. If they have not been so understandable and patient, I've been long divorced and missing all their smiles now. 
  
 
 <!-- 
