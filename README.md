@@ -27,8 +27,8 @@ People in the planning literature of RL started using "backward model" (heard fr
 Papers mentioned above:
 - [A Convergent O(n) Algorithm for Off-policy Temporal-difference Learning with Linear Function Approximation](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf), Richard S. Sutton, Hamid Maei and Csaba Szepesvári. NeurIPS, 2008. 
 - [Fast Gradient-Descent Methods for Temporal-Difference Learning with Linear Function Approximation](https://dl.acm.org/doi/pdf/10.1145/1553374.1553501?casa_token=lGSh1v6OW98AAAAA:jBZncUrqS-bp09HHAyr1tiSce_HzjKGffP7FgVzQsnuv8cj6eEhbNksHmTWU5E9aOWXnc_iVkk4bEg). Richard S. Sutton, Hamid Reza Maei, Doina Precup Shalabh Bhatnagar, David Silver, Csaba Szepesvari, and Eric Wiewiora. ICML, 2009. 
-- [An Emphatic Approach to the Problem of Off-policy Temporal-Difference Learning](https://arxiv.org/pdf/1503.04269.pdf). Richard S. Sutton, A. Rupam Mahmood and Martha White. JMLR, 2016. 
 - [Horde: A Scalable Real-time Architecture for Learning Knowledge from Unsupervised Sensorimotor Interaction](https://aamas.csc.liv.ac.uk/Proceedings/aamas2011/papers/A6_R70.pdf). Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White. AAMAS, 2011. 
+- [An Emphatic Approach to the Problem of Off-policy Temporal-Difference Learning](https://arxiv.org/pdf/1503.04269.pdf). Richard S. Sutton, A. Rupam Mahmood and Martha White. JMLR, 2016. 
 
 
 <!-- 
