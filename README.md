@@ -38,6 +38,7 @@ This has been about 15 years, for which I had somehow waited for some sort of re
 
 -->
 
+## Research Interests
 My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. I really like this work. I consider it is the best work out from me in my twenty years of research since I started.  
 
 Understanding deep neural networks is my recent interest. Deep learning was not my area. I became interested in it mostly because the deep reinforcement learning. I took a look at the literature for about three years. Some problems, which seem quite fundamental, remain poorly understood or unsolved. This arouses my curiosity. The work on class interference, decision boundary and step-size planning summarize my readings and thinking in this regard.  
