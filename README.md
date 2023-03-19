@@ -2,9 +2,9 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). The best part of working at Sony AI is meeting with good people every day. Sony AI is one of [most ethical companies in the world](https://businesschief.asia/sustainability/sony-infosys-among-worlds-most-ethical-firms-ethisphere).  
 
-To prospective students: Sorry, I couldn't take any student because I'm an adjunct prof at the department. I "could" co-supervise with someone in the department. However, I want to be focused on my work at Sony AI, and there are too many things I need to figure out (research and the meaning of life).
+To prospective students: Sorry, I couldn't take any student because I'm an adjunct prof at the department. I want to be focused on my work at Sony AI, and there are too many things I need to figure out (research and the meaning of life).
 
-My research inspired [Gradient TD](https://sites.ualberta.ca/~szepesva/papers/gtdNeurIPS08.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). GTD and GTD2/TDC are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenTD, GenDice, etc.
+My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). GTD and GTD2/TDC are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenTD, GenDice, etc.
 
 However, my contributions were not recognized or credited by the literature for some reason that should not have happened. The GTD and GTD2/TDC papers received about 1000+ citations at the time of writing this. My paper received 13 by February 2023. 
 
@@ -23,6 +23,13 @@ ETD: Equation 13 of the [ETD paper](https://arxiv.org/pdf/1503.04269.pdf) (2015)
 People in the planning literature of RL started using "backward model" (heard from Yangchen) a few years ago; this is just based on the PageRank view of MDPs. 
 
 [Horde (2011)](https://www.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/horde1.pdf): I proposed learning many policies from a single stream of data and studied it in an offline framework called "[one collection for all (2011)](papers/one_collection_for_all.pdf)". Horde was proposed the same year with the main author knowing my work. My "one collection for all" paper was written and known to some Horde author from beginning because we were in the same lab. I remembered I gave a talk at a tea time talk for this paper at the time.   
+
+Papers mentioned above:
+- A Convergent O(n) Algorithm for Off-policy Temporal-difference Learning with Linear Function Approximation](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf), Richard S. Sutton, Hamid Maei and Csaba Szepesvári. NeurIPS, 2008. 
+- [Fast Gradient-Descent Methods for Temporal-Difference Learning with Linear Function Approximation](https://dl.acm.org/doi/pdf/10.1145/1553374.1553501?casa_token=lGSh1v6OW98AAAAA:jBZncUrqS-bp09HHAyr1tiSce_HzjKGffP7FgVzQsnuv8cj6eEhbNksHmTWU5E9aOWXnc_iVkk4bEg). Richard S. Sutton, Hamid Reza Maei, Doina Precup Shalabh Bhatnagar, David Silver, Csaba Szepesvari, and Eric Wiewiora. ICML, 2009. 
+- [An Emphatic Approach to the Problem of Off-policy Temporal-Difference Learning](https://arxiv.org/pdf/1503.04269.pdf). Richard S. Sutton, A. Rupam Mahmood and Martha White. JMLR, 2016. 
+- [Horde: A Scalable Real-time Architecture for Learning Knowledge from Unsupervised Sensorimotor Interaction](https://aamas.csc.liv.ac.uk/Proceedings/aamas2011/papers/A6_R70.pdf). Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White. AAMAS, 2011. 
+
 
 <!-- 
 I was also involved in the GTD discussions and a part of the TDC paper development. However, for some reason my name was not there. I wish the GTD and the GTD2/TDC authors can read [my preconditioning TD paper](papers/ptd.pdf) and [compare with yours](gtd_novelty.md). Authors of these two papers please kindly have a reflection (e.g., search  your email boxes) on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. Some of the authors agreed to give future credits when they will write on the topic. If you cite GTD and the GTD2/TDC papers in your research, I appreciate if you give the preconditioning paper a kind credit.
