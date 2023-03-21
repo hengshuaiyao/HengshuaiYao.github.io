@@ -44,12 +44,11 @@ This has been about 15 years, for which I had somehow waited for some sort of re
 -->
 
 ## Research Interests
-My interest is model-based reinforcement learning, and step-size adaptation. Interesting thing is that I brought a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. I really like this work. I consider it is the best work out from me in my twenty years of research since I started.  
+My interest is mostly **model-based reinforcement learning**, and **step-size adaptation**. Interesting thing is a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. I really like this work. I consider it is the best work out from me in my twenty years of research since I started.  
 
-Understanding deep neural networks is my recent interest. Deep learning was not my area. I became interested in it mostly because the deep reinforcement learning. I took a look at the literature for about three years. Some problems, which seem quite fundamental, remain poorly understood or unsolved. This arouses my curiosity. The work on class interference, decision boundary and step-size planning summarize my readings and thinking in this regard.  
+Understanding deep neural networks is my recent interest. Deep learning was not my area. I became interested in it mostly because of the deep reinforcement learning. I took a look at the literature for about three years. Some problems, which seem quite fundamental, remain poorly understood or unsolved. This aroused my curiosity. The work on class interference, decision boundary and step-size planning summarize my readings and thinking in this regard.  
 
-I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. 
-I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I have mentored 20 graduate students from UofA. I'm an adjunct professor at Department of Computing Science, University of Alberta. 
+I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I have mentored 20 graduate students from UofA. I'm an adjunct professor at Department of Computing Science, University of Alberta. 
 
 [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
 
