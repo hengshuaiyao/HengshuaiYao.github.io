@@ -340,7 +340,7 @@ This is the paper out of our internship project. I kinda of miss my internship w
 - [LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS](papers/lms2.pdf). Yao, H., Bhatnagar, S., and Szepesvari, Cs. The Forty-eighth IEEE Control and Decision Conference (CDC), Shanghai, China. December 2009. 
 
 
-- [Temporal difference learning by direct preconditioning](papers/direct_preconditioning.pdf). Yao, H., Bhatnagar, S., and Szepesvari, Cs. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. I appreciate the citation from [this paper: Quasi Newton Temporal Difference Learning](http://proceedings.mlr.press/v39/givchi14.pdf). 
+- [Temporal difference learning by direct preconditioning](papers/direct_preconditioning.pdf). Yao, H., Bhatnagar, S., and Szepesvari, Cs. Multidisciplinary Symposium on Reinforcement Learning (MSRL), Montreal, Canada. June 2009. I appreciate the citation from [this paper: Quasi Newton Temporal Difference Learning](http://proceedings.mlr.press/v39/givchi14.pdf) and the [TDprop paper](https://arxiv.org/pdf/2007.02786.pdf).
 
 
 - [Preconditioned temporal difference learning](papers/ptd.pdf). Yao, H., and Liu, Z-Q. ICML, Helsinki, Finland. June 2008. I appreciate the four reviewers (who all acceptted in the first review round) and all the reviewers who had spent their time reading this paper and given valuable feedbacks. 
