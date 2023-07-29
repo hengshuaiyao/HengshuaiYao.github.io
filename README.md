@@ -6,7 +6,7 @@ To prospective students: Sorry, I couldn't take any student because I'm an adjun
 
 No one should be afraid to talk about your contributions in the research homepage. I used to. Also in interviews. My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). GTD and GTD2/TDC are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenTD, GenDice, etc.
 
-However, my contributions were not recognized or credited by the literature for some reason that should not have happened. The GTD and GTD2/TDC papers received about 1000+ citations at the time of writing this. My paper received 13 by February 2023. 
+However, my contributions were not recognized or credited by the literature for some reason that should not have happened. The GTD and GTD2/TDC papers received about 1000+ citations at the time of writing this. My paper received 13 by February 2023. There is not a single reference of the 13 citations credited the paper for the source of GTD ideas. However, if you work on GTD and TDC, you should cite this paper. I can tell you why. 
 
 Here is this [preconditioning TD paper](papers/ptd.pdf) (ICML, 2008) where GTD (NIPS, 2008) and GTD2/TDC (ICML 2009) were derived from. [Comparison](gtd_novelty.md). A simple question for the TDC paper's title: Did the paper explain why GTD2 and TDC are faster than GTD?
 
@@ -14,7 +14,7 @@ Unfortunately, these three works were not independent. We had a phone conversati
 
 I had wished (and patiently waited I guess?) for the authors of the GTD, TDC/GTD2 papers to have a reflection (e.g., search  the email boxes?) on (1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit, and (2) whether my involvement at the time deserved the authorship. 
 
-Some of the authors agreed to give future credits when they will write on the topic. If you cite GTD and the GTD2/TDC papers in your research, I appreciate if you give the preconditioning paper a kind credit.
+Some of the authors agreed to give future credits when they will write on the topic.
 
 Emphatic TD and Horde have shadows in my papers too.    
 
