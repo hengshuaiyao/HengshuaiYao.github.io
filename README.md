@@ -2,7 +2,7 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). The best part of working at Sony AI is meeting with good people every day. Sony AI is one of [the most ethical companies in the world](https://businesschief.asia/sustainability/sony-infosys-among-worlds-most-ethical-firms-ethisphere).  
 
-[Impression GTD](papers/ImpressionGTD.pdf)
+[Impression GTD](https://arxiv.org/abs/2307.15892)
 
 No one should be afraid to talk about your contributions in your research homepage. I used to. Also in interviews. However, my contributions were not recognized or credited by the literature for some reason that should not have happened.
 
