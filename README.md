@@ -4,7 +4,7 @@ Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.so
 
 [Impression GTD](https://arxiv.org/abs/2307.15892)
 
-No one should be afraid to talk about your contributions in your research homepage. Unfortunately, I used to. Also in interviews. However, my contributions to GTD and GTD2/TDC were not recognized or credited by the literature for some reason that should not have happened.
+No one should be afraid to talk about your contributions in your research homepage. Unfortunately, I used to. Also in interviews. My contributions to GTD and GTD2/TDC were not recognized or credited by the literature for some reason that should not have happened.
 
 My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). GTD and GTD2/TDC are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenTD, GenDice, etc.
 
