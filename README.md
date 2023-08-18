@@ -2,6 +2,10 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). The best part of working at Sony AI is meeting with good people every day. Sony AI is one of [the most ethical companies in the world](https://businesschief.asia/sustainability/sony-infosys-among-worlds-most-ethical-firms-ethisphere).  
 
+[Impression GTD](https://arxiv.org/abs/2307.15892) 
+
+[Baird's counterexample is solved](papers/baird_is_solved.pdf)
+
 No one should be afraid to talk about your contributions in your research homepage. Unfortunately, I used to. Also in interviews. My contributions to GTD and GTD2/TDC were not recognized or credited by the literature for some reason that should not have happened.
 
 My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). GTD and GTD2/TDC are widely acknowledged to stand for and start an important class of off-policy learning algorithms, e.g., see chapter 11 of Sutton and Barto's RLAI book, Horde, DualDice, GenTD, GenDice, etc.
@@ -9,10 +13,6 @@ My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/fil
 The GTD and GTD2/TDC papers were credited for starting the gradient-based TD methods, which received about 1000+ citations at the time of writing this. My preconditioned TD paper received 13 by February 2023. I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting this paper in improving TD. This paper should have been credited by the GTD literature for the source of GTD ideas as well. If you work on GTD and TDC, you should cite my long-awaiting and well-deserved paper. I can tell you why. 
 
 Here is this [preconditioning TD paper](papers/ptd.pdf) (ICML, 2008) where GTD (NIPS, 2008) and GTD2/TDC (ICML 2009) were derived from. [Comparison](gtd_novelty.md). A simple question for the TDC paper's title: Did the paper explain why GTD2 and TDC are faster than GTD?
-
-[Impression GTD](https://arxiv.org/abs/2307.15892) 
-
-[Baird's counterexample is solved](papers/baird_is_solved.pdf)
 
 Unfortunately, these three works were not independent. We had a phone conversation (for interviewing me as a Ph.D candidate in March 2008) and lots of email discussions before their NIPS 2008 submssion. I did experiments for GTD and compared GTD with TD. I wrote a two-page PDF, in which I pointed out (1) two time-scale formulation of GTD is slow; (2) the two step-sizes are not easy to use. Read the conclusion of the GTD paper to have a sense of the tone change from "ground breaking" to "practicality". Someone also asked me to send the Boyan chain code to his other student. Later on, the TDC paper's Boyan chain experiment was based on my code. In my experiment, I used **on-policy problems** to study the convergence rate of **off-policy learning algorithms**. This was the first time in literature to use this experimentation method (e.g., read the importance sampling off-policy TD papers By [Sutton, et. al. in 2000](http://incompleteideas.net/papers/PSD-01.pdf) and [2001](http://www.incompleteideas.net/papers/PSS-00-original.pdf) to see their experimentation method). This experimentation method was adopted in **all** the experiments of the TDC paper, including the GO experiment performed by David Silver who joined the paper development after me. Later, our literature (e.g., see [TDRC](https://arxiv.org/pdf/2007.00611.pdf)) uses this method as a standard way to study off-policy learning algorithms. 
 
