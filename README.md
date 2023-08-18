@@ -4,7 +4,7 @@ Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.so
 
 [Impression GTD](https://arxiv.org/abs/2307.15892) 
 
-[Baird's counterexample is solved](papers/baird_is_solved.pdf)
+[Baird's counterexample is solved.](papers/baird_is_solved.pdf)
 
 No one should be afraid to talk about your contributions in your research homepage. Unfortunately, I used to. Also in interviews. My contributions to GTD and GTD2/TDC were not recognized or credited by the literature for some reason that should not have happened.
 
