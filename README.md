@@ -2,8 +2,6 @@
 
 Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). The best part of working at Sony AI is meeting with good people every day. Sony AI is one of [the most ethical companies in the world](https://businesschief.asia/sustainability/sony-infosys-among-worlds-most-ethical-firms-ethisphere).  
 
-[Science and AI Frontiers: Passing the Lower bound first: Writing on the Edging of Ambition and Greediness](papers/lower_bound.pdf)
-
 [Impression GTD](https://arxiv.org/abs/2307.15892) 
 
 [Baird's counterexample is solved.](papers/baird_is_solved.pdf)
