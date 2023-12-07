@@ -1,6 +1,6 @@
 <img align="left" src="videos/head_nov23.jpeg" width="33%" height="33%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-Hi, my name is Hengshuai Yao. I work at the awesome [Sony AI team](https://ai.sony/). 
+Hi, my name is Hengshuai Yao. 
 
 [Impression GTD](https://arxiv.org/abs/2307.15892) 
 
