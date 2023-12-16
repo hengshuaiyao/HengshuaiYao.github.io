@@ -2,6 +2,8 @@
 
 Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_**.  
 
+[Pass the lowerbound](papers/research?.pdf)
+
 [Impression GTD](https://arxiv.org/abs/2307.15892) 
 
 [Baird's counterexample is solved.](papers/baird_is_solved.pdf)
