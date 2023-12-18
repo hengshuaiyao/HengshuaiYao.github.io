@@ -2,7 +2,7 @@
 
 Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_**.  
 
-[Pass the lowerbound](papers/research?.pdf)
+[Pass the lowerbound before you shoot high](papers/lower_bound_in_AI.pdf)
 
 [Impression GTD](https://arxiv.org/abs/2307.15892) 
 
