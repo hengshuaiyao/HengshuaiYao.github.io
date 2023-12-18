@@ -11,7 +11,7 @@ Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_**.
 My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). GTD and GTD2/TDC are widely acknowledged to stand for and start an important class of off-policy learning algorithms. My preconditioned TD paper remained uncited by the GTD literature. I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting this paper in improving TD. This paper should have been credited by the GTD literature for the source of GTD ideas as well. 
 
 If you work on GTD and TDC, you should cite my well-deserved and long-awaiting paper. I can tell you why. 
-- First, GTD was inspired by my PTD. Here is this [preconditioning TD paper](papers/ptd.pdf) (ICML, 2008) where GTD (NIPS, 2008) and GTD2/TDC (ICML 2009) were derived from. [Comparison](gtd_novelty.md). A simple question for the TDC paper's title: Did the paper explain why GTD2 and TDC are faster than GTD?
+- First, GTD was inspired by my PTD. Here is this [preconditioning TD paper](papers/ptd.pdf) (ICML, 2008) where GTD (NIPS, 2008) and GTD2/TDC (ICML 2009) were derived from. [Comparison](gtd_novelty.md). If you read my PTD paper, it explains why TDC is faster than GTD (in the steady-state sense), while the TDC paper did not explain, even though it has "faster" in the title. 
 - Second, I also contributed to the development of GTD and TDC too. Read the lower bound note above. 
 
 <!-- 
