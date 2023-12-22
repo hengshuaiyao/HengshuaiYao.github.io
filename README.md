@@ -6,7 +6,7 @@ Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_**.
 
 [Impression GTD](https://arxiv.org/abs/2307.15892) 
 
-[Baird's counterexample is solved.](papers/baird_is_solved.pdf)
+[Baird's counterexample is solved.](https://arxiv.org/abs/2308.09732)
 
 My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton, Maei and Szepesvari, 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton, Maei, Precup, Bhatnagar, Silver, and Szepesvari, Wiewiora, 2009). GTD and GTD2/TDC are widely acknowledged to stand for and start an important class of off-policy learning algorithms. My preconditioned TD paper remained uncited by the GTD literature. I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting this paper in improving TD. This paper should have been credited by the GTD literature for the source of GTD ideas as well. 
 
