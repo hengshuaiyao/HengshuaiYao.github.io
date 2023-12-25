@@ -2,18 +2,18 @@
 
 Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_**.  
 
-[Pass the lowerbound before you aim high](papers/lower_bound_in_AI.pdf)
-
-[Impression GTD](https://arxiv.org/abs/2307.15892) 
-
-[Baird's counterexample is solved.](https://arxiv.org/abs/2308.09732)
-
 My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton et. al., 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton et. al., 2009). GTD and GTD2/TDC were widely acknowledged to stand for and start an important class of off-policy learning algorithms. I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting this paper in providing a new perspective for TD-based policy evaluation algorithms. 
 
 This paper should have been credited by the GTD literature for the source of GTD ideas as well. If you work on GTD and TDC, I think it's not too much to ask you to give me a little credit. Why?
 - First, both GTD and TDC were inspired by my work. Here is this [preconditioning TD paper](papers/ptd.pdf) (ICML, 2008) where GTD (NIPS, 2008) and GTD2/TDC (ICML 2009) were derived from. [Comparison](gtd_novelty.md).
 - Second, if you read my PTD paper, it explains why TDC is faster than GTD (in the steady-state sense), while the TDC paper did not explain anywhere, even though it has "faster" in the title. 
-- Third, I also contributed to the development of GTD and TDC too. Read the lower bound note above. 
+- Third, I also contributed to the development of GTD and TDC too. Read the lower bound note below. 
+
+[Pass the lowerbound before you aim high](papers/lower_bound_in_AI.pdf)
+
+[Impression GTD](https://arxiv.org/abs/2307.15892) 
+
+[Baird's counterexample is solved.](https://arxiv.org/abs/2308.09732)
 
 <!-- 
 Unfortunately, these three works were not independent. We had a phone conversation (for interviewing me as a Ph.D candidate in March 2008) and lots of email discussions before their NIPS 2008 submssion. I did experiments for GTD and compared GTD with TD. I wrote a two-page PDF, in which I pointed out (1) two time-scale formulation of GTD is slow; (2) the two step-sizes are not easy to use. Read the conclusion of the GTD paper to have a sense of the tone change from "ground breaking" to "practicality". Someone also asked me to send the Boyan chain code to his other student. Later on, the TDC paper's Boyan chain experiment was based on my code. In my experiment, I used **on-policy problems** to study the convergence rate of **off-policy learning algorithms**. This was the first time in literature to use this experimentation method (e.g., read the importance sampling off-policy TD papers By [Sutton, et. al. in 2000](http://incompleteideas.net/papers/PSD-01.pdf) and [2001](http://www.incompleteideas.net/papers/PSS-00-original.pdf) to see their experimentation method). This experimentation method was adopted in **all** the experiments of the TDC paper, including the GO experiment performed by David Silver who joined the paper development after me. Later, our literature (e.g., see [TDRC](https://arxiv.org/pdf/2007.00611.pdf)) uses this method as a standard way to study off-policy learning algorithms. When I used this experimentation method in 2008, the motivation was that, Okay, "off-policy" learning algorithms... If they cannot learn "on-policy", it's meaningless. This is the basic functionality test that off-policy learning has to pass.  
