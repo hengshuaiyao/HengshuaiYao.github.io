@@ -2,9 +2,15 @@
 
 Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_**.  
 
-My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton et. al., 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton et. al., 2009). GTD and GTD2/TDC were widely acknowledged to stand for and start an important class of off-policy learning algorithms. I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting this paper in providing a new perspective for TD-based policy evaluation algorithms. 
+After a long time of thinking, I declare, with a firm mind, that I give up research from this moment. I will do not submit any paper to any AI conference or journal. I will not apply any research position. I couldn't find a qualitification that can justify my ability. I couldn't take courage to ask for recommendation because the content could hurt their reputation. However, I couldn't live with it anymore. I will not update this page any more. Nor will I visit it in the future. 
 
-This paper should have been credited by the off-policy learning literature for the source of Gradient descent-based TD ideas as well. If you work on GTD and TDC, I think it's not too much to ask you to give me a little credit. Why?
+For what counts, the following was the content that leads to this decision. 
+
+Dec 26. 2023. Hengshuai. Edmonton. 
+
+My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton et. al., 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton et. al., 2009). GTD and GTD2/TDC were widely acknowledged to start an important class of off-policy learning algorithms. 
+
+I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting this paper in providing a new perspective for TD-based policy evaluation algorithms. My preconditioning paper should have been credited by the off-policy learning literature for the source of Gradient descent-based TD ideas as well. If you work on GTD and TDC, I think it's not too much to ask you to give me a little credit.
 - First, both GTD and TDC were inspired by my work. Here is this [preconditioning TD paper](papers/ptd.pdf) (ICML, 2008) where GTD (NIPS, 2008) and GTD2/TDC (ICML 2009) were derived from. [Comparison](gtd_novelty.md).
 - Second, if you read my PTD paper, it explains why TDC is faster than GTD (in the steady-state sense), while the TDC paper did not explain anywhere, even though it has "faster" in the title. 
 - Third, I also contributed to the development of GTD and TDC too. Read the lower bound note below. 
