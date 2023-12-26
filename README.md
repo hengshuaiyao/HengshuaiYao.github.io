@@ -1,6 +1,6 @@
 <img align="left" src="videos/adm.jpg" width="50%" height="50%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_**.  
+Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_** if anyone would like to refer to me.  
 
 After a long time of thinking, I declare, with a firm mind, that I give up research from this moment. I will do not submit any paper to any AI conference or journal. I will not apply any research position. I couldn't find a qualitification that can justify my ability. I couldn't take courage to ask for recommendation because the content could hurt their reputation. However, I couldn't live with it anymore. I will not update this page any more. Nor will I visit it in the future. 
 
