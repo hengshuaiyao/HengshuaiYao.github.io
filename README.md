@@ -1,12 +1,6 @@
 <img align="left" src="videos/adm.jpg" width="50%" height="50%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_** if anyone would like to refer to me.  
-
-After a long time of thinking, I declare, with a firm mind, that I give up research from this moment. I will do not submit any paper to any AI conference or journal. I will not apply any research position. I couldn't find a qualitification that can justify my ability. I couldn't take courage to ask for recommendation because the content could hurt their reputation. However, I couldn't live with it anymore. I will not update this page any more. Nor will I visit it in the future. 
-
-For what counts, the following was the content that leads to this decision. 
-
-Dec 26. 2023. Hengshuai. Edmonton. 
+Hi, my name is Hengshuai Yao. I like to be called **_MotorPoet_**.  
 
 My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton et. al., 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton et. al., 2009). GTD and GTD2/TDC were widely acknowledged to start an important class of off-policy learning algorithms. 
 
