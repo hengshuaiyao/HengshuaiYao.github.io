@@ -7,9 +7,7 @@ My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/fil
 I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting my work in providing a new perspective for TD-based policy evaluation algorithms. My preconditioning paper should have been credited by the off-policy learning literature for the source of Gradient descent-based TD ideas as well. If you work on GTD and TDC, I think it's not too much to ask you to give me a little credit.
 - First, both GTD and TDC were inspired by my work. Here is this [preconditioning TD paper](papers/ptd.pdf) (ICML, 2008) where GTD (NIPS, 2008) and GTD2/TDC (ICML 2009) were derived from. [Comparison](gtd_novelty.md).
 - Second, if you read my PTD paper, it explains why TDC is faster than GTD (in the steady-state sense), while the TDC paper did not explain anywhere, even though it has "faster" in the title. 
-- Third, I also contributed to the development of GTD and TDC too. Read the lower bound note below. 
-
-[Pass the lowerbound before you aim high](papers/lower_bound_in_AI.pdf)
+- Third, I also contributed to the development of GTD and TDC too. Although some of my work was not recognized, and I was upset. I think it's time to move on. I need to show that I can do better work than that. 
 
 [Impression GTD](https://arxiv.org/abs/2307.15892) 
 
