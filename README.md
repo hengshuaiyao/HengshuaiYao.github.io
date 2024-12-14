@@ -5,9 +5,7 @@ Hi, my name is Hengshuai Yao. I like to work with full passion, but remind mysel
 My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton et. al., 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton et. al., 2009). GTD and GTD2/TDC were widely acknowledged to start an important class of off-policy learning algorithms. 
 
 I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting my work in providing a new perspective for TD-based policy evaluation algorithms. My preconditioning paper should have been credited by the off-policy learning literature for the source of Gradient descent-based TD ideas as well. If you work on GTD and TDC, I think it's not too much to ask you to give me a little credit.
-- First, both GTD and TDC were inspired by my work. Here is this [preconditioning TD paper](papers/ptd.pdf) (ICML, 2008) where GTD (NIPS, 2008) and GTD2/TDC (ICML 2009) were derived from. [Comparison](gtd_novelty.md).
-- Second, if you read my PTD paper, it explains why TDC is faster than GTD (in the steady-state sense), while the TDC paper did not explain anywhere, even though it has "faster" in the title. 
-- Third, I also contributed to the development of GTD and TDC too. Although some of my work was not recognized, and I was upset. I think it's time to move on. I need to show that I can do better work than that. 
+
 
 [Impression GTD](https://arxiv.org/abs/2307.15892) 
 
