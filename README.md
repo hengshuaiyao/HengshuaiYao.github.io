@@ -31,9 +31,9 @@ I worked on multi-step linear Dyna-style planning, model-based approximate polic
 [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
 
 ## Lifelong Acknowledgement 
-I deeply appreciate the help from Csaba and Dale in my hard time.  Their minds have helped me to think clearly who am I and what I'm best at. They always encourage me to pursue science, and focus on the positiveness of life and research. I appreciate Randy Goebel for supporting me in the past two years.
+I also appreciate Dr. Richard S. Sutton. He is the author of Temporal Difference learning, linear Dyna and IDBD, at heart. His TD paper stimulated my first interests in research. I was following some reference in the world Robocup simulation community and found TD. His linear Dyna is still influencing my mind today. I greatly appreciate his acceptance of me as a Ph.D student. 
 
-I also appreciate the author of Temporal Difference learning, linear Dyna and IDBD, Dr. Richard S. Sutton, at heart. His TD paper stimulated the first interests in a baby student. I was following some reference in the world Robocup simulation community and found TD. His linear Dyna is still influencing my mind today. I greatly appreciate his acceptance of me as a Ph.D student. 
+I deeply appreciate the help from Csaba and Dale in my hard time.  Their minds have helped me to think clearly who am I and what I'm best at. They always encourage me to pursue science, and focus on the positiveness of life and research. I appreciate Randy Goebel for supporting me in the past two years.
 
 I'm greatly thankful to Andy Barto. Andy is so kind. When I struggled with the interests on TD and had great trouble in publishing the preconditioning idea, he and his student George Konidaris helped me improve the paper greatly. He also recommended me to come to UofA for studies even though he never met me in person before.       
 
