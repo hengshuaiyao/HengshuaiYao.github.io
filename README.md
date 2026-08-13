@@ -1,7 +1,5 @@
 <img align="left" src="videos/adm.jpg" width="50%" height="50%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-I like to work with full passion, but remind myself to relax.  
-
 Latest activities:
 
  - Ragentile Intelligence, Cofounder, on using RL for learning superintelligence. Announcement coming soon.
@@ -11,33 +9,11 @@ Latest activities:
  - ICML 2027 Area Chair. 
 
 
-
-<!-- 
-
-My research inspired [Gradient TD](https://proceedings.neurips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf) (Sutton et. al., 2008), [GTD2 and TDC](https://icml.cc/Conferences/2009/papers/546.pdf) (Sutton et. al., 2009). GTD and GTD2/TDC were widely acknowledged to start an important class of off-policy learning algorithms. 
-
-I appreciate Dimitri Bertsekas, Lihong Li, Huizhen Yu and a few others for crediting my work in providing a new perspective for TD-based policy evaluation algorithms. 
-
-[Impression GTD](https://arxiv.org/abs/2307.15892) 
-
-[Baird's counterexample is solved.](https://arxiv.org/abs/2308.09732)
-
-Unfortunately, these three works were not independent. We had a phone conversation (for interviewing me as a Ph.D candidate in March 2008) and lots of email discussions before their NIPS 2008 submssion. I did experiments for GTD and compared GTD with TD. I wrote a two-page PDF, in which I pointed out (1) two time-scale formulation of GTD is slow; (2) the two step-sizes are not easy to use. Read the conclusion of the GTD paper to have a sense of the tone change from "ground breaking" to "practicality". Someone also asked me to send the Boyan chain code to his other student. Later on, the TDC paper's Boyan chain experiment was based on my code. In my experiment, I used **on-policy problems** to study the convergence rate of **off-policy learning algorithms**. This was the first time in literature to use this experimentation method (e.g., read the importance sampling off-policy TD papers By [Sutton, et. al. in 2000](http://incompleteideas.net/papers/PSD-01.pdf) and [2001](http://www.incompleteideas.net/papers/PSS-00-original.pdf) to see their experimentation method). This experimentation method was adopted in **all** the experiments of the TDC paper, including the GO experiment performed by David Silver who joined the paper development after me. Later, our literature (e.g., see [TDRC](https://arxiv.org/pdf/2007.00611.pdf)) uses this method as a standard way to study off-policy learning algorithms. When I used this experimentation method in 2008, the motivation was that, Okay, "off-policy" learning algorithms... If they cannot learn "on-policy", it's meaningless. This is the basic functionality test that off-policy learning has to pass.  
-
-I had wished for the authors of the GTD, TDC/GTD2 papers to have a reflection (e.g., search  the email boxes?) on (1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit, and (2) whether my involvement at the time deserved the authorship. I patiently waited I guess. Is 15 years still not enough for someone to rethink about it? There hasn't been a single kind gesture from someone who did this. How many 15 years do we have? and in research career?
-
-I was also involved in the GTD discussions and a part of the TDC paper development. However, for some reason my name was not there. I wish the GTD and the GTD2/TDC authors can read [my preconditioning TD paper](papers/ptd.pdf) and [compare with yours](gtd_novelty.md). Authors of these two papers please kindly have a reflection (e.g., search  your email boxes) on, **(1) whether the GTD and TDC papers took great advantage of the preconditioning paper without giving any credit; (2) whether my involvement at the time deserved the authorship**. Some of the authors agreed to give future credits when they will write on the topic. 
-
-This has been about 15 years, for which I had somehow waited for some sort of remedy. This has confused me for a long time throughout my Ph.D time and career choice. It's about just another 15 years for my left career. I have a family too. Occasionally, I also wrote on the off-policy learning topic. I refrained to discuss this even though there is relevance of discussion. None of my coauthors knew about it. In a small literature, some people knew my work. Out wild, people just judge your research by looking at your citations.  
-
--->
-
 ## Research Interests
-My interest is mostly **model-based reinforcement learning**, and **step-size adaptation**. Interesting thing is a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. I really like this work. I consider it is the best work out from me in my twenty years of research since I started.  
+**Model-based reinforcement learning**, and **step-size adaptation** are interesting. There is a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
 
-Understanding deep neural networks is my recent interest. Deep learning was not my area. I became interested in it mostly because of the deep reinforcement learning. I took a look at the literature for about three years. Some problems, which seem quite fundamental, remain poorly understood or unsolved. This aroused my curiosity. The work on class interference, decision boundary and step-size planning summarize my readings and thinking in this regard.  
-
-I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I have mentored 20 graduate students from UofA. I was an adjunct professor at Department of Computing Science, University of Alberta. 
+I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I have mentored 20 graduate students from UofA. I was an adjunct professor at Department of Computing Science, University of Alberta. I was a principle researcher when working at  Noah's Ark (leading the Planning team for Huawei Global automonous driving project), and Hisilicon (leading chipset operator acceleration). [One patent](Huawei's action model started from our works at Huawei. 
+https://patents.google.com/patent/US20190101917A1/en) we applied in 2017 was the precuror for the "WEPA" arthitecture.   
 
 [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
 
