@@ -35,32 +35,65 @@ Attention selection needs only O(log N) dimensions, far fewer than value transfe
 
 ---
 
-### Why Attend to Everything? Focus is the Key
-**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Jin Li, Yasin Abbasi Yadkori, Shuai Shao, Changling Liu, Guan Wang, Mingli Yuan, William Chen, Sen Song  
-*2026*  
-[[arXiv](https://arxiv.org/abs/2604.03260)] [[PDF](https://arxiv.org/pdf/2604.03260)]
-
-Focus learns which token pairs matter via learnable centroids (148K params/layer) – it composes onto any pretrained model with zero downstream degradation from 124M to 70B, outperforming full attention at 124M scale (30.3 vs 31.4 PPL). It delivers 2× speedup with better quality, and 8.6× at 1M tokens via FlashAttention decomposition, without custom kernels.
 
 ---
 
-### From 25% to 3% Tokens: Breaking the Sparse Attention Barrier (ARTS)
-**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang. 
-*2026*  
-[[arXiv](https://arxiv.org/abs/2604.04516)] [[PDF](https://arxiv.org/pdf/2604.04516)]
 
-ARTS shows that extreme sparse attention fails due to softmax re‑normalization, not token loss. It replaces re‑normalization with learned per‑head and per‑dimension scaling, achieving 3% tokens within 1‑2 PPL points of full attention. A fused Triton kernel gives 56.5× speedup at 1M context, scaling where full attention OOMs at 128K.
+### Learning to Accelerate by the Methods of Step-size Planning
+**Hengshuai Yao**  
+*2022*  
+[[arXiv](https://arxiv.org/abs/2204.01705)]
+
+We present a data perspective for gradient descent, treating step‑sizes as a multi‑step transition model. Diagonal step‑size matrices have the same projection power as full matrices (O(n) vs O(n²)), allowing exact acceleration. Negative step‑sizes can benefit both deterministic and stochastic settings.
+
+<div align="center">
+<img align="center" src="videos/csawg_illustration.png" alt="csawg" class="inline"/>
+</div>
+
+---
+
+### Understanding and Mitigating the Limitations of Prioritized Replay
+Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, **Hengshuai Yao**, Mohsen Rohani, Jun Luo  
+*UAI 2022*  
+[[OpenReview](https://openreview.net/pdf?id=HBlNGvIicg9)]
+
+We identify fundamental limitations of prioritized replay, including biased updates and reduced sample diversity. We propose a correction method that mitigates these biases while preserving the efficiency gains of prioritization. Experiments demonstrate improved performance and stability over standard prioritized replay across several domains.
 
 ---
 
-### Why Extremely Sparse Attention Failed: Sparse Inference via Learned Scaling
-**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang  
-*2026*  
-*Preprint* (PDF: `arts_gain.pdf`)
+### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
+Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
+*IEEE Access, 2021*  
+[[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
 
-We pinpoint re‑normalization as the cause of failure and propose ARTS with per‑dimension scaling and per‑head bias. ARTS preserves quality within 1–2 PPL points at 3% tokens, keeps downstream accuracy within noise, delivers 6.9× end‑to‑end speedup at 64K, and scales to 1M with length‑portable calibration and strong needle retrieval.
+We introduce Deep Deterministic Sampling, a novel approach for efficient neural architecture search. It leverages deterministic policies to navigate the search space, drastically reducing the number of sampled architectures. Our method achieves competitive accuracy with significantly lower computational cost compared to stochastic sampling baselines.
 
 ---
+
+### Breaking the Deadly Triad with a Target Network
+Shangtong Zhang, **Hengshuai Yao**, Shimon Whiteson  
+*ICML 2021*  
+[[arXiv](https://arxiv.org/abs/2101.08862)]
+
+The "deadly triad" of off-policy learning, function approximation, and bootstrapping is known to cause instability and divergence. We prove that using a target network effectively breaks this triad, guaranteeing convergence under standard linear function approximation settings. Our analysis provides a new theoretical foundation for the empirical success of target networks in deep RL.
+
+---
+
+### Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation
+Shangtong Zhang, Bo Liu, **Hengshuai Yao**, Shimon Whiteson  
+*ICML 2020*  
+[[arXiv](https://arxiv.org/abs/1911.04384)]
+
+We propose a novel off-policy actor-critic algorithm that operates on two timescales and provably converges with linear function approximation. The fast timescale updates the critic while the slow timescale updates the actor, ensuring stability. We validate the theoretical guarantees on standard benchmark tasks, showing robust performance.
+
+---
+
+### Weakly Guided Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs
+Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin Jagersand  
+*IJCAI 2020*  
+[[arXiv](https://arxiv.org/abs/2001.09540)]
+
+We tackle few-shot object segmentation by proposing a co-attention mechanism that fuses visual features with semantic word embeddings. This guidance allows the model to focus on relevant regions even with limited labeled support images. Our approach achieves state-of-the-art results on standard few-shot segmentation benchmarks.
 
 ### The Sufficiency of Off-policyness: PPO is still insufficient according to an Off-policy Measure
 Xing Chen, Dongcui Diao, Hechang Chen, **Hengshuai Yao**, Jielong Yang, Haiyin Piao, Zhixiao Sun, Randy Goebel, Bei Jiang, Yi Chang  
@@ -72,6 +105,15 @@ PPO’s clipping fails to allow large importance ratios that better policies may
 <div align="center">
 <img align="center" src="videos/deon_ppo_p3o.png" alt="deon" class="inline"/>
 </div>
+
+
+### Why Attend to Everything? Focus is the Key
+**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Jin Li, Yasin Abbasi Yadkori, Shuai Shao, Changling Liu, Guan Wang, Mingli Yuan, William Chen, Sen Song  
+*2026*  
+[[arXiv](https://arxiv.org/abs/2604.03260)] [[PDF](https://arxiv.org/pdf/2604.03260)]
+
+Focus learns which token pairs matter via learnable centroids (148K params/layer) – it composes onto any pretrained model with zero downstream degradation from 124M to 70B, outperforming full attention at 124M scale (30.3 vs 31.4 PPL). It delivers 2× speedup with better quality, and 8.6× at 1M tokens via FlashAttention decomposition, without custom kernels.
+
 
 ---
 
@@ -133,61 +175,6 @@ The first singular value strength correlates with generalization – VGG19 has l
 
 ---
 
-### Learning to Accelerate by the Methods of Step-size Planning
-**Hengshuai Yao**  
-*2022*  
-[[arXiv](https://arxiv.org/abs/2204.01705)]
-
-We present a data perspective for gradient descent, treating step‑sizes as a multi‑step transition model. Diagonal step‑size matrices have the same projection power as full matrices (O(n) vs O(n²)), allowing exact acceleration. Negative step‑sizes can benefit both deterministic and stochastic settings.
-
-<div align="center">
-<img align="center" src="videos/csawg_illustration.png" alt="csawg" class="inline"/>
-</div>
-
----
-
-### Understanding and Mitigating the Limitations of Prioritized Replay
-Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, **Hengshuai Yao**, Mohsen Rohani, Jun Luo  
-*UAI 2022*  
-[[OpenReview](https://openreview.net/pdf?id=HBlNGvIicg9)]
-
-We identify fundamental limitations of prioritized replay, including biased updates and reduced sample diversity. We propose a correction method that mitigates these biases while preserving the efficiency gains of prioritization. Experiments demonstrate improved performance and stability over standard prioritized replay across several domains.
-
----
-
-### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
-Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
-*IEEE Access, 2021*  
-[[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
-
-We introduce Deep Deterministic Sampling, a novel approach for efficient neural architecture search. It leverages deterministic policies to navigate the search space, drastically reducing the number of sampled architectures. Our method achieves competitive accuracy with significantly lower computational cost compared to stochastic sampling baselines.
-
----
-
-### Breaking the Deadly Triad with a Target Network
-Shangtong Zhang, **Hengshuai Yao**, Shimon Whiteson  
-*ICML 2021*  
-[[arXiv](https://arxiv.org/abs/2101.08862)]
-
-The "deadly triad" of off-policy learning, function approximation, and bootstrapping is known to cause instability and divergence. We prove that using a target network effectively breaks this triad, guaranteeing convergence under standard linear function approximation settings. Our analysis provides a new theoretical foundation for the empirical success of target networks in deep RL.
-
----
-
-### Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation
-Shangtong Zhang, Bo Liu, **Hengshuai Yao**, Shimon Whiteson  
-*ICML 2020*  
-[[arXiv](https://arxiv.org/abs/1911.04384)]
-
-We propose a novel off-policy actor-critic algorithm that operates on two timescales and provably converges with linear function approximation. The fast timescale updates the critic while the slow timescale updates the actor, ensuring stability. We validate the theoretical guarantees on standard benchmark tasks, showing robust performance.
-
----
-
-### Weakly Guided Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs
-Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin Jagersand  
-*IJCAI 2020*  
-[[arXiv](https://arxiv.org/abs/2001.09540)]
-
-We tackle few-shot object segmentation by proposing a co-attention mechanism that fuses visual features with semantic word embeddings. This guidance allows the model to focus on relevant regions even with limited labeled support images. Our approach achieves state-of-the-art results on standard few-shot segmentation benchmarks.
 
 ---
 
