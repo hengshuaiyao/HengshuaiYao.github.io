@@ -269,7 +269,7 @@ We investigate practical challenges in action-conditioned next image prediction,
 *2017*  
 [[Patent](https://patents.google.com/patent/US20190101917A1/en)]
 
-We introduce a novel method for action selection in reinforcement learning using a neural network that learns a model of the environment's dynamics (model‑based RL). The method enables efficient planning by simulating future states and selecting actions that optimize long‑term rewards. This foundational patent, filed during my tenure at Huawei, directly informed the model‑based planning philosophy later validated in Huawei's ADS 4.0 WEWA architecture.
+We introduce a method for action selection in reinforcement learning using a neural network that learns an action-conditioned model of the car's environment's dynamics. The method enables efficient planning by simulating future states and selecting actions that optimize long‑term rewards. This foundational patent, filed during my tenure at Huawei, pioneered Huawei's ADS 4.0 WEWA architecture (2025).
 
 ### Pseudo-MDPs and Factored Linear Action Models
 **H. Yao**, Cs. Szepesvári, B. A. Pires, X. Zhang  
