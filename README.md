@@ -33,6 +33,7 @@ My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my expl
 
 ### Publication
 
+## Publications
 
 ### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
 **Hengshuai Yao**, Guan Wang, Xing Chen, Ahmed Murtadha  
@@ -43,12 +44,12 @@ We show that attention selection requires only O(log N) dimensions, far fewer th
 
 ---
 
-### [Title of paper from arXiv:2604.03260]
-**[Authors from arXiv:2604.03260]**  
+### Why Attend to Everything? Focus is the Key
+**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Jin Li, Yasin Abbasi Yadkori, Shuai Shao, Changling Liu, Guan Wang, Mingli Yuan, William Chen, Sen Song  
 *2026*  
 [[arXiv](https://arxiv.org/abs/2604.03260)] [[PDF](https://arxiv.org/pdf/2604.03260)]
 
-[Replace this with a three‑sentence summary of the main contribution. Example: "We propose a novel method that... Our experiments show... This approach enables..."]
+Standard attention scales quadratically; we introduce Focus, which learns which token pairs matter via a small set of learnable centroids (acting as gates) with only 148K parameters per layer. Focus composes onto any pretrained model with zero downstream degradation from 124M to 70B parameters, and even outperforms full attention at 124M scale (30.3 vs. 31.4 PPL). It delivers 2× speedup with better quality, and with a FlashAttention decomposition achieves 8.6× speedup at 1M tokens without custom kernels.
 
 ---
 
@@ -64,10 +65,9 @@ We identify that the failure of extreme sparse attention stems from softmax re�
 ### Why Extremely Sparse Attention Failed: Sparse Inference via Learned Scaling
 **Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang  
 *2026*  
-preprint coming soon. 
+*Preprint* (corresponding PDF: `arts_gain.pdf`)
 
 We show that the failure of extreme sparse attention is caused by re‑normalization, not token loss, and propose a lightweight learned correction (ARTS) with per‑dimension scaling and per‑head bias. ARTS preserves quality within 1–2 perplexity points of full attention at 3% tokens across multiple models, and keeps downstream task accuracy within noise. It delivers 6.9× end‑to‑end speedup at 64K context and scales to 1M tokens, with length‑portable calibration and strong needle‑retrieval performance.
-
 
 - [The Vanishing Decision Boundary Complexity and the Strong First Component](http://arxiv.org/abs/2211.16209). Hengshuai Yao. arXiv:2211.16209. 2022. 
 
