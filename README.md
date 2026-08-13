@@ -33,6 +33,42 @@ My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my expl
 
 ### Publication
 
+
+### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
+**Hengshuai Yao**, Guan Wang, Xing Chen, Ahmed Murtadha  
+*2026*  
+[[arXiv](https://arxiv.org/abs/2603.04427)] [[PDF](https://arxiv.org/pdf/2603.04427)]
+
+We show that attention selection requires only O(log N) dimensions, far fewer than value transfer, and exploit this asymmetry to physically shrink the KV cache of any pretrained model. Our factored keys, via SVD and QK fine‑tuning, achieve 75% key cache savings at roughly 2% quality cost. At 128K context, this enables roughly 60% more concurrent users on identical hardware.
+
+---
+
+### [Title of paper from arXiv:2604.03260]
+**[Authors from arXiv:2604.03260]**  
+*2026*  
+[[arXiv](https://arxiv.org/abs/2604.03260)] [[PDF](https://arxiv.org/pdf/2604.03260)]
+
+[Replace this with a three‑sentence summary of the main contribution. Example: "We propose a novel method that... Our experiments show... This approach enables..."]
+
+---
+
+### From 25% to 3% Tokens: Breaking the Sparse Attention Barrier (ARTS)
+**Hengshuai Yao**, Guan Wang, Xing Chen, Ahmed Murtadha  
+*2026*  
+[[arXiv](https://arxiv.org/abs/2604.04516)] [[PDF](https://arxiv.org/pdf/2604.04516)]
+
+We identify that the failure of extreme sparse attention stems from softmax re‑normalization, not token discarding. ARTS replaces re‑normalization with learned per‑head and per‑dimension scaling, achieving extreme sparsity (3% of tokens) within 1‑2 perplexity points of full attention. A fused Triton kernel delivers 56.5× attention speedup at 1M context, scaling where full attention OOMs at 128K.
+
+---
+
+### Why Extremely Sparse Attention Failed: Sparse Inference via Learned Scaling
+**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang  
+*2026*  
+preprint coming soon. 
+
+We show that the failure of extreme sparse attention is caused by re‑normalization, not token loss, and propose a lightweight learned correction (ARTS) with per‑dimension scaling and per‑head bias. ARTS preserves quality within 1–2 perplexity points of full attention at 3% tokens across multiple models, and keeps downstream task accuracy within noise. It delivers 6.9× end‑to‑end speedup at 64K context and scales to 1M tokens, with length‑portable calibration and strong needle‑retrieval performance.
+
+
 - [The Vanishing Decision Boundary Complexity and the Strong First Component](http://arxiv.org/abs/2211.16209). Hengshuai Yao. arXiv:2211.16209. 2022. 
 
 Why do we study the decision boundary? It is an important concept widely used to understand the generalization of machine learning classifiers. For example, it is well known that overfitting leads to complex decision boundaries, e.g., see [this illustration](https://en.wikipedia.org/wiki/Overfitting#/media/File:Overfitting.svg). Usually in machine learning, by comparing the complexity of the decision boundaries of classifiers (on training set), we can predict the order of their generalization performance (on test set). Is that also true for deep learning? This is the motivation of the paper. 
