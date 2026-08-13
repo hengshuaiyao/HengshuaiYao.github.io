@@ -107,7 +107,6 @@ We introduce Deep Deterministic Sampling, a novel approach for efficient neural 
 
 ### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
 **Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang.
-*2026*  
 [[arXiv](https://arxiv.org/abs/2603.04427)] [[PDF](https://arxiv.org/pdf/2603.04427)]
 
 Attention selection needs only O(log N) dimensions, far fewer than value transfer. We factor keys via SVD, absorbing into queries, to shrink KV cache of any pretrained model – achieving 75% key savings at ~2% quality cost, enabling ~60% more concurrent users at 128K context.
