@@ -26,15 +26,6 @@ I am thankful to Csaba my supervisor and lifelong friend to his great family, an
 
 ### Publications
 
-### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
-**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang.
-*2026*  
-[[arXiv](https://arxiv.org/abs/2603.04427)] [[PDF](https://arxiv.org/pdf/2603.04427)]
-
-Attention selection needs only O(log N) dimensions, far fewer than value transfer. We factor keys via SVD, absorbing into queries, to shrink KV cache of any pretrained model – achieving 75% key savings at ~2% quality cost, enabling ~60% more concurrent users at 128K context.
-
----
-
 
 ---
 
@@ -95,6 +86,8 @@ Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin
 
 We tackle few-shot object segmentation by proposing a co-attention mechanism that fuses visual features with semantic word embeddings. This guidance allows the model to focus on relevant regions even with limited labeled support images. Our approach achieves state-of-the-art results on standard few-shot segmentation benchmarks.
 
+---
+
 ### The Sufficiency of Off-policyness: PPO is still insufficient according to an Off-policy Measure
 Xing Chen, Dongcui Diao, Hechang Chen, **Hengshuai Yao**, Jielong Yang, Haiyin Piao, Zhixiao Sun, Randy Goebel, Bei Jiang, Yi Chang  
 *AAAI 2023*  
@@ -106,6 +99,15 @@ PPO’s clipping fails to allow large importance ratios that better policies may
 <img align="center" src="videos/deon_ppo_p3o.png" alt="deon" class="inline"/>
 </div>
 
+
+### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
+**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang.
+*2026*  
+[[arXiv](https://arxiv.org/abs/2603.04427)] [[PDF](https://arxiv.org/pdf/2603.04427)]
+
+Attention selection needs only O(log N) dimensions, far fewer than value transfer. We factor keys via SVD, absorbing into queries, to shrink KV cache of any pretrained model – achieving 75% key savings at ~2% quality cost, enabling ~60% more concurrent users at 128K context.
+
+---
 
 ### Why Attend to Everything? Focus is the Key
 **Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Jin Li, Yasin Abbasi Yadkori, Shuai Shao, Changling Liu, Guan Wang, Mingli Yuan, William Chen, Sen Song  
