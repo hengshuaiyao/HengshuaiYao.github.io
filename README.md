@@ -45,7 +45,7 @@ Focus learns which token pairs matter via learnable centroids (148K params/layer
 ---
 
 ### From 25% to 3% Tokens: Breaking the Sparse Attention Barrier (ARTS)
-**Hengshuai Yao**, Guan Wang, Xing Chen, Ahmed Murtadha  
+**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang. 
 *2026*  
 [[arXiv](https://arxiv.org/abs/2604.04516)] [[PDF](https://arxiv.org/pdf/2604.04516)]
 
