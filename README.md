@@ -20,7 +20,7 @@ The team I lead filed in 2017 ([US20190101917A1](https://patents.google.com/pate
 There is a connection between model-based RL and step-size adaptation; see "Learning to Accelerate" below.
 
 ## Lifelong Acknowledgement
-I am thankful to Csaba my supervisor and lifelong friend to his great family, and a role model. I appreciate Dr. Richard S. Sutton's TD paper which sparked my research interest, and his linear Dyna still inspires me. I am grateful for his acceptance as Ph.D student. Dale, for helping me with my idea of Reinforcement rank, and Andy Barto for his kindness and support on the preconditioning paper – he recommended me to UAlberta. My Tsinghua supervisor, Zengqi Sun (a well-known automatic control scholar and the founder of of Chinese Robocup event), and supported my RL exploration. Dimitri Bertsekas, for his encouragement and scholar influence.
+I am thankful to Csaba, my supervisor, lifelong friend, and role model, and to his great family. I appreciate Dr. Richard S. Sutton's TD paper, which sparked my research interest, and his linear Dyna still inspires me. I am grateful for his acceptance as a Ph.D student. I am thankful to Dale for helping me with my idea of Reinforcement Rank, and to Andy Barto for his kindness and support on the preconditioning paper – he recommended me to UAlberta. My Tsinghua supervisor, Zengqi Sun (a well-known automatic control scholar and the founder of the Chinese Robocup), supported my RL exploration. I also thank Dimitri Bertsekas for his encouragement and scholarly influence.
 
 ---
 
