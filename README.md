@@ -9,9 +9,8 @@ Latest activities:
  - ICML 2027 Area Chair.
 
 ## Research Interests
-**Model-based reinforcement learning**.
 
-I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. I explored RL for NCSoft game studio in San Francisco. I was founding PM of joint lab projects between UAlberta and Huawei Canada, mentored 20 graduate students, and served as adjunct professor at UAlberta. I was principal researcher at Noah's Ark (leading Planning team for Huawei global autonomous driving) and Hisilicon (chipset operator acceleration).
+I worked on multi-step linear Dyna-style planning and model-based approximate policy iteration during my Ph.D. I explored RL for NCSoft game studio in San Francisco. I was founding PM of joint lab projects between UAlberta and Huawei Canada, mentored 20 graduate students, and served as adjunct professor at UAlberta. I was principal researcher at Noah's Ark (leading Planning team for Huawei global autonomous driving) and Hisilicon (chipset operator acceleration).
 
 The team I lead filed in 2017 ([US20190101917A1](https://patents.google.com/patent/US20190101917A1/en)) introduced **model‑based planning** for RL. This philosophy went to commercial in 2025 via Huawei ADS 4.0 **WEWA** architecture (World Engine + World Action Model), as documented in [Huawei 2025 Annual Report](https://www-file.huawei.com/dam/asset/view/dec782afd1544f558c32fc76e3141334.pdf) (p.66), and analyzed by [EEWorld](https://www.eeworld.com.cn/qcdz/eic695593.html). It works by simulating states using the World Action Model component and then training RL based on the simulated experience, showing WEWA mirrors this architectural blueprint in spirit. This validates the foundational design that my Huawei Team pioneered has now been deployed commercially. I now aim to do the same thing to general‑purpose agents.
 
