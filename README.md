@@ -488,10 +488,10 @@ Policy iteration playing Tetris with only hard shapes (S, Z), trained on random 
 - Khuram Javed (Now Cofounder of Oak Lab) – mentored 2019. 
 - Chao Gao (now principal researcher at Huawei Edmonton) – mentored 2019–2020
 - Abhishek Naik – mentored 2019
-- Yangchen Pan – mentored 2019
+- Yangchen Pan (Lecturer of Oxford) – mentored 2019
 - Yi Liu – mentored 2019
 - Nazmus Sakib (graduated 2020, co‑supervised with Hong Zhang)
-- Arash Pourzarabi – deeply missed (PS752).
+- Arash Pourzarabi – deeply missed him (PS752).
 
 ---
 
