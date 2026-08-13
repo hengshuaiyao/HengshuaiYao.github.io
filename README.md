@@ -133,22 +133,6 @@ The first singular value strength correlates with generalization – VGG19 has l
 
 ---
 
-### Class Interference of Deep Neural Networks
-Dongcui Diao, **Hengshuai Yao**, Bei Jiang  
-*2022*  
-[[arXiv](https://arxiv.org/abs/2211.01370)]
-
-We identify **class interference** as the bottleneck – similar classes (CAT–DOG, CAR–TRUCK) interfere, causing most generalization errors. The CCTM metric visualizes this symmetry, and ResNet18 handles interference better than VGG19. This interference is the main source of error, even for human perception.
-
-<div align="center">
-<img align="center" src="videos/cctm.png" alt="cctm" class="inline"/>
-</div>
-<div align="center">
-<img align="center" src="videos/cat_dog_dance.png" width="100%" height="100%" alt="dance" class="inline"/>
-</div>
-
----
-
 ### Learning to Accelerate by the Methods of Step-size Planning
 **Hengshuai Yao**  
 *2022*  
