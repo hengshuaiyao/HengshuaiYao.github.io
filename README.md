@@ -13,7 +13,7 @@ Latest activities:
 **Model-based reinforcement learning**, and **step-size adaptation** are interesting. There is a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
 
 I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I have mentored 20 graduate students from UofA. I was an adjunct professor at Department of Computing Science, University of Alberta. I was a principle researcher when working at  Noah's Ark (leading the Planning team for Huawei Global automonous driving project), and Hisilicon (leading chipset operator acceleration). [One patent](Huawei's action model started from our works at Huawei. 
-https://patents.google.com/patent/US20190101917A1/en) we applied in 2017 was the precuror for the "WEPA" arthitecture.   
+https://patents.google.com/patent/US20190101917A1/en) we applied in 2017 was the precuror for the "WEPA" arthitecture (released in 2025), used for [super-human driving efforts](https://note.com/china_case/n/nc71a1b0f937a?hl=en). Now it's time to scale that superintelligence for agents.    
 
 [My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
 
