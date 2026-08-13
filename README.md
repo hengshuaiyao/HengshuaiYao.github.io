@@ -4,7 +4,7 @@ Hi, my name is Hengshuai Yao. I like to work with full passion, but remind mysel
 
 Latest activities:
 
- - Ragentile Intelligence, Cofounder, on using RL for learning superintelligence.
+ - Ragentile Intelligence, Cofounder, on using RL for learning superintelligence. Announcement coming soon.
  - ICLR 2027 Area Chair.
  - AAAI 2027 reviewer.
  - Neurips 2027 Area Chair.
