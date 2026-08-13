@@ -1,6 +1,6 @@
 <img align="left" src="videos/adm.jpg" width="50%" height="50%" alt="hengshuai yao" HSPACE="40" VSPACE="40" class="inline"/>
 
-Hi, my name is Hengshuai Yao. I like to work with full passion, but remind myself to relax.  
+I like to work with full passion, but remind myself to relax.  
 
 Latest activities:
 
