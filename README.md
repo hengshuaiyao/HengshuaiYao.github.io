@@ -26,47 +26,6 @@ I'm greatly thankful to Andy Barto. Andy is so kind. When I struggled with the i
 
 My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my exploration reinforcement learning. He already retired but I always remember during Robocup 2004 in Portugal, I just briefly mentioned there was something not clear to me in Simon Haykin's neural networks: a comprehensive foundamentation book. He told me just to come to his hotel room and he will explain to me. He did.    
 
-<!-- 
-## My philosophy of being a reviewer and being reviewed 
-Yes, sometimes I am a harsh reviewer too. Generally, I am either a friendly (accept or reject) or a harsh (reject) reviewer. I'm in a harsh mode if I found the paper being reviewed overclaims with either insufficient literature review (reinventing things) or poor evidence supports. 
-
-I think it's Okay to be harsh. **Just please always back up our claims/criticism with evidence** (from where we think there is something wrong with the paper being reviewed, or something that has been done in the literature). 
-
-As an author, I am only annoyed when receiving reviews like "I don't find anything that is good in this paper", without any backup. "The motivation of this paper is not clear", without explaining why, which was confusing because the title and abstract only are very clear about this. One reviewer also asked "why do you study exploration?" (for a reinforcement learning paper), without giving the reason for asking this question. Recently, I have all reviews like this. Had I written a review like the first two, I will back up with: 
-
-- The first idea in the paper is not good because ... (either it is not sound or it has been done) 
-- The algorithm and experiments performed in the paper are not good because ... (either the algorithm is not novel, or experiments were done in a poor manner; e.g., hyper-parameter choices were not well described, or empirical results were not well interpretted; etc. 
-- The motivation is not clear because it is hard to understand ---**Don't forget to explain here**--- e.g., I have difficulty in understanding the concept of "ABC", or the mathematics like equations 1 to 3; etc. I'm always willing to show that I'm dumb in understanding things, because all the authors I reviewed have been very happy to teach me things, as long as I'm giving the specifics. More often than anything, I saw reviews like "the paper is hard to understand" without explanations. It leaves lots of questions for the authors, like, what parts create the difficulty to understand? Without giving explanations, the authors may doubt, which parts of the paper did the reviewer actually read, and how many minutes were spent in reading? It leaves confusion and no room for anyone to learn.    
-
-**Giving specifics in reviews creates opportunities for the authors and the reviewers to communicate ideas and learn from each other**. Without backups, the reviews, even though they can be true, the way they are written, do no good to anybody nor our literature except negative feelings about our research and the community. 
-
-Criticize when we're sure. With evidence. I've seen in literature people have similar frustrations. I think most of us authors are fine of being criticized. The research community is a very open minded group in general. 
-
-This may sound a bit negative, but I really wanna to say this aloud, because I think this is our problem: **As a reviwer, we should be more careful than what is being carried out in literature now: Writing reviews with un-backed up criticism is an insult to the authors** (even if it wasn't meant to). Surely we can tell the authors "don't take it personally." Perhaps, we should be more careful in not emitting the negatiness to authors and ask them to take it positively on their sides? Superficial and unsupported criticism is in fact against the spirit of science. 
-
-Science is not polictics. Science is based on facts, either mathematics or experiments that can be used as facts. Talking in the mind that "I don't like your paper" with a professional tone however don't give backups/facts in reviewing papers is the biggest challenge of our review system. It's Okay that you don't like a paper. **Just please reject nice, reject with a friendly tone (if you can, give hard technical anti-facts; all authors will appreciate and look up to your endeavours and knowledge), tell the authors why, and our reasoning** because it is our responsibility as a reviewer. If we are a reviewer, we are not an ordinary reader.     
-
-I strongly agree readers have different backgrounds and take in different information. **Just please read the paper for more than 10 minutes before starting writing reviews**. Please. Thanks. For the dream of our AI. For someone who is as serious as you in pushing the goals of AI.   
-
-## Could this be a risk for AI literature?
-I don't know if anyone has the same observation and concern with me. I recently submitted to a conference that I never did. The conference is a top and famous one. By accident, after submission, I found someone has 20+ papers in this conference, a single year. This guy also serves an important position at this conference and community. Some of this author's paper are also on arxiv. A few years ago, I also saw some famous author had 13+ papers on ICRA, one year. It is not uncommon these days. Here is the reality of our AI literature: "fame/positions + lab/network scale + arxiv + this review process". 
-
-You don't see this implicit bias in play. Someone serves as the area chair for your paper and this famous author. Both of the papers receive similar scores (both borderline). The AC of course knows this famous author. The AC buzzes the reviewers of this author's paper: Hey, guys, I read your reviews. R1 said something strong about this paper. Could R2 and R3 take a look? R2 and R3 at this stage, are very likely to search and find whether the paper is on arxiv (maybe they have done so before doing reviews). If so, what do you think they will think and what will they do? The AC just didn't do anything about your paper. It is mostly likely a silence even if your rebuttal points out critical problems in the reviewer. I've seen this a few times in my role of being a reviewer (for both kinds of papers). Eventualy, the other one was accepted. Your paper got rejected. This poor "you" are mostly likely a new student or a researcher just into this area, who has no name or not much fame, and possibly just submits one paper and perhaps all by himself/herself.  
-
-I think our literature should rethink whether 20+ or 30+ papers in a single conference (one year!) is a good thing to do or not. Obviously some of these guys are leaders of our community. We follow you. We cite you. We hope you create and improve our publication and review system. 
-
-What kind of contributions could one make across 30 (50?) submissions, with the same deadline? How is that possible to make sure the literature review is sufficient and results (theorems and experiments) are all correct to support valid claims?  In the extreme case, how does one make sure, across this many submissions, none of them takes advantage of other people's work (published and unpulished on arxiv)?
-
-I'm far from someone who can tell this. However, as a middle-aged researcher, I'm really worried about this. I've reviewed so many DRL papers that either reinvent well-known algorithms (sometimes without citing the results in reinforcement learning), or doing empirical works with neural networks without asking interesting questions and not much thinking; etc. If everyone aims to publish **as many papers** and maximize one's impact like this (hopefully not in whatever ways), without aiming to solve a core of fundamental problems and spending years of investigation into relevant literature, the **real AI research** is going to be killed by ourselves.
-
-The review process of an AI paper is like running a deep model. Putting papers on arxiv before submission initializes the model with a different bias. In training the model (reviewing process), reviewers and ACs are both forming the decision boundary, and **regularized** by the bias. Though many researchers put on arxiv, the purposes may be different. 
-
-If you've played this prisoner dilemma (multiple times of submissions) before, the worst result of not arxiving is your idea being stolen (not by text percentage wise, which is easy to detect, but the key stuff in your paper being taken by someone: experiments and derivation, e.g., are done in a different way, etc.). Instead, by putting on arxiv, the worst result is being rejected and you still have your idea recorded in public. Given the huge number of papers accepted for famous authors, it's a reasonable question what are their acceptance rates, and do they have the same motivation with us in putting on arxiv? Who dares to steal ideas from famous authors? Stealing is not allowed for anyone in research btw. My point is not that "who should dare to steal from what". However, the damage to someone who is plagiarized and not famous is way more bigger. In case a famous author got plagiarized, the damage caused is little: the author's career and position won't perhaps be influenced much. 
-
-Finally, to explain why I ask this question: I've read many good and seminal papers by famous people. However, it is also not uncommon to be diappointed by reading some papers from some famous guys who publish so much.           
-
--->
-
 ---
 
 ### Publication
