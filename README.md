@@ -20,7 +20,7 @@ The foundational patent filed in 2017 ([US20190101917A1](https://patents.google.
 There is a connection between model-based RL and step-size adaptation; see "Learning to Accelerate" below.
 
 ## Lifelong Acknowledgement
-I deeply appreciate Dr. Richard S. Sutton – his TD paper sparked my research interest, and his linear Dyna still inspires me. I am grateful for his acceptance as my Ph.D supervisor. I also thank Csaba my supervisor and lifelong friend to his great family, and Dale for helping me with my ideas, and Andy Barto for his kindness and support on the preconditioning paper – he recommended me to UAlberta. My Tsinghua supervisor, Zengqi Sun (a well-known automatic control scholar and the founder of of Chinese Robocup event), and supported my RL exploration.
+I deeply appreciate Dr. Richard S. Sutton – his TD paper sparked my research interest, and his linear Dyna still inspires me. I am grateful for his acceptance as my Ph.D supervisor. I also thank Csaba my supervisor and lifelong friend to his great family, and Dale for helping me with my ideas, and Andy Barto for his kindness and support on the preconditioning paper – he recommended me to UAlberta. My Tsinghua supervisor, Zengqi Sun (a well-known automatic control scholar and the founder of of Chinese Robocup event), and supported my RL exploration. Dimitri Bertsekas, for his encouragement and scholar influence.
 
 ---
 
