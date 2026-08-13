@@ -192,17 +192,6 @@ We apply minimal residual methods to policy evaluation in large sparse Markov ch
 
 
 ---
-Attention
-
-### Weakly Guided Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs
-Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin Jagersand  
-*IJCAI 2020*  
-[[arXiv](https://arxiv.org/abs/2001.09540)]
-
-We tackle few-shot object segmentation by proposing a co-attention mechanism that fuses visual features with semantic word embeddings. This guidance allows the model to focus on relevant regions even with limited labeled support images. Our approach achieves state-of-the-art results on standard few-shot segmentation benchmarks.
-
-
----
 
 
 LLMs
@@ -341,12 +330,24 @@ We introduce a "One-Collection-For-All" framework for off-policy learning with l
 
 ## others
 
+
 ### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
 Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
 *IEEE Access, 2021*  
 [[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
 
 We introduce Deep Deterministic Sampling, a novel approach for efficient neural architecture search. It leverages deterministic policies to navigate the search space, drastically reducing the number of sampled architectures. Our method achieves competitive accuracy with significantly lower computational cost compared to stochastic sampling baselines.
+
+---
+
+
+### Weakly Guided Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs
+Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin Jagersand  
+*IJCAI 2020*  
+[[arXiv](https://arxiv.org/abs/2001.09540)]
+
+We tackle few-shot object segmentation by proposing a co-attention mechanism that fuses visual features with semantic word embeddings. This guidance allows the model to focus on relevant regions even with limited labeled support images. Our approach achieves state-of-the-art results on standard few-shot segmentation benchmarks.
+
 
 ---
 
