@@ -27,7 +27,7 @@ I am thankful to Csaba my supervisor and lifelong friend to his great family, an
 ### Publications
 
 ### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
-**Hengshuai Yao**, Guan Wang, Xing Chen, Ahmed Murtadha  
+**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang.
 *2026*  
 [[arXiv](https://arxiv.org/abs/2603.04427)] [[PDF](https://arxiv.org/pdf/2603.04427)]
 
