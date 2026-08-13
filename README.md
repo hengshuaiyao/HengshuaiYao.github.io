@@ -10,13 +10,15 @@ Latest activities:
 
 
 ## Research Interests
-**Model-based reinforcement learning**, and **step-size adaptation** are interesting. There is a connection between the two seemingly unrelated topics. The "learning to accelerate" paper below has the details. 
+**Model-based reinforcement learning**.
 
 I worked on multi-step linear Dyna-style planning, model-based approximate policy iteration, and a reinforcement learning perspective for PageRank. I explored reinforcement learning for NCSoft game studio in San Francisco. I was the founding PM of a few joint lab projects between University of Alberta and Huawei Technologies Canada. I have mentored 20 graduate students from UofA. I was an adjunct professor at Department of Computing Science, University of Alberta. I was a principle researcher when working at  Noah's Ark (leading the Planning team for Huawei Global automonous driving project), and Hisilicon (leading chipset operator acceleration). 
 
 The foundational patent we filed in 2017 during my tenure at Huawei ([US20190101917A1](https://patents.google.com/patent/US20190101917A1/en)) introduced the core concept of **model‑based planning** for reinforcement learning decisions. This technical philosophy received full commercial validation in 2025 through Huawei's ADS 4.0 **WEWA** architecture (World Engine + World Action Model), as documented in [Huawei's 2025 Annual Report](https://www-file.huawei.com/dam/asset/view/dec782afd1544f558c32fc76e3141334.pdf) (**page 66**). Crucially, as industry analysis highlights ([EEWorld coverage](https://www.eeworld.com.cn/qcdz/eic695593.html)), the World Action Model within WEWA explicitly employs reinforcement learning for real‑time decision‑making, which directly mirrors the methodological approach I pioneered eight years ago. The commercial deployment of this architecture confirms my early thesis that **AI decision‑making must be grounded in a learnable world model**. Today, I aim to transfer this massively‑scaled, proven decision paradigm to embodied intelligence, building the next generation of general‑purpose intelligent agents.
 
-[My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en)  
+[My google scholar](https://scholar.google.ca/citations?user=R_wcnUgAAAAJ&hl=en) 
+
+There is a connection between the model-based reinforcemenent learning and step-size adaptation. The "learning to accelerate" paper below has the details. 
 
 ## Lifelong Acknowledgement 
 I deeply appreciate Dr. Richard S. Sutton. He is the author of Temporal Difference learning, linear Dyna and IDBD, at heart. His TD paper stimulated my first interests in research. I was following some reference in the world Robocup simulation community and found TD. His linear Dyna is still influencing my mind today. I greatly appreciate his acceptance of me as a Ph.D student. 
