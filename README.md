@@ -43,24 +43,6 @@ We present a data perspective for gradient descent, treating step‑sizes as a m
 
 ---
 
-### Understanding and Mitigating the Limitations of Prioritized Replay
-Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, **Hengshuai Yao**, Mohsen Rohani, Jun Luo  
-*UAI 2022*  
-[[OpenReview](https://openreview.net/pdf?id=HBlNGvIicg9)]
-
-We identify fundamental limitations of prioritized replay, including biased updates and reduced sample diversity. We propose a correction method that mitigates these biases while preserving the efficiency gains of prioritization. Experiments demonstrate improved performance and stability over standard prioritized replay across several domains.
-
----
-
-### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
-Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
-*IEEE Access, 2021*  
-[[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
-
-We introduce Deep Deterministic Sampling, a novel approach for efficient neural architecture search. It leverages deterministic policies to navigate the search space, drastically reducing the number of sampled architectures. Our method achieves competitive accuracy with significantly lower computational cost compared to stochastic sampling baselines.
-
----
-
 ### Breaking the Deadly Triad with a Target Network
 Shangtong Zhang, **Hengshuai Yao**, Shimon Whiteson  
 *ICML 2021*  
@@ -98,6 +80,29 @@ PPO’s clipping fails to allow large importance ratios that better policies may
 <div align="center">
 <img align="center" src="videos/deon_ppo_p3o.png" alt="deon" class="inline"/>
 </div>
+
+---
+
+
+
+### Understanding and Mitigating the Limitations of Prioritized Replay
+Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, **Hengshuai Yao**, Mohsen Rohani, Jun Luo  
+*UAI 2022*  
+[[OpenReview](https://openreview.net/pdf?id=HBlNGvIicg9)]
+
+We identify fundamental limitations of prioritized replay, including biased updates and reduced sample diversity. We propose a correction method that mitigates these biases while preserving the efficiency gains of prioritization. Experiments demonstrate improved performance and stability over standard prioritized replay across several domains.
+
+---
+
+### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
+Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
+*IEEE Access, 2021*  
+[[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
+
+We introduce Deep Deterministic Sampling, a novel approach for efficient neural architecture search. It leverages deterministic policies to navigate the search space, drastically reducing the number of sampled architectures. Our method achieves competitive accuracy with significantly lower computational cost compared to stochastic sampling baselines.
+
+---
+
 
 
 ### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
