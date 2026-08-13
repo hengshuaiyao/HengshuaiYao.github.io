@@ -27,7 +27,7 @@ I also greatly appreciate the help from Csaba and Dale in my hard time.  Their m
 
 I'm greatly thankful to Andy Barto. Andy is so kind. When I struggled with the interests on TD and had great trouble in publishing the preconditioning idea, he and his student George Konidaris helped me improve the paper greatly. He also recommended me to come to UofA for studies even though he never met me in person before.       
 
-My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my exploration reinforcement learning. He already retired but I always remember during Robocup 2004 in Portugal, I just briefly mentioned there was something not clear to me in Simon Haykin's neural networks: a comprehensive foundamentation book. He told me just to come to his hotel room and he will explain to me. He did.    
+My supervisor at Tsinghua University, Zengqi Sun, alway supported me for my exploration reinforcement learning. He already retired but I always remember him.    
 
 ---
 
