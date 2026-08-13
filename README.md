@@ -30,7 +30,7 @@ I am thankful to Csaba, my supervisor, lifelong friend, and role model, and to h
 Optimization
 
 ### Learning to Accelerate by the Methods of Step-size Planning
-**Hengshuai Yao**  
+**H. Yao**  
 *2022*  
 [[arXiv](https://arxiv.org/abs/2204.01705)]
 
@@ -53,7 +53,7 @@ We propose LMS-2, an adaptive filtering algorithm combining the computational ef
 RL
 
 ### Breaking the Deadly Triad with a Target Network
-Shangtong Zhang, **Hengshuai Yao**, Shimon Whiteson  
+S. Zhang, **H. Yao**, S. Whiteson  
 *ICML 2021*  
 [[arXiv](https://arxiv.org/abs/2101.08862)]
 
@@ -62,7 +62,7 @@ The "deadly triad" of off-policy learning, function approximation, and bootstrap
 ---
 
 ### Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation
-Shangtong Zhang, Bo Liu, **Hengshuai Yao**, Shimon Whiteson  
+S. Zhang, B. Liu, **H. Yao**, S. Whiteson  
 *ICML 2020*  
 [[arXiv](https://arxiv.org/abs/1911.04384)]
 
@@ -70,7 +70,7 @@ We propose a novel off-policy actor-critic algorithm that operates on two timesc
 
 
 ### The Sufficiency of Off-policyness: PPO is still insufficient according to an Off-policy Measure
-Xing Chen, Dongcui Diao, Hechang Chen, **Hengshuai Yao**, Jielong Yang, Haiyin Piao, Zhixiao Sun, Randy Goebel, Bei Jiang, Yi Chang  
+X. Chen, D. Diao, H. Chen, **H. Yao**, J. Yang, H. Piao, Z. Sun, R. Goebel, B. Jiang, Y. Chang  
 *AAAI 2023*  
 [[PDF](https://arxiv.org/pdf/2205.10047.pdf)]
 
@@ -83,7 +83,7 @@ PPO’s clipping fails to allow large importance ratios that better policies may
 ---
 
 ### Understanding and Mitigating the Limitations of Prioritized Replay
-Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, **Hengshuai Yao**, Mohsen Rohani, Jun Luo  
+Y. Pan, J. Mei, A. Farahmand, M. White, **H. Yao**, M. Rohani, J. Luo  
 *UAI 2022*  
 [[OpenReview](https://openreview.net/pdf?id=HBlNGvIicg9)]
 
@@ -92,7 +92,7 @@ We identify fundamental limitations of prioritized replay, including biased upda
 
 
 ### Hill-climbing on Value Estimates for Search-control in Dyna
-Yangchen Pan, **Hengshuai Yao**, Amir Masoud Farahmand, Martha White  
+Y. Pan, **H. Yao**, A. Farahmand, M. White  
 *IJCAI 2019, Macau*  
 [[PDF](https://webdocs.cs.ualberta.ca/~whitem/publications/pan2019hill.pdf)]
 
@@ -101,7 +101,7 @@ We propose a hill-climbing method for search-control in Dyna architectures by di
 ---
 
 ### Distributional Reinforcement Learning for Efficient Exploration
-Borislav Mavrin, Shangtong Zhang, **Hengshuai Yao**, Linglong Kong, Kaiwen Wu, Yaoliang Yu  
+B. Mavrin, S. Zhang, **H. Yao**, L. Kong, K. Wu, Y. Yu  
 *ICML 2019, Long Beach*  
 [[arXiv](https://arxiv.org/abs/1905.06125)]
 
@@ -114,7 +114,7 @@ We use the learned value distribution to construct confidence intervals for expl
 ---
 
 ### Deep Reinforcement Learning with Decorrelation
-Borislav Mavrin, **Hengshuai Yao**, Linglong Kong  
+B. Mavrin, **H. Yao**, L. Kong  
 *2019*  
 [[arXiv](https://arxiv.org/abs/1903.07765)]
 
@@ -127,7 +127,7 @@ We show that feature correlations in deep RL can harm learning efficiency and st
 ---
 
 ### Reinforcing Classical Planning for Adversary Driving Scenarios
-Nazmus Sakib, **Hengshuai Yao**, Hong Zhang  
+N. Sakib, **H. Yao**, H. Zhang  
 *Preprint 2019*  
 [[PDF](papers/iros_final.pdf)]
 
@@ -140,7 +140,7 @@ We combine classical planning with reinforcement learning to handle adversary dr
 ---
 
 ### Exploration in the face of Parametric and Intrinsic Uncertainties
-Borislav Mavrin, Shangtong Zhang, **Hengshuai Yao**, Linglong Kong  
+B. Mavrin, S. Zhang, **H. Yao**, L. Kong  
 *AAMAS 2019, Montreal*  
 [[PDF](papers/dltv_aamas19.pdf)]
 
@@ -149,7 +149,7 @@ We study the exploration problem in the presence of both parametric and intrinsi
 ---
 
 ### ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search
-Shangtong Zhang, Hao Chen, **Hengshuai Yao**  
+S. Zhang, H. Chen, **H. Yao**  
 *AAAI 2019, Honolulu*  
 [[arXiv](https://arxiv.org/abs/1811.02696)]
 
@@ -158,7 +158,7 @@ We propose ACE, a novel algorithm combining an ensemble of actors with tree sear
 ---
 
 ### QUOTA: The Quantile Option Architecture for Reinforcement Learning
-Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, **Hengshuai Yao**  
+S. Zhang, B. Mavrin, L. Kong, B. Liu, **H. Yao**  
 *AAAI 2019 (Oral), Honolulu*  
 [[arXiv](https://arxiv.org/abs/1811.02073)]
 
@@ -197,7 +197,7 @@ We apply minimal residual methods to policy evaluation in large sparse Markov ch
 LLMs
 
 ### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
-**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang.
+**H. Yao**, X. Chen, A. Murtadha, G. Wang.
 [[arXiv](https://arxiv.org/abs/2603.04427)] [[PDF](https://arxiv.org/pdf/2603.04427)]
 
 Attention selection needs only O(log N) dimensions, far fewer than value transfer. We factor keys via SVD, absorbing into queries, to shrink KV cache of any pretrained model – achieving 75% key savings at ~2% quality cost, enabling ~60% more concurrent users at 128K context.
@@ -205,7 +205,7 @@ Attention selection needs only O(log N) dimensions, far fewer than value transfe
 ---
 
 ### Why Attend to Everything? Focus is the Key
-**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Jin Li, Yasin Abbasi Yadkori, Shuai Shao, Changling Liu, Guan Wang, Mingli Yuan, William Chen, Sen Song*2026*  [[arXiv](https://arxiv.org/abs/2604.03260)] [[PDF](https://arxiv.org/pdf/2604.03260)]
+**H. Yao**, X. Chen, A. Murtadha, J. Li, Y. Abbasi Yadkori, S. Shao, C. Liu, G. Wang, M. Yuan, W. Chen, S. Song*2026*  [[arXiv](https://arxiv.org/abs/2604.03260)] [[PDF](https://arxiv.org/pdf/2604.03260)]
 
 Focus learns which token pairs matter via learnable centroids (148K params/layer) – it composes onto any pretrained model with zero downstream degradation from 124M to 70B, outperforming full attention at 124M scale (30.3 vs 31.4 PPL). It delivers 2× speedup with better quality, and 8.6× at 1M tokens via FlashAttention decomposition, without custom kernels.
 
@@ -214,7 +214,7 @@ Focus learns which token pairs matter via learnable centroids (148K params/layer
 Autonoumous Driving and robots
 
 ### Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans
-Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, **Hengshuai Yao**, Martin Jagersand  
+J. Jin, N. M. Nguyen, N. Sakib, D. Graves, **H. Yao**, M. Jagersand  
 *ICRA 2020, Paris*  
 [[arXiv](https://arxiv.org/abs/1911.03074)]
 
@@ -265,7 +265,7 @@ We investigate practical challenges in action-conditioned next image prediction,
 ---
 
 ### Method of Selection of an Action Using a Neural Network
-**Hengshuai Yao**, Hao Chen, Seyed Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang  
+**H. Yao**, H. Chen, S. M. Nosrati, P. Yadmellat, Y. Zhang  
 *2017*  
 [[Patent](https://patents.google.com/patent/US20190101917A1/en)]
 
@@ -337,7 +337,7 @@ others
 
 
 ### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
-Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
+K. G. Mills, M. Salameh, D. Niu, F. X. Han, S. Rezaei, **H. Yao**, S. Jui  
 *IEEE Access, 2021*  
 [[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
 
@@ -347,7 +347,7 @@ We introduce Deep Deterministic Sampling, a novel approach for efficient neural 
 
 
 ### Weakly Guided Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs
-Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin Jagersand  
+M. Siam, N. Doraiswamy, B. N. Oreshkin, **H. Yao**, M. Jagersand  
 *IJCAI 2020*  
 [[arXiv](https://arxiv.org/abs/2001.09540)]
 
@@ -357,7 +357,7 @@ We tackle few-shot object segmentation by proposing a co-attention mechanism tha
 ---
 
 ### Negative Log Likelihood Ratio Loss for Deep Neural Network Classification
-**Hengshuai Yao**, Donglai Zhu, Bei Jiang, Peng Yu  
+**H. Yao**, D. Zhu, B. Jiang, P. Yu  
 *FTC 2019, San Francisco*  
 [[arXiv](https://arxiv.org/pdf/1804.10690.pdf)]
 
