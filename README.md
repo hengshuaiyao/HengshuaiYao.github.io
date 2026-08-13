@@ -167,12 +167,16 @@ Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, **Hengshuai Ya
 *UAI 2022*  
 [[OpenReview](https://openreview.net/pdf?id=HBlNGvIicg9)]
 
+We identify fundamental limitations of prioritized replay, including biased updates and reduced sample diversity. We propose a correction method that mitigates these biases while preserving the efficiency gains of prioritization. Experiments demonstrate improved performance and stability over standard prioritized replay across several domains.
+
 ---
 
 ### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
 Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
 *IEEE Access, 2021*  
 [[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
+
+We introduce Deep Deterministic Sampling, a novel approach for efficient neural architecture search. It leverages deterministic policies to navigate the search space, drastically reducing the number of sampled architectures. Our method achieves competitive accuracy with significantly lower computational cost compared to stochastic sampling baselines.
 
 ---
 
@@ -181,12 +185,16 @@ Shangtong Zhang, **Hengshuai Yao**, Shimon Whiteson
 *ICML 2021*  
 [[arXiv](https://arxiv.org/abs/2101.08862)]
 
+The "deadly triad" of off-policy learning, function approximation, and bootstrapping is known to cause instability and divergence. We prove that using a target network effectively breaks this triad, guaranteeing convergence under standard linear function approximation settings. Our analysis provides a new theoretical foundation for the empirical success of target networks in deep RL.
+
 ---
 
 ### Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation
 Shangtong Zhang, Bo Liu, **Hengshuai Yao**, Shimon Whiteson  
 *ICML 2020*  
 [[arXiv](https://arxiv.org/abs/1911.04384)]
+
+We propose a novel off-policy actor-critic algorithm that operates on two timescales and provably converges with linear function approximation. The fast timescale updates the critic while the slow timescale updates the actor, ensuring stability. We validate the theoretical guarantees on standard benchmark tasks, showing robust performance.
 
 ---
 
@@ -195,12 +203,16 @@ Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin
 *IJCAI 2020*  
 [[arXiv](https://arxiv.org/abs/2001.09540)]
 
+We tackle few-shot object segmentation by proposing a co-attention mechanism that fuses visual features with semantic word embeddings. This guidance allows the model to focus on relevant regions even with limited labeled support images. Our approach achieves state-of-the-art results on standard few-shot segmentation benchmarks.
+
 ---
 
 ### Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans
 Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, **Hengshuai Yao**, Martin Jagersand  
 *ICRA 2020, Paris*  
 [[arXiv](https://arxiv.org/abs/1911.03074)]
+
+We present a RL-based framework for mapless navigation in dynamic environments using only 2D laser scans. The policy integrates a social-safety-awareness module to avoid collisions with moving pedestrians. Experiments in simulated and real-world scenarios demonstrate effective, collision-free navigation.
 
 <div align="center">
 <iframe width="678" height="381" src="https://www.youtube.com/embed/SJYDiNjwYSQ" frameborder="0" allowfullscreen></iframe>
@@ -212,6 +224,8 @@ Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, **Hengshuai Yao**, Martin 
 Yangchen Pan, **Hengshuai Yao**, Amir Masoud Farahmand, Martha White  
 *IJCAI 2019, Macau*  
 [[PDF](https://webdocs.cs.ualberta.ca/~whitem/publications/pan2019hill.pdf)]
+
+We propose a hill-climbing method for search-control in Dyna architectures by directly optimizing over value estimates to select which simulated experiences to generate. This improves the computational efficiency of planning while maintaining policy quality. The approach offers a lightweight, computationally cheaper alternative to more expensive tree-based planning methods.
 
 ---
 
@@ -233,6 +247,8 @@ Borislav Mavrin, **Hengshuai Yao**, Linglong Kong
 *2019*  
 [[arXiv](https://arxiv.org/abs/1903.07765)]
 
+We show that feature correlations in deep RL can harm learning efficiency and stability. We propose a regularization term that decorrelates features during training, improving sample complexity and final performance on several Atari games. This method is orthogonal to existing DQN variants and can be easily integrated with them.
+
 <div align="center">
 <img align="center" src="videos/dqn_decor.png" alt="decor" class="inline"/>
 </div>
@@ -243,6 +259,8 @@ Borislav Mavrin, **Hengshuai Yao**, Linglong Kong
 Nazmus Sakib, **Hengshuai Yao**, Hong Zhang  
 *Preprint 2019*  
 [[PDF](papers/iros_final.pdf)]
+
+We combine classical planning with reinforcement learning to handle adversary driving scenarios. The RL component learns robust policies in complex, dynamic environments while leveraging classical planners for safety-critical constraints. Experimental results validate the effectiveness of the hybrid approach in simulated adversarial situations.
 
 <div align="center">
 <iframe align="middle" width="750" height="400" src="https://www.youtube.com/embed/9BFYX1WRjtA" frameborder="0" allowfullscreen></iframe>
@@ -255,12 +273,16 @@ Borislav Mavrin, Shangtong Zhang, **Hengshuai Yao**, Linglong Kong
 *AAMAS (poster) 2019, Montreal*  
 [[PDF](papers/dltv_aamas19.pdf)]
 
+We study the exploration problem in the presence of both parametric and intrinsic uncertainties. The proposed method combines count-based exploration with uncertainty estimation to improve sample efficiency. It shows robust performance on both continuous control tasks and tabular settings.
+
 ---
 
 ### ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search
 Shangtong Zhang, Hao Chen, **Hengshuai Yao**  
 *AAAI 2019, Honolulu*  
 [[arXiv](https://arxiv.org/abs/1811.02696)]
+
+We propose ACE, a novel algorithm combining an ensemble of actors with tree search for continuous control. The ensemble reduces variance in policy gradients while tree search refines action selection via look-ahead planning. This approach achieves state-of-the-art performance on challenging MuJoCo environments.
 
 ---
 
@@ -269,12 +291,16 @@ Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, **Hengshuai Yao**
 *AAAI 2019 (Oral), Honolulu*  
 [[arXiv](https://arxiv.org/abs/1811.02073)]
 
+QUOTA extends quantile temporal-difference learning by integrating it with the options framework. It learns a set of quantile options, allowing richer hierarchical exploration and decision-making across multiple time scales. Experiments demonstrate improved performance over standard options and quantile methods.
+
 ---
 
 ### Negative Log Likelihood Ratio Loss for Deep Neural Network Classification
 **Hengshuai Yao**, Donglai Zhu, Bei Jiang, Peng Yu  
 *FTC 2019, San Francisco*  
 [[arXiv](https://arxiv.org/pdf/1804.10690.pdf)]
+
+We propose a novel loss function for classification, the Negative Log Likelihood Ratio (NLLR) loss, which directly penalizes inter-class confusion. NLLR improves discriminative power on hard samples compared to standard cross-entropy. We demonstrate its superiority on multiple image classification datasets.
 
 ---
 
@@ -283,12 +309,16 @@ C. Chen, J. Qian, **H. Yao**, J. Luo, H. Zhang, W. Liu
 *NIPS Workshop MLITS 2018*  
 [[OpenReview](https://openreview.net/forum?id=SJe9yugRcm)]
 
+We apply reinforcement learning to comprehensive lane-change decision-making for autonomous driving. The policy learns safe and efficient lane-changing behavior in highway environments while dealing with dynamic traffic flows. Preliminary experiments demonstrate the superiority of the learning-based approach over rule-based heuristics.
+
 ---
 
 ### Monte-Carlo Tree Search vs. Model-Predictive Controller: A Track-Following Example
 **H. Yao**, M. Nasrati, K. Rezaee  
 *NIPS Workshop MLITS 2017*  
 [[OpenReview](https://openreview.net/forum?id=SyiF5-23Z&noteId=S1y46fu1M)]
+
+We empirically compare Monte-Carlo Tree Search and Model-Predictive Control on a track-following task. Our analysis shows that MCTS can offer performance advantages over traditional MPC under non-linear and uncertain dynamics. This study provides insights into the choice of real-time planning algorithms for autonomous driving.
 
 <div align="center">
 <iframe align="center" width="630" height="474" src="https://www.youtube.com/embed/YP7qPJSJAVU" frameborder="0" allowfullscreen></iframe>
@@ -301,12 +331,16 @@ D. Zhu, H. Chen, **H. Yao**, M. Nosrati, P. Yadmellat, Y. Zhang
 *ITSC 2018*  
 [[arXiv](https://arxiv.org/abs/1802.02975)]
 
+We investigate practical challenges in action-conditioned next image prediction, such as prediction ambiguity and compounding errors. We propose mitigation strategies to stabilize training and improve prediction quality. Our findings are critical for model-based visual RL applications.
+
 ---
 
 ### Pseudo-MDPs and Factored Linear Action Models
 **H. Yao**, Cs. Szepesvári, B. A. Pires, X. Zhang  
 *IEEE ADPRL 2014 (Best student paper nomination), Orlando*  
 [[PDF](papers/pmdp.pdf)]
+
+We introduce the Pseudo-MDP framework along with Factored Linear Action Models (LAM) for efficient generalization in high-dimensional state spaces. The model approximates transition dynamics via linear factors, enabling efficient planning. The method demonstrates strong sample efficiency and planning capabilities in several simulated environments.
 
 ---
 
@@ -315,11 +349,15 @@ D. Zhu, H. Chen, **H. Yao**, M. Nosrati, P. Yadmellat, Y. Zhang
 *NIPS 2014, Montreal*  
 [[PDF](papers/uom.pdf)]
 
+We propose Universal Option Models (UOMs) for learning transferable options in reinforcement learning. UOMs predict the outcome state after an option terminates via a low-rank approximation of the option's internal dynamics. This enables effective transfer learning and accelerates planning in new tasks.
+
 ---
 
 ### A System to Predict Future Popularity: Learning to Classify
 C. Lee, **H. Yao**, X. He, C. Su, J-Y. Chang  
 *WWW (poster) 2014, Seoul*  
+
+We build a system to predict the future popularity of search engine queries. The system classifies time-series patterns into different growth categories, powering Yahoo's "TrendingNow" feature. This approach enables precise bursty topic detection from early-stage data.
 
 ---
 
@@ -328,12 +366,16 @@ C. Lee, **H. Yao**, X. He, C. Su, J-Y. Chang
 *2014*  
 [[PDF](papers/citation.pdf)]
 
+We model citation count prediction as a temporal decision problem and use reinforcement learning to optimize the prediction policy. The model learns to adaptively integrate the influence of past citation trends. Results demonstrate improved prediction accuracy over standard regression baselines.
+
 ---
 
 ### Reinforcement Ranking
 **H. Yao**, D. Schuurmans  
 *2013*  
 [[PDF](papers/rr.pdf)]
+
+We propose a reinforcement learning approach for ranking, directly optimizing the ranked list for information retrieval. The policy optimizes long-term cumulative gains rather than single-step relevance. This allows the model to learn more robust and adaptive ranking strategies.
 
 ---
 
@@ -342,6 +384,8 @@ C. Lee, **H. Yao**, X. He, C. Su, J-Y. Chang
 *AAAI 2012, Toronto*  
 [[PDF](papers/lamapi.pdf)]
 
+We develop an approximate policy iteration algorithm for problems with large action spaces using Linear Action Models (LAMs). LAMs efficiently predict the next state and reward given the current state and action. The algorithm demonstrates convergence and effectiveness on classic RL benchmarks.
+
 ---
 
 ### MaxRank: Discovering and Leveraging the Most Valuable Links for Ranking
@@ -349,11 +393,15 @@ C. Lee, **H. Yao**, X. He, C. Su, J-Y. Chang
 *2012*  
 [[PDF](papers/maxrank.pdf)]
 
+We study the problem of discovering and leveraging the most valuable links in web graphs for ranking. The method optimizes link weights based on their contribution to overall network structure. It provides a new way to improve convergence speed and accuracy of ranking algorithms like PageRank.
+
 ---
 
 ### Linear least-squares Dyna-style planning
 **H. Yao**  
 *Technical Report TR11-04, UAlberta, 2011*
+
+We propose a least-squares Dyna planning algorithm for linear function approximation settings. The algorithm efficiently learns the transition model from simulated experience via least-squares regression. This paves the way for efficient and scalable planning in online settings.
 
 ---
 
@@ -362,11 +410,15 @@ C. Lee, **H. Yao**, X. He, C. Su, J-Y. Chang
 *ICML Workshop on Planning and Acting with Uncertain Models, 2011*  
 [[PDF](papers/one_collection_for_all.pdf)]
 
+We introduce a "One-Collection-For-All" framework for off-policy learning with linear action models. This framework enables efficient evaluation of multiple target policies using data from a single behavior policy. It significantly reduces the data collection cost for off-policy evaluation.
+
 ---
 
 ### Dyna(k): A multi-step Dyna planning
 **H. Yao**, R. S. Sutton, S. Bhatnagar, D. Diao, Cs. Szepesvári  
 *ICML Workshop on Abstraction in RL, 2009, Montreal*
+
+We extend the Dyna architecture with multi-step lookahead. Instead of one-step simulations, Dyna(k) simulates k steps of the transition model to generate deeper planning data. This simple extension leads to faster policy convergence on several benchmark tasks.
 
 ---
 
@@ -374,11 +426,15 @@ C. Lee, **H. Yao**, X. He, C. Su, J-Y. Chang
 **H. Yao**, S. Bhatnagar, D. Diao  
 *NIPS 2009, Vancouver*
 
+We extend linear Dyna planning to multi-step lookahead. By simulating multiple steps, the algorithm captures long-term dynamics more accurately, improving policy estimation. Experiments verify its superior efficiency over the one-step counterpart.
+
 ---
 
 ### LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS
 **H. Yao**, S. Bhatnagar, Cs. Szepesvári  
 *CDC 2009, Shanghai*
+
+We propose LMS-2, an adaptive filtering algorithm combining the computational efficiency of LMS with the faster convergence of RLS. The algorithm achieves this through a multi-step update scheme. Theoretical analysis and simulations confirm its superior tracking performance.
 
 ---
 
@@ -387,6 +443,8 @@ C. Lee, **H. Yao**, X. He, C. Su, J-Y. Chang
 *MSRL 2009, Montreal*  
 [[PDF](papers/direct_preconditioning.pdf)]
 
+We propose a direct preconditioning method to accelerate temporal difference learning. By applying a preconditioning matrix, we significantly reduce the condition number of the gradient updates. This effectively mitigates the slow convergence commonly observed in TD methods.
+
 ---
 
 ### Preconditioned temporal difference learning
@@ -394,12 +452,16 @@ C. Lee, **H. Yao**, X. He, C. Su, J-Y. Chang
 *ICML 2008, Helsinki*  
 [[PDF](papers/ptd.pdf)]
 
+We introduce Preconditioned TD (PTD), which applies a parameter-space transformation to accelerate learning in RL. The preconditioner approximates the inverse covariance of the TD update direction. PTD shows significantly faster convergence than standard TD on several tasks, including stochastic optimal control problems.
+
 ---
 
 ### Minimal residual approaches for policy evaluation in large sparse Markov chains
 **H. Yao**, Z-Q. Liu  
 *ISAIM 2008, Fort Lauderdale*  
 [[PDF](papers/mr.pdf)]
+
+We apply minimal residual methods to policy evaluation in large sparse Markov chains. By directly optimizing the Bellman residual, we provide a stable alternative to LSTD. The algorithm is computationally more efficient and scales well to high-dimensional problems.
 
 ---
 
@@ -436,10 +498,10 @@ Policy iteration playing Tetris with only hard shapes (S, Z), trained on random 
 
 ---
 
-### Students Collaborated with
+### Scholars/Engineers Collaborated with
 - Shangtong Zhang (now prof at UVA) – mentored 2018
 - Mennatullah Siam (postdoc York) – mentored 2019
-- Khuram Javed – mentored 2019
+- Khuram Javed – mentored 2019. Cofounder of Oak Lab. 
 - Chao Gao (now principal researcher at Huawei Edmonton) – mentored 2019–2020
 - Abhishek Naik – mentored 2019
 - Yangchen Pan – mentored 2019
