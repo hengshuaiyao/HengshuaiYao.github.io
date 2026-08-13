@@ -25,10 +25,9 @@ I am thankful to Csaba my supervisor and lifelong friend to his great family, an
 ---
 
 ### Publications
-
-
 ---
 
+Optimization
 
 ### Learning to Accelerate by the Methods of Step-size Planning
 **Hengshuai Yao**  
@@ -41,7 +40,17 @@ We present a data perspective for gradient descent, treating step‑sizes as a m
 <img align="center" src="videos/csawg_illustration.png" alt="csawg" class="inline"/>
 </div>
 
+
+### LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS
+**H. Yao**, S. Bhatnagar, Cs. Szepesvári  
+*CDC 2009, Shanghai*
+
+We propose LMS-2, an adaptive filtering algorithm combining the computational efficiency of LMS with the faster convergence of RLS. The algorithm achieves this through a multi-step update scheme. Theoretical analysis and simulations confirm its superior tracking performance.
+
+
 ---
+
+RL
 
 ### Breaking the Deadly Triad with a Target Network
 Shangtong Zhang, **Hengshuai Yao**, Shimon Whiteson  
@@ -59,16 +68,6 @@ Shangtong Zhang, Bo Liu, **Hengshuai Yao**, Shimon Whiteson
 
 We propose a novel off-policy actor-critic algorithm that operates on two timescales and provably converges with linear function approximation. The fast timescale updates the critic while the slow timescale updates the actor, ensuring stability. We validate the theoretical guarantees on standard benchmark tasks, showing robust performance.
 
----
-
-### Weakly Guided Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs
-Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin Jagersand  
-*IJCAI 2020*  
-[[arXiv](https://arxiv.org/abs/2001.09540)]
-
-We tackle few-shot object segmentation by proposing a co-attention mechanism that fuses visual features with semantic word embeddings. This guidance allows the model to focus on relevant regions even with limited labeled support images. Our approach achieves state-of-the-art results on standard few-shot segmentation benchmarks.
-
----
 
 ### The Sufficiency of Off-policyness: PPO is still insufficient according to an Off-policy Measure
 Xing Chen, Dongcui Diao, Hechang Chen, **Hengshuai Yao**, Jielong Yang, Haiyin Piao, Zhixiao Sun, Randy Goebel, Bei Jiang, Yi Chang  
@@ -83,8 +82,6 @@ PPO’s clipping fails to allow large importance ratios that better policies may
 
 ---
 
-
-
 ### Understanding and Mitigating the Limitations of Prioritized Replay
 Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, **Hengshuai Yao**, Mohsen Rohani, Jun Luo  
 *UAI 2022*  
@@ -92,110 +89,7 @@ Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand, Martha White, **Hengshuai Ya
 
 We identify fundamental limitations of prioritized replay, including biased updates and reduced sample diversity. We propose a correction method that mitigates these biases while preserving the efficiency gains of prioritization. Experiments demonstrate improved performance and stability over standard prioritized replay across several domains.
 
----
 
-### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
-Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
-*IEEE Access, 2021*  
-[[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
-
-We introduce Deep Deterministic Sampling, a novel approach for efficient neural architecture search. It leverages deterministic policies to navigate the search space, drastically reducing the number of sampled architectures. Our method achieves competitive accuracy with significantly lower computational cost compared to stochastic sampling baselines.
-
----
-
-
-
-### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
-**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang.
-[[arXiv](https://arxiv.org/abs/2603.04427)] [[PDF](https://arxiv.org/pdf/2603.04427)]
-
-Attention selection needs only O(log N) dimensions, far fewer than value transfer. We factor keys via SVD, absorbing into queries, to shrink KV cache of any pretrained model – achieving 75% key savings at ~2% quality cost, enabling ~60% more concurrent users at 128K context.
-
----
-
-### Why Attend to Everything? Focus is the Key
-**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Jin Li, Yasin Abbasi Yadkori, Shuai Shao, Changling Liu, Guan Wang, Mingli Yuan, William Chen, Sen Song  
-*2026*  
-[[arXiv](https://arxiv.org/abs/2604.03260)] [[PDF](https://arxiv.org/pdf/2604.03260)]
-
-Focus learns which token pairs matter via learnable centroids (148K params/layer) – it composes onto any pretrained model with zero downstream degradation from 124M to 70B, outperforming full attention at 124M scale (30.3 vs 31.4 PPL). It delivers 2× speedup with better quality, and 8.6× at 1M tokens via FlashAttention decomposition, without custom kernels.
-
-
----
-
-### The Vanishing Decision Boundary Complexity and the Strong First Component
-**Hengshuai Yao**  
-*2022*  
-[[arXiv](https://arxiv.org/abs/2211.16209)]
-
-Traditional wisdom says overfitting leads to complex decision boundaries. For well‑trained deep models, however, decision boundaries become perfectly linear (in PCA space) despite 100% training accuracy – so the boundary‑complexity vs generalization link breaks. Instead, the strength of the first principal component correlates with generalization. Videos below show class separation along PC1.
-
-<div align="center">
-<img align="center" src="videos/pca2_cat_dog.png" alt="pca" class="inline"/>
-</div>
-<div align="center">
-<img align="center" src="videos/pca2_cat_vs_others.png" alt="others" class="inline"/>
-</div>
-
-**Decision boundary evolution (VGG19):**
-
-CAT–PLANE:
-<div align="center">
-<iframe width="678" height="381" src="https://www.youtube.com/embed/-jnh5Bo9sTQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
-CAT–DOG:
-<div align="center">
-<iframe width="678" height="381" src="https://www.youtube.com/embed/OA7fCDpL5Rc" frameborder="0" allowfullscreen></iframe>
-</div>
-
-**ResNet18:**
-
-CAT–PLANE:
-<div align="center">
-<iframe width="678" height="381" src="https://www.youtube.com/embed/Ks93drvvEDE" frameborder="0" allowfullscreen></iframe>
-</div>
-
-CAT–DOG:
-<div align="center">
-<iframe width="678" height="381" src="https://www.youtube.com/embed/jH3EGZM2mWI" frameborder="0" allowfullscreen></iframe>
-</div>
-
-**Adam optimizer (VGG19 & ResNet18):**
-
-CAT–DOG (VGG19, Adam):
-<div align="center">
-<iframe width="678" height="381" src="https://www.youtube.com/embed/BEIRoP2dBIo" frameborder="0" allowfullscreen></iframe>
-</div>
-
-CAT–DOG (ResNet18, Adam):
-<div align="center">
-<iframe width="678" height="381" src="https://www.youtube.com/embed/21MpKOnlF98" frameborder="0" allowfullscreen></iframe>
-</div>
-
-The first singular value strength correlates with generalization – VGG19 has larger first singular value than better‑generalizing ResNet18 and DLA.
-
-<div align="center">
-<img align="center" src="videos/strength_1st_component.png" alt="sv" class="inline"/>
-</div>
-
----
-
-
----
-
-### Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans
-Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, **Hengshuai Yao**, Martin Jagersand  
-*ICRA 2020, Paris*  
-[[arXiv](https://arxiv.org/abs/1911.03074)]
-
-We present a RL-based framework for mapless navigation in dynamic environments using only 2D laser scans. The policy integrates a social-safety-awareness module to avoid collisions with moving pedestrians. Experiments in simulated and real-world scenarios demonstrate effective, collision-free navigation.
-
-<div align="center">
-<iframe width="678" height="381" src="https://www.youtube.com/embed/SJYDiNjwYSQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
----
 
 ### Hill-climbing on Value Estimates for Search-control in Dyna
 Yangchen Pan, **Hengshuai Yao**, Amir Masoud Farahmand, Martha White  
@@ -247,7 +141,7 @@ We combine classical planning with reinforcement learning to handle adversary dr
 
 ### Exploration in the face of Parametric and Intrinsic Uncertainties
 Borislav Mavrin, Shangtong Zhang, **Hengshuai Yao**, Linglong Kong  
-*AAMAS (poster) 2019, Montreal*  
+*AAMAS 2019, Montreal*  
 [[PDF](papers/dltv_aamas19.pdf)]
 
 We study the exploration problem in the presence of both parametric and intrinsic uncertainties. The proposed method combines count-based exploration with uncertainty estimation to improve sample efficiency. It shows robust performance on both continuous control tasks and tabular settings.
@@ -270,16 +164,81 @@ Shangtong Zhang, Borislav Mavrin, Linglong Kong, Bo Liu, **Hengshuai Yao**
 
 QUOTA extends quantile temporal-difference learning by integrating it with the options framework. It learns a set of quantile options, allowing richer hierarchical exploration and decision-making across multiple time scales. Experiments demonstrate improved performance over standard options and quantile methods.
 
+
+### Temporal difference learning by direct preconditioning
+**H. Yao**, S. Bhatnagar, Cs. Szepesvári  
+*MSRL 2009, Montreal*  
+[[PDF](papers/direct_preconditioning.pdf)]
+
+We propose a direct preconditioning method to accelerate temporal difference learning. By applying a preconditioning matrix, we significantly reduce the condition number of the gradient updates. This effectively mitigates the slow convergence commonly observed in TD methods.
+
 ---
 
-### Negative Log Likelihood Ratio Loss for Deep Neural Network Classification
-**Hengshuai Yao**, Donglai Zhu, Bei Jiang, Peng Yu  
-*FTC 2019, San Francisco*  
-[[arXiv](https://arxiv.org/pdf/1804.10690.pdf)]
+### Preconditioned temporal difference learning
+**H. Yao**, Z-Q. Liu  
+*ICML 2008, Helsinki*  
+[[PDF](papers/ptd.pdf)]
 
-We propose a novel loss function for classification, the Negative Log Likelihood Ratio (NLLR) loss, which directly penalizes inter-class confusion. NLLR improves discriminative power on hard samples compared to standard cross-entropy. We demonstrate its superiority on multiple image classification datasets.
+We introduce Preconditioned TD (PTD), which applies a parameter-space transformation to accelerate learning in RL. The preconditioner approximates the inverse covariance of the TD update direction. PTD shows significantly faster convergence than standard TD on several tasks, including stochastic optimal control problems.
 
 ---
+
+### Minimal residual approaches for policy evaluation in large sparse Markov chains
+**H. Yao**, Z-Q. Liu  
+*ISAIM 2008, Fort Lauderdale*  
+[[PDF](papers/mr.pdf)]
+
+We apply minimal residual methods to policy evaluation in large sparse Markov chains. By directly optimizing the Bellman residual, we provide a stable alternative to LSTD. The algorithm is computationally more efficient and scales well to high-dimensional problems.
+
+
+---
+Attention
+
+### Weakly Guided Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs
+Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, **Hengshuai Yao**, Martin Jagersand  
+*IJCAI 2020*  
+[[arXiv](https://arxiv.org/abs/2001.09540)]
+
+We tackle few-shot object segmentation by proposing a co-attention mechanism that fuses visual features with semantic word embeddings. This guidance allows the model to focus on relevant regions even with limited labeled support images. Our approach achieves state-of-the-art results on standard few-shot segmentation benchmarks.
+
+
+---
+
+
+LLMs
+
+### Thin Keys, Full Values: Reducing KV Cache via Low‑Dimensional Attention Selection
+**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Guan Wang.
+[[arXiv](https://arxiv.org/abs/2603.04427)] [[PDF](https://arxiv.org/pdf/2603.04427)]
+
+Attention selection needs only O(log N) dimensions, far fewer than value transfer. We factor keys via SVD, absorbing into queries, to shrink KV cache of any pretrained model – achieving 75% key savings at ~2% quality cost, enabling ~60% more concurrent users at 128K context.
+
+---
+
+### Why Attend to Everything? Focus is the Key
+**Hengshuai Yao**, Xing Chen, Ahmed Murtadha, Jin Li, Yasin Abbasi Yadkori, Shuai Shao, Changling Liu, Guan Wang, Mingli Yuan, William Chen, Sen Song  
+*2026*  
+[[arXiv](https://arxiv.org/abs/2604.03260)] [[PDF](https://arxiv.org/pdf/2604.03260)]
+
+Focus learns which token pairs matter via learnable centroids (148K params/layer) – it composes onto any pretrained model with zero downstream degradation from 124M to 70B, outperforming full attention at 124M scale (30.3 vs 31.4 PPL). It delivers 2× speedup with better quality, and 8.6× at 1M tokens via FlashAttention decomposition, without custom kernels.
+
+
+---
+Autonoumous Driving and robots
+
+### Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans
+Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, **Hengshuai Yao**, Martin Jagersand  
+*ICRA 2020, Paris*  
+[[arXiv](https://arxiv.org/abs/1911.03074)]
+
+We present a RL-based framework for mapless navigation in dynamic environments using only 2D laser scans. The policy integrates a social-safety-awareness module to avoid collisions with moving pedestrians. Experiments in simulated and real-world scenarios demonstrate effective, collision-free navigation.
+
+<div align="center">
+<iframe width="678" height="381" src="https://www.youtube.com/embed/SJYDiNjwYSQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
+
 
 ### Towards Comprehensive Maneuver Decisions for Lane Change Using Reinforcement Learning
 C. Chen, J. Qian, **H. Yao**, J. Luo, H. Zhang, W. Liu  
@@ -301,6 +260,12 @@ We empirically compare Monte-Carlo Tree Search and Model-Predictive Control on a
 <iframe align="center" width="630" height="474" src="https://www.youtube.com/embed/YP7qPJSJAVU" frameborder="0" allowfullscreen></iframe>
 </div>
 
+
+---
+
+World Models
+
+
 ---
 
 ### Practical Issues of Action-conditioned Next Image Prediction
@@ -319,6 +284,22 @@ We investigate practical challenges in action-conditioned next image prediction,
 
 We introduce the Pseudo-MDP framework along with Factored Linear Action Models (LAM) for efficient generalization in high-dimensional state spaces. The model approximates transition dynamics via linear factors, enabling efficient planning. The method demonstrates strong sample efficiency and planning capabilities in several simulated environments.
 
+
+### Dyna(k): A multi-step Dyna planning
+**H. Yao**, R. S. Sutton, S. Bhatnagar, D. Diao, Cs. Szepesvári  
+*ICML Workshop on Abstraction in RL, 2009, Montreal*
+
+We extend the Dyna architecture with multi-step lookahead. Instead of one-step simulations, Dyna(k) simulates k steps of the transition model to generate deeper planning data. This simple extension leads to faster policy convergence on several benchmark tasks.
+
+---
+
+### Multi-step linear Dyna-style planning
+**H. Yao**, S. Bhatnagar, D. Diao  
+*NIPS 2009, Vancouver*
+
+We extend linear Dyna planning to multi-step lookahead. By simulating multiple steps, the algorithm captures long-term dynamics more accurately, improving policy estimation. Experiments verify its superior efficiency over the one-step counterpart.
+
+
 ---
 
 ### Universal Option Models
@@ -327,6 +308,54 @@ We introduce the Pseudo-MDP framework along with Factored Linear Action Models (
 [[PDF](papers/uom.pdf)]
 
 We propose Universal Option Models (UOMs) for learning transferable options in reinforcement learning. UOMs predict the outcome state after an option terminates via a low-rank approximation of the option's internal dynamics. This enables effective transfer learning and accelerates planning in new tasks.
+
+
+---
+
+### Approximate Policy Iteration with Linear Action Models
+**H. Yao**, Cs. Szepesvári  
+*AAAI 2012, Toronto*  
+[[PDF](papers/lamapi.pdf)]
+
+We develop an approximate policy iteration algorithm for problems with large action spaces using Linear Action Models (LAMs). LAMs efficiently predict the next state and reward given the current state and action. The algorithm demonstrates convergence and effectiveness on classic RL benchmarks.
+
+---
+
+
+### Linear least-squares Dyna-style planning
+**H. Yao**  
+*Technical Report TR11-04, UAlberta, 2011*
+
+We propose a least-squares Dyna planning algorithm for linear function approximation settings. The algorithm efficiently learns the transition model from simulated experience via least-squares regression. This paves the way for efficient and scalable planning in online settings.
+
+---
+
+### Off-policy learning with linear action models: an efficient "One-Collection-For-All-Solution"
+**H. Yao**  
+*ICML Workshop on Planning and Acting with Uncertain Models, 2011*  
+[[PDF](papers/one_collection_for_all.pdf)]
+
+We introduce a "One-Collection-For-All" framework for off-policy learning with linear action models. This framework enables efficient evaluation of multiple target policies using data from a single behavior policy. It significantly reduces the data collection cost for off-policy evaluation.
+
+---
+
+## others
+
+### Exploring Neural Architecture Search Space via Deep Deterministic Sampling
+Keith G. Mills, Mohhamad Salameh, Di Niu, Fred X. Han, Seyed Rezaei, **Hengshuai Yao**, Shangling Jui  
+*IEEE Access, 2021*  
+[[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503404)]
+
+We introduce Deep Deterministic Sampling, a novel approach for efficient neural architecture search. It leverages deterministic policies to navigate the search space, drastically reducing the number of sampled architectures. Our method achieves competitive accuracy with significantly lower computational cost compared to stochastic sampling baselines.
+
+---
+
+### Negative Log Likelihood Ratio Loss for Deep Neural Network Classification
+**Hengshuai Yao**, Donglai Zhu, Bei Jiang, Peng Yu  
+*FTC 2019, San Francisco*  
+[[arXiv](https://arxiv.org/pdf/1804.10690.pdf)]
+
+We propose a novel loss function for classification, the Negative Log Likelihood Ratio (NLLR) loss, which directly penalizes inter-class confusion. NLLR improves discriminative power on hard samples compared to standard cross-entropy. We demonstrate its superiority on multiple image classification datasets.
 
 ---
 
@@ -356,89 +385,12 @@ We propose a reinforcement learning approach for ranking, directly optimizing th
 
 ---
 
-### Approximate Policy Iteration with Linear Action Models
-**H. Yao**, Cs. Szepesvári  
-*AAAI 2012, Toronto*  
-[[PDF](papers/lamapi.pdf)]
-
-We develop an approximate policy iteration algorithm for problems with large action spaces using Linear Action Models (LAMs). LAMs efficiently predict the next state and reward given the current state and action. The algorithm demonstrates convergence and effectiveness on classic RL benchmarks.
-
----
-
 ### MaxRank: Discovering and Leveraging the Most Valuable Links for Ranking
 **H. Yao**  
 *2012*  
 [[PDF](papers/maxrank.pdf)]
 
 We study the problem of discovering and leveraging the most valuable links in web graphs for ranking. The method optimizes link weights based on their contribution to overall network structure. It provides a new way to improve convergence speed and accuracy of ranking algorithms like PageRank.
-
----
-
-### Linear least-squares Dyna-style planning
-**H. Yao**  
-*Technical Report TR11-04, UAlberta, 2011*
-
-We propose a least-squares Dyna planning algorithm for linear function approximation settings. The algorithm efficiently learns the transition model from simulated experience via least-squares regression. This paves the way for efficient and scalable planning in online settings.
-
----
-
-### Off-policy learning with linear action models: an efficient "One-Collection-For-All-Solution"
-**H. Yao**  
-*ICML Workshop on Planning and Acting with Uncertain Models, 2011*  
-[[PDF](papers/one_collection_for_all.pdf)]
-
-We introduce a "One-Collection-For-All" framework for off-policy learning with linear action models. This framework enables efficient evaluation of multiple target policies using data from a single behavior policy. It significantly reduces the data collection cost for off-policy evaluation.
-
----
-
-### Dyna(k): A multi-step Dyna planning
-**H. Yao**, R. S. Sutton, S. Bhatnagar, D. Diao, Cs. Szepesvári  
-*ICML Workshop on Abstraction in RL, 2009, Montreal*
-
-We extend the Dyna architecture with multi-step lookahead. Instead of one-step simulations, Dyna(k) simulates k steps of the transition model to generate deeper planning data. This simple extension leads to faster policy convergence on several benchmark tasks.
-
----
-
-### Multi-step linear Dyna-style planning
-**H. Yao**, S. Bhatnagar, D. Diao  
-*NIPS 2009, Vancouver*
-
-We extend linear Dyna planning to multi-step lookahead. By simulating multiple steps, the algorithm captures long-term dynamics more accurately, improving policy estimation. Experiments verify its superior efficiency over the one-step counterpart.
-
----
-
-### LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS
-**H. Yao**, S. Bhatnagar, Cs. Szepesvári  
-*CDC 2009, Shanghai*
-
-We propose LMS-2, an adaptive filtering algorithm combining the computational efficiency of LMS with the faster convergence of RLS. The algorithm achieves this through a multi-step update scheme. Theoretical analysis and simulations confirm its superior tracking performance.
-
----
-
-### Temporal difference learning by direct preconditioning
-**H. Yao**, S. Bhatnagar, Cs. Szepesvári  
-*MSRL 2009, Montreal*  
-[[PDF](papers/direct_preconditioning.pdf)]
-
-We propose a direct preconditioning method to accelerate temporal difference learning. By applying a preconditioning matrix, we significantly reduce the condition number of the gradient updates. This effectively mitigates the slow convergence commonly observed in TD methods.
-
----
-
-### Preconditioned temporal difference learning
-**H. Yao**, Z-Q. Liu  
-*ICML 2008, Helsinki*  
-[[PDF](papers/ptd.pdf)]
-
-We introduce Preconditioned TD (PTD), which applies a parameter-space transformation to accelerate learning in RL. The preconditioner approximates the inverse covariance of the TD update direction. PTD shows significantly faster convergence than standard TD on several tasks, including stochastic optimal control problems.
-
----
-
-### Minimal residual approaches for policy evaluation in large sparse Markov chains
-**H. Yao**, Z-Q. Liu  
-*ISAIM 2008, Fort Lauderdale*  
-[[PDF](papers/mr.pdf)]
-
-We apply minimal residual methods to policy evaluation in large sparse Markov chains. By directly optimizing the Bellman residual, we provide a stable alternative to LSTD. The algorithm is computationally more efficient and scales well to high-dimensional problems.
 
 ---
 
