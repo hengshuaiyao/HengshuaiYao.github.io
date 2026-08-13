@@ -264,6 +264,13 @@ We investigate practical challenges in action-conditioned next image prediction,
 
 ---
 
+### Method of Selection of an Action Using a Neural Network
+**Hengshuai Yao**, Hao Chen, Seyed Masoud Nosrati, Peyman Yadmellat, Yunfei Zhang  
+*2017*  
+[[Patent](https://patents.google.com/patent/US20190101917A1/en)]
+
+We introduce a novel method for action selection in reinforcement learning using a neural network that learns a model of the environment's dynamics (model‑based RL). The method enables efficient planning by simulating future states and selecting actions that optimize long‑term rewards. This foundational patent, filed during my tenure at Huawei, directly informed the model‑based planning philosophy later validated in Huawei's ADS 4.0 WEWA architecture.
+
 ### Pseudo-MDPs and Factored Linear Action Models
 **H. Yao**, Cs. Szepesvári, B. A. Pires, X. Zhang  
 *IEEE ADPRL 2014 (Best student paper nomination), Orlando*  
