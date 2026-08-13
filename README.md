@@ -485,7 +485,7 @@ Policy iteration playing Tetris with only hard shapes (S, Z), trained on random 
 ### Scholars/Engineers Collaborated with
 - Shangtong Zhang (now prof at UVA) – mentored 2018
 - Mennatullah Siam (postdoc York) – mentored 2019
-- Khuram Javed – mentored 2019. Cofounder of Oak Lab. 
+- Khuram Javed (Now Cofounder of Oak Lab) – mentored 2019. 
 - Chao Gao (now principal researcher at Huawei Edmonton) – mentored 2019–2020
 - Abhishek Naik – mentored 2019
 - Yangchen Pan – mentored 2019
