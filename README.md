@@ -432,16 +432,16 @@ Policy iteration playing Tetris with only hard shapes (S, Z), trained on random 
 
 ---
 
-### Scholars/Engineers Collaborated with
-- Shangtong Zhang (now prof at UVA) – mentored 2018
-- Mennatullah Siam (postdoc York) – mentored 2019
-- Khuram Javed (Now Cofounder of Oak Lab) – mentored 2019. 
-- Chao Gao (now principal researcher at Huawei Edmonton) – mentored 2019–2020
-- Abhishek Naik – mentored 2019
-- Yangchen Pan (Lecturer of Oxford) – mentored 2019
-- Yi Liu – mentored 2019
-- Nazmus Sakib (graduated 2020, co‑supervised with Hong Zhang)
-- Arash Pourzarabi – deeply missed him (PS752).
+### Scholars/Engineers I had the honor to have collaborated with
+- Shangtong Zhang (now prof at UVA) – 2018-2020
+- Mennatullah Siam (postdoc York) – 2019
+- Khuram Javed (Now Cofounder of Oak Lab) –  2019. 
+- Chao Gao (now principal researcher at Huawei Edmonton) – 2019–2020
+- Abhishek Naik – 2019
+- Yangchen Pan (Lecturer of Oxford) – 2019
+- Yi Liu – 2019
+- Nazmus Sakib (GM Toronto) - 2019-2020
+- Arash Pourzarabi – a very smart and nice guy. I deeply missed him (PS752). 2019-2020
 
 ---
 
