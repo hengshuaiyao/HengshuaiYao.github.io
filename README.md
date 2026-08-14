@@ -26,29 +26,6 @@ I am thankful to Csaba, my supervisor, lifelong friend, and role model, and to h
 ### Publications
 ---
 
-Optimization
-
-### Learning to Accelerate by the Methods of Step-size Planning
-**H. Yao**  
-*2022*  
-[[arXiv](https://arxiv.org/abs/2204.01705)]
-
-We present a data perspective for gradient descent, treating step‑sizes as a multi‑step transition model. Diagonal step‑size matrices have the same projection power as full matrices (O(n) vs O(n²)), allowing exact acceleration. Negative step‑sizes can benefit both deterministic and stochastic settings.
-
-<div align="center">
-<img align="center" src="videos/csawg_illustration.png" alt="csawg" class="inline"/>
-</div>
-
-
-### LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS
-**H. Yao**, S. Bhatnagar, Cs. Szepesvári  
-*CDC 2009, Shanghai*
-
-We propose LMS-2, an adaptive filtering algorithm combining the computational efficiency of LMS with the faster convergence of RLS. The algorithm achieves this through a multi-step update scheme. Theoretical analysis and simulations confirm its superior tracking performance.
-
-
----
-
 RL
 
 ### Breaking the Deadly Triad with a Target Network
@@ -191,6 +168,32 @@ We apply minimal residual methods to policy evaluation in large sparse Markov ch
 
 
 ---
+
+Optimization
+
+### Learning to Accelerate by the Methods of Step-size Planning
+**H. Yao**  
+*2022*  
+[[arXiv](https://arxiv.org/abs/2204.01705)]
+
+We present a data perspective for gradient descent, treating step‑sizes as a multi‑step transition model. Diagonal step‑size matrices have the same projection power as full matrices (O(n) vs O(n²)), allowing exact acceleration. Negative step‑sizes can benefit both deterministic and stochastic settings.
+
+<div align="center">
+<img align="center" src="videos/csawg_illustration.png" alt="csawg" class="inline"/>
+</div>
+
+
+### LMS-2: towards an algorithm that is as cheap as LMS and almost as efficient as RLS
+**H. Yao**, S. Bhatnagar, Cs. Szepesvári  
+*CDC 2009, Shanghai*
+
+We propose LMS-2, an adaptive filtering algorithm combining the computational efficiency of LMS with the faster convergence of RLS. The algorithm achieves this through a multi-step update scheme. Theoretical analysis and simulations confirm its superior tracking performance.
+
+
+---
+
+
+
 
 
 LLMs
