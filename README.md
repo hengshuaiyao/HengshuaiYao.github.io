@@ -219,9 +219,6 @@ J. Jin, N. M. Nguyen, N. Sakib, D. Graves, **H. Yao**, M. Jagersand
 
 We present a RL-based framework for mapless navigation in dynamic environments using only 2D laser scans. The policy integrates a social-safety-awareness module to avoid collisions with moving pedestrians. Experiments in simulated and real-world scenarios demonstrate effective, collision-free navigation.
 
-<div align="center">
-<iframe width="678" height="381" src="https://www.youtube.com/embed/SJYDiNjwYSQ" frameborder="0" allowfullscreen></iframe>
-</div>
 
 ---
 
